@@ -1,66 +1,8 @@
 municipality,type,iata_code,latitude_deg,longitude_deg,iso_country
-Utirik Island,small_airport,UTK,11.222,169.852005,MH
-Berwick,heliport,,41.066861,-76.180806,US
-Lebanon,heliport,,36.898,-82.078,US
-Palmer,small_airport,,61.66830063,-149.1880035,US
-Pilot Station,small_airport,PQS,61.934601,-162.899994,US
-Gettysburg,heliport,,39.8495,-77.184167,US
-Melville,heliport,,40.7975502014,-73.4179000854,US
-Nunapitchuk,small_airport,NUP,60.905591,-162.440454,US
-Port Protection,seaplane_base,PPV,56.328800201416,-133.61000061035,US
-Stonewall,small_airport,,30.2323611,-98.6549722,US
-Broussard,heliport,,30.076753,-91.948969,US
-Wilmington,heliport,,34.316552,-77.768284,US
-Atmautluak,small_airport,ATT,60.866699,-162.272996,US
-Ouzinkie,small_airport,KOZ,57.942094,-152.464314,US
-Salem,heliport,,44.912,-123.001502752,US
-Hyder,seaplane_base,WHD,55.903324,-130.009975,US
-Sylvan Beach,small_airport,,43.224244,-75.675528,US
 Aleknagik,medium_airport,WKK,59.2826004028,-158.617996216,US
-Ketchikan,seaplane_base,WFB,55.349899,-131.677002,US
-New York,heliport,TSS,40.74259948730469,-73.97209930419922,US
-New York,seaplane_base,QNY,40.735061,-73.972814,US
-Tatitlek,small_airport,TEK,60.871449,-146.690297,US
-Castle Rock,heliport,,39.344239,-104.841906,US
-Chuathbaluk,small_airport,CHU,61.579102,-159.216003,US
-Levelock,small_airport,KLL,59.12606,-156.860906,US
-Chignik Lake,small_airport,KCQ,56.2550010681,-158.774993896,US
-Batha,small_airport,,24.214693,51.44989,SA
-Algeciras,heliport,,36.12882,-5.441079,ES
-Qara Tepa,heliport,,37.423302,69.430298,AF
-Bila,small_airport,AFT,-9.19138888889,160.948611111,SB
-Atoifi,small_airport,ATD,-8.87333,161.011002,SB
-Auki,small_airport,AKS,-8.70257,160.682007,SB
-Anua,small_airport,BNY,-11.302222222200001,159.798333333,SB
-,small_airport,CHY,-6.711944,156.396111,SB
-Ballalae,small_airport,BAS,-6.990745,155.886656,SB
-Fera Island,small_airport,FRE,-8.1075,159.576996,SB
 Honiara,large_airport,HIR,-9.428,160.054993,SB
-Mbambanakira,small_airport,MBU,-9.7475004196167,159.83900451660156,SB
-Kirakira,small_airport,IRA,-10.449700355500001,161.897994995,SB
-Santa Cruz/Graciosa Bay/Luova,small_airport,SCZ,-10.72029972076416,165.7949981689453,SB
 Munda,medium_airport,MUA,-8.32797,157.263,SB
-Gizo,small_airport,GZO,-8.09778022766,156.863998413,SB
-Stirling Island,small_airport,MNY,-7.416940212249756,155.56500244140625,SB
-Rennell Island,small_airport,RNL,-11.533900260925293,160.06300354003906,SB
-Santa Ana Island,small_airport,NNB,-10.847994,162.454108,SB
-Marau,small_airport,RUS,-9.861669540409999,160.824996948,SB
-Suavanao,small_airport,VAO,-7.585559844970703,158.7310028076172,SB
-Yandina,small_airport,XYA,-9.092816,159.21841,SB
-Kagau Island,small_airport,KGE,-7.3305,157.585,SB
-Gatokae,small_airport,GTA,-8.738358,158.202836,SB
-Ramata,small_airport,RBV,-8.168060302734375,157.64300537109375,SB
-Bigatyelang Island,small_airport,AIC,7.279422,168.8257,MH
-Amook Bay,seaplane_base,AOS,57.4715003967,-153.815002441,US
-Puerto Peñasco,small_airport,PPE,31.351987,-113.305177,MX
 Yaren District,medium_airport,INU,-0.547458,166.919006,NR
-Merlo,small_airport,,-32.35820007324219,-65.01740264892578,AR
-San Andrés de Giles,small_airport,,-34.470347,-59.42461,AR
-,small_airport,,-42.521363,-68.287861,AR
-Aitape,small_airport,ATP,-3.1436111111100002,142.346805556,PG
-Cosmo Newbery,small_airport,GYZ,-28.034548,123.81506,AU
-Karara,small_airport,KQR,-29.217223,116.687154,AU
-Hayman Island,seaplane_base,HIS,-20.059999465942383,148.88099670410156,AU
 Bayanhot,medium_airport,AXF,38.74831,105.58858,CN
 Buka Island,medium_airport,BUA,-5.4223198890686035,154.67300415039062,PG
 Kundiawa,medium_airport,CMU,-6.024290084838867,144.9709930419922,PG
@@ -69,107 +11,35 @@ Goronka,medium_airport,GKA,-6.081689834590001,145.391998291,PG
 Gurney,medium_airport,GUR,-10.3114995956,150.333999634,PG
 Popondetta,medium_airport,PNP,-8.80453968048,148.309005737,PG
 Kimbe,medium_airport,HKN,-5.463846,150.407327,PG
-Kieta,small_airport,KIE,-6.305417,155.728139,PG
-Losuia,small_airport,LSA,-8.505820274353027,151.08099365234375,PG
-Kiunga,small_airport,UNG,-6.1257100105285645,141.28199768066406,PG
-Kikori,small_airport,KRI,-7.424379825592041,144.2500762939453,PG
 Kerema,medium_airport,KMA,-7.96361017227,145.770996094,PG
 Kavieng,medium_airport,KVG,-2.57940006256,150.807998657,PG
-Londolovit,small_airport,LNV,-3.04361009598,152.628997803,PG
 Madang,medium_airport,MAG,-5.20707988739,145.789001465,PG
 Mount Hagen,medium_airport,HGU,-5.828212,144.299412,PG
 Mendi,medium_airport,MDU,-6.14774,143.656998,PG
 Manus Island,medium_airport,MAS,-2.06189,147.423996,PG
-Moro,small_airport,MXH,-6.36332988739,143.238006592,PG
-Misima Island,small_airport,MIS,-10.689200401299999,152.837997437,PG
 Lae,medium_airport,LAE,-6.569803,146.725977,PG
 Port Moresby,large_airport,POM,-9.443380355834961,147.22000122070312,PG
-Tari,small_airport,TIZ,-5.84499979019,142.947998047,PG
-Tabubil,small_airport,TBG,-5.27861,141.225998,PG
-Tapini,small_airport,TPI,-8.35666666667,146.989166667,PG
 Kokopo,medium_airport,RAB,-4.34046,152.380005,PG
 Vanimo,medium_airport,VAI,-2.6926,141.3028,PG
 Wapenamanda,medium_airport,WBM,-5.635293,143.892231,PG
 Wewak,medium_airport,WWK,-3.58383011818,143.669006348,PG
-Fatima Mission,small_airport,WTP,-8.54583333333,147.2525,PG
-Yasuru,small_airport,KSX,-6.6015,146.1813,PG
 Benguera Island,medium_airport,BCW,-21.853300094604492,35.43830108642578,MZ
 Aasiaat,medium_airport,JEG,68.721802,-52.784698,GL
-Aappilattoq,heliport,AOQ,72.88703,-55.596287,GL
-Tasiilaq,heliport,AGM,65.612296,-37.618335,GL
-Alluitsup Paa,heliport,,60.46445,-45.56917,GL
-Aappilattoq,heliport,,60.148357,-44.286916,GL
-Ammassivik,heliport,,60.597376,-45.382445,GL
-Attu,heliport,QGQ,67.940663,-53.62187,GL
 Narsarsuaq,medium_airport,UAK,61.1605,-45.425999,GL
-Qasigiannguit,heliport,JCH,68.822816,-51.173447,GL
-Neerlerit Inaat,small_airport,CNP,70.743103,-22.650499,GL
-Eqalugaarsuit,heliport,QFG,60.61972,-45.914062,GL
-Narsarmijit,heliport,,60.004694,-44.656935,GL
 Nuuk,medium_airport,GOH,64.193022,-51.676512,GL
-Qeqertarsuaq,heliport,JGO,69.251182,-53.514876,GL
-Ikerasak,heliport,IKE,70.498145,-51.303084,GL
-Iginniarfik,heliport,QFI,68.147226,-53.173528,GP
-Ikerassaarsuk,heliport,QRY,68.140881,-53.441459,GL
-Ilimanaq,heliport,XIQ,69.080915,-51.114315,GL
-Innarsuit,heliport,IUI,73.199895,-56.010817,GL
-Isortoq,heliport,IOQ,65.547792,-38.976552,GL
-Ikamiut,heliport,QJI,68.634253,-51.832262,GL
-Qaqortoq,heliport,JJU,60.715684,-46.029919,GL
-Ilulissat,small_airport,JAV,69.243202,-51.057098,GL
-Kangaatsiaq,heliport,QPW,68.312657,-53.460208,GL
 Kulusuk,medium_airport,KUS,65.573601,-37.1236,GL
-Upernavik Kujalleq,heliport,,72.152743,-55.530986,GL
-Kuummiut,heliport,KUZ,65.863935,-36.997919,GL
-Kullorsuaq,heliport,KHQ,74.57805,-57.226828,GL
-Kangersuatsiaq,heliport,KGQ,72.381092,-55.536586,GL
-Kitsissuarsuit,heliport,QJE,68.857926,-53.123295,GL
-Moriusaq,heliport,,76.753492,-69.845055,GL
-Maniitsoq,small_airport,JSU,65.412498,-52.9394,GL
-Niaqornaarsuk,heliport,,68.236381,-52.852148,GL
-Nuugaatsiaq,heliport,JUU,71.538769,-53.205038,GL
-Narsaq,heliport,JNS,60.917283,-46.059923,GL
-Niaqornat,heliport,NIQ,70.789385,-53.662945,GL
-Nuussuaq,heliport,NSQ,74.109853,-57.065037,GL
-Paamiut,small_airport,JFR,62.014736,-49.670937,GL
-Qeqertaq,heliport,PQT,69.995861,-51.300917,GL
-Qaanaaq,small_airport,NAQ,77.488602,-69.388702,GL
-Ittoqqortoormiit,heliport,OBY,70.488229,-21.97168,GL
 Kangerlussuaq,medium_airport,SFJ,67.010446,-50.715294,GL
-Sermiligaaq,heliport,,65.90592,-36.378254,GL
-Siorapaluk,heliport,SRK,77.786517,-70.638657,GL
-Saqqaq,heliport,,70.011448,-51.932142,GL
 Sisimiut,medium_airport,JHS,66.951302,-53.729301,GL
-Saattut,heliport,SAE,70.811172,-51.63129,GL
-Savissivik,heliport,SVR,76.018613,-65.117683,GL
 Pituffik,medium_airport,THU,76.531197,-68.703201,GL
-Tiniteqilaaq,heliport,TQI,65.892027,-37.783409,GL
-Tasiusak,heliport,,60.194305,-44.813447,GL
-Upernavik,small_airport,JUV,72.790199,-56.1306,GL
-Uummannaq,heliport,UMD,70.680428,-52.11163,GL
-Uummannaq,small_airport,JQA,70.7342,-52.696201,GL
-Ukkusissat,heliport,JUK,71.049438,-51.890016,GL
 Akureyri,medium_airport,AEY,65.66000366210938,-18.07270050048828,IS
 Egilsstaðir,medium_airport,EGS,65.2833023071289,-14.401399612426758,IS
-Grímsey,small_airport,GRY,66.5458,-18.0173,IS
 Höfn,medium_airport,HFN,64.295601,-15.2272,IS
 Húsavík,medium_airport,HZK,65.952301,-17.426001,IS
 Ísafjörður,medium_airport,IFJ,66.05809783935547,-23.135299682617188,IS
 Reykjavík,large_airport,KEF,63.985001,-22.6056,IS
 Reykjavik,medium_airport,RKV,64.1299972534,-21.9405994415,IS
-Þórshöfn,small_airport,THO,66.218498,-15.3356,IS
-Vopnafjörður,small_airport,VPN,65.72059631347656,-14.850600242614746,IS
-Bentota,seaplane_base,BJT,6.431,79.996,LK
 Prishtina,medium_airport,PRN,42.5728,21.035801,XK
-Bamburi,small_airport,BMQ,-3.983363,39.730982,KE
-Bosset,small_airport,BOT,-7.237257,141.1063222,PG
-Medianeira,heliport,,-25.27427,-54.067369,BR
-Campos do Jordão,heliport,,-22.7384254,-45.540062,BR
-Aéreas do CBMSC,heliport,,-27.614324,-48.528333,BR
 Vitória da Conquista,medium_airport,VDC,-14.907885,-40.914804,BR
-Ubaíra,small_airport,,-13.240032,-39.759292,BR
-Bimini,seaplane_base,NSB,25.767000198364258,-79.25,BS
-Belmopan,small_airport,BCV,17.269603,-88.776496,BZ
 Big Creek,medium_airport,BGK,16.519369,-88.407913,BZ
 Caye Caulker,medium_airport,CUK,17.735015,-88.032862,BZ
 Caye Chapel,medium_airport,CYC,17.683792,-88.044985,BZ
@@ -181,38 +51,15 @@ Sartaneja,medium_airport,SJX,18.35610008239746,-88.13079833984375,BZ
 San Pedro,medium_airport,SPR,17.9139,-87.9711,BZ
 Belize City,medium_airport,TZA,17.517239,-88.195775,BZ
 Bamfield,medium_airport,,48.8206,-125.1193,CA
-Bedwell Harbour,seaplane_base,YBW,48.75,-123.233001709,CA
-Nanaimo,seaplane_base,ZNA,49.169813,-123.933845,CA
-Trail,small_airport,YZZ,49.055599,-117.609001,CA
-Whistler,seaplane_base,YWS,50.1436004639,-122.948997498,CA
 Anahim Lake,medium_airport,YAA,52.451501,-125.303776,CA
-Vancouver,seaplane_base,,49.177047,-123.168154,CA
-Salt Spring Island,seaplane_base,YGG,48.8545,-123.4969,CA
 Cache Creek,medium_airport,YZA,50.775258,-121.321314,CA
 Bella Bella,medium_airport,ZEL,52.185001,-128.156994,CA
-Port Alberni,small_airport,YPB,49.321899,-124.931,CA
-Williams Harbour,small_airport,YWM,52.567377,-55.784883,CA
-Postville,small_airport,YSO,54.9105,-59.78507,CA
-St. Lewis,small_airport,YFX,52.372798919677734,-55.67390060424805,CA
-Port Hope Simpson,small_airport,YHA,52.528099060058594,-56.28609848022461,CA
-Campbell River,heliport,,50.0413226692,-125.268448144,CA
-Comox,seaplane_base,,49.670601,-124.932999,CA
-Rigolet,small_airport,YRG,54.1796989440918,-58.45750045776367,CA
-Whatì,small_airport,YLE,63.13169860839844,-117.24600219726562,CA
-Wekweètì,small_airport,YFJ,64.190804,-114.077002,CA
-Summer Beaver,small_airport,SUR,52.70859909057617,-88.54190063476562,CA
-Angling Lake,small_airport,YAX,53.84920120239258,-89.57939910888672,CA
-Wunnumin Lake,small_airport,WNN,52.89390182495117,-89.28919982910156,CA
-North Spirit Lake,small_airport,YNO,52.4900016784668,-92.97109985351562,CA
-Sonoma,heliport,,38.158228,-122.456344,US
-Tangshan,small_airport,TVS,39.7178001404,118.002624512,CN
 Zhangjiakou,medium_airport,ZQZ,40.738602,114.93,CN
 Baoshan (Longyang),medium_airport,BSD,25.053301,99.168297,CN
 Lincang,medium_airport,LNJ,23.7381,100.025002,CN
 Xigazê (Samzhubzê),medium_airport,RKZ,29.3519,89.311401,CN
 Panzhihua (Renhe),medium_airport,PZI,26.54,101.79852,CN
 Foshan (Nanhai),medium_airport,FUO,23.0833,113.07,CN
-Bazhong (Enyang),small_airport,BZX,31.73842,106.644872,CN
 Xinyang,medium_airport,XAI,32.540819,114.079141,CN
 Huizhou (Pingtan),medium_airport,HUZ,23.049999,114.599998,CN
 Shaoguan,medium_airport,HSC,24.9786,113.420998,CN
@@ -220,26 +67,11 @@ Ji'an,medium_airport,JGS,26.856899,114.737,CN
 Baise (Tianyang),medium_airport,AEB,23.7206,106.959999,CN
 Lianyungang,medium_airport,LYG,34.41406,119.17899,CN
 Altay,medium_airport,AAT,47.749886,88.085808,CN
-Fuzhou (Minhou),heliport,,26.123906,119.113959,CN
 Tianshui (Maiji),medium_airport,THQ,34.559399,105.860001,CN
-Zhangye (Ganzhou),small_airport,YZY,38.801899,100.675003,CN
 "Zhenxing, Dandong",medium_airport,DDG,40.0247,124.286003,CN
 Zhanjiang,medium_airport,ZHA,21.481667,110.590278,CN
-Zhaosu,small_airport,ZFL,43.1075,81.160556,CN
 Nantong,medium_airport,NTG,32.070801,120.975998,CN
-Bearskin Lake,small_airport,XBE,53.965599060058594,-91.0271987915039,CA
-Natuashish,small_airport,YNP,55.913898,-61.184399,CA
-Kingfisher Lake,small_airport,KIF,53.01250076293945,-89.85530090332031,CA
-Ogoki Post,small_airport,YOG,51.6585998535,-85.9017028809,CA
-La Chorrera,small_airport,LCR,-0.733333,-73.01667,CO
-Tarapacá,small_airport,TCD,-2.894722,-69.747222,CO
-Poplar Hill,small_airport,YHP,52.1133,-94.2556,CA
-Streatham,small_airport,,53.822569,-126.172957,CA
-Chisasibi,small_airport,YKU,53.805599212646484,-78.91690063476562,CA
-Tête-à-la-Baleine,small_airport,ZTB,50.674400329589844,-59.38359832763672,CA
-La Tabatière,small_airport,ZLT,50.8307991027832,-58.97560119628906,CA
 Geçitkale,medium_airport,GEC,35.235947,33.724358,CY
-Arctic Bay,small_airport,YAB,73.006101,-85.04616,CA
 Cat Lake,medium_airport,YAC,51.72719955444336,-91.82440185546875,CA
 Fort Frances,medium_airport,YAG,48.655749,-93.44349,CA
 Alert Bay,medium_airport,YAL,50.582199,-126.916,CA
@@ -301,7 +133,6 @@ Kuujjuarapik,medium_airport,YGW,55.281898498535156,-77.76529693603516,CA
 Gillam,medium_airport,YGX,56.35749816894531,-94.71060180664062,CA
 Grise Fiord,medium_airport,YGZ,76.4261016846,-82.90920257570001,CA
 Quaqtaq,medium_airport,YQC,61.0463981628418,-69.6177978515625,CA
-Vancouver,seaplane_base,CXH,49.291265,-123.11717,CA
 Dryden,medium_airport,YHD,49.831699,-92.744202,CA
 Nemiscau,medium_airport,YNS,51.69110107421875,-76.1355972290039,CA
 Ulukhaktok,medium_airport,YHI,70.76280212402344,-117.80599975585938,CA
@@ -395,7 +226,6 @@ Repulse Bay,medium_airport,YUT,66.5214,-86.224701,CA
 Sanirajak,medium_airport,YUX,68.7761,-81.2425,CA
 Rouyn-Noranda,medium_airport,YUY,48.20610046386719,-78.83560180664062,CA
 La Ronge,medium_airport,YVC,55.151401519800004,-105.262001038,CA
-Colville Lake,small_airport,YCK,67.02,-126.126,CA
 Qikiqtarjuaq,medium_airport,YVM,67.546232,-64.031754,CA
 Val-d'Or,medium_airport,YVO,48.0532989502,-77.7827987671,CA
 Kuujjuaq,medium_airport,YVP,58.096099853515625,-68.4269027709961,CA
@@ -403,7 +233,6 @@ Norman Wells,medium_airport,YVQ,65.28160095214844,-126.7979965209961,CA
 Vancouver,large_airport,YVR,49.193901062,-123.183998108,CA
 Deer Lake,medium_airport,YVZ,52.655799865722656,-94.0614013671875,CA
 Winnipeg,large_airport,YWG,49.909999847399995,-97.2398986816,CA
-Victoria,seaplane_base,YWH,48.423782,-123.37198,CA
 Déline,medium_airport,YWJ,65.21109771728516,-123.43599700927734,CA
 Wabush,medium_airport,YWK,52.92190170288086,-66.8644027709961,CA
 Williams Lake,medium_airport,YWL,52.1831016541,-122.054000854,CA
@@ -450,16 +279,13 @@ Fond-Du-Lac,medium_airport,ZFD,59.33440017700195,-107.18199920654297,CA
 Fort Mcpherson,medium_airport,ZFM,67.40750122070312,-134.86099243164062,CA
 Tulita,medium_airport,ZFN,64.909697,-125.572998,CA
 Gods River,medium_airport,ZGI,54.839698791503906,-94.07859802246094,CA
-Corazón de Jesús and Narganá Islands,small_airport,CZJ,9.44686,-78.575678,PA
 Kashechewan,medium_airport,ZKE,52.282501220703125,-81.67780303955078,CA
 Muskrat Dam,medium_airport,MSA,53.44139862060547,-91.76280212402344,CA
 Masset,medium_airport,ZMT,54.02750015258789,-132.125,CA
-Chisana,small_airport,CZN,62.0712013245,-142.04800415,US
 Sachigo Lake,medium_airport,ZPB,53.8911018371582,-92.19640350341797,CA
 Round Lake,medium_airport,ZRJ,52.943599700927734,-91.31279754638672,CA
 Sandy Lake,medium_airport,ZSJ,53.06420135498047,-93.34439849853516,CA
 Shamattawa,medium_airport,ZTM,55.8656005859375,-92.0813980102539,CA
-Churchill Falls,small_airport,ZUM,53.5619010925293,-64.10639953613281,CA
 Wollaston Lake,medium_airport,ZWL,58.10689926147461,-103.1719970703125,CA
 Béjaïa,medium_airport,BJA,36.711952,5.069804,DZ
 Algiers,large_airport,ALG,36.693886,3.214531,DZ
@@ -477,7 +303,6 @@ Tindouf,medium_airport,TIN,27.7003993988,-8.167099952700001,DZ
 Zenata,medium_airport,TLM,35.013426,-1.457191,DZ
 Es-Sénia,medium_airport,ORN,35.623901,-0.621183,DZ
 Béchar,medium_airport,CBH,31.645700454711914,-2.269860029220581,DZ
-Bordj Badji Mokhtar,small_airport,BMW,21.3778,0.92698,DZ
 Adrar,medium_airport,AZR,27.837601,-0.186414,DZ
 Biskra,medium_airport,BSK,34.793301,5.73823,DZ
 El Menia,medium_airport,ELG,30.580732,2.861595,DZ
@@ -491,7 +316,6 @@ Ouargla,medium_airport,OGX,31.9172,5.41278,DZ
 In Aménas,medium_airport,IAM,28.0515,9.64291,DZ
 Cotonou,medium_airport,COO,6.357230186462402,2.384350061416626,BJ
 Baicheng,medium_airport,DBC,45.505278,123.019722,CN
-Dekai,small_airport,DEX,-4.8557,139.482006,ID
 Ouagadougou,medium_airport,OUA,12.3532,-1.51242,BF
 Bobo Dioulasso,medium_airport,BOY,11.160099983215332,-4.33096981048584,BF
 Accra,large_airport,ACC,5.605189800262451,-0.16678600013256073,GH
@@ -502,7 +326,6 @@ Sunyani,medium_airport,NYI,7.36183,-2.32876,GH
 Sekondi-Takoradi,medium_airport,TKD,4.896059989929199,-1.7747600078582764,GH
 Abidjan,medium_airport,ABJ,5.26139,-3.92629,CI
 Bouaké,medium_airport,BYK,7.7388,-5.07367,CI
-Dalnerechensk,small_airport,DLR,45.877949,133.735822,RU
 Abuja,large_airport,ABV,9.006790161132812,7.263169765472412,NG
 Uyo,medium_airport,QUO,4.8725,8.093,NG
 Akure,medium_airport,AKR,7.246739864349365,5.3010101318359375,NG
@@ -523,8 +346,6 @@ Lagos,large_airport,LOS,6.5773701667785645,3.321160078048706,NG
 Port Harcourt,medium_airport,PHC,5.0154900550842285,6.94959020614624,NG
 Sokoto,medium_airport,SKO,12.916299819946289,5.207190036773682,NG
 Yola,medium_airport,YOL,9.257550239562988,12.430399894714355,NG
-Deputatskiy,small_airport,DPT,69.392503,139.890012,RU
-Daqing,small_airport,DQA,46.750883,125.138642,CN
 Niamey,large_airport,NIM,13.4815,2.18361,NE
 Agadez,medium_airport,AJY,16.965999603271484,8.000109672546387,NE
 Zinder,medium_airport,ZND,13.779000282287598,8.983759880065918,NE
@@ -537,7 +358,6 @@ Gabès,medium_airport,GAE,33.733691,9.91941,TN
 Mellita,medium_airport,DJE,33.875,10.7755,TN
 Sfax,medium_airport,SFA,34.71799850463867,10.690999984741211,TN
 Tozeur,medium_airport,TOE,33.939701080322266,8.110560417175293,TN
-Sri Jayawardenepura Kotte,seaplane_base,DWO,6.906585,79.909,LK
 Lomé,medium_airport,LFW,6.16561,1.25451,TG
 Antwerp,medium_airport,ANR,51.1894,4.46028,BE
 Zaventem,large_airport,BRU,50.901402,4.48444,BE
@@ -570,17 +390,10 @@ Dortmund,medium_airport,DTM,51.518299,7.61224,DE
 Friedrichshafen,medium_airport,FDH,47.671299,9.51149,DE
 Baden-Baden,medium_airport,FKB,48.7794,8.0805,DE
 Kassel,medium_airport,KSF,51.417273,9.384967,DE
-Emden,small_airport,EME,53.391109,7.2275,DE
-Borkum,small_airport,BMK,53.59639,6.709167,DE
-Norderney,small_airport,NRD,53.706944,7.23,DE
-Büsum,small_airport,HEI,54.153331756600004,8.90166664124,DE
-Helgoland,small_airport,HGL,54.185279846200004,7.91583299637,DE
 Westerland,medium_airport,GWT,54.9132,8.34047,DE
-Tallinn,heliport,,59.448015,24.753313,EE
 Kärdla,medium_airport,KDL,58.99079895019531,22.830699920654297,EE
 Kuressaare,medium_airport,URE,58.22990036010742,22.50950050354004,EE
 Pärnu,medium_airport,EPU,58.41899871826172,24.47279930114746,EE
-Ringsu,small_airport,,57.78390121459961,23.26609992980957,EE
 Tallinn,large_airport,TLL,59.41329956049999,24.832799911499997,EE
 Tartu,medium_airport,TAY,58.307499,26.690399,EE
 Enontekio,medium_airport,ENF,68.362602233887,23.424299240112,FI
@@ -613,19 +426,10 @@ Manchester,large_airport,MAN,53.349375,-2.279521,GB
 Doncaster,medium_airport,DSA,53.480538,-1.010656,GB
 Campbeltown,medium_airport,CAL,55.437198638916016,-5.686389923095703,GB
 Eday,medium_airport,EOI,59.19060134887695,-2.7722198963165283,GB
-Fair Isle,small_airport,FIE,59.535801,-1.62806,GB
-North Ronaldsay,small_airport,NRL,59.3675003052,-2.43443989754,GB
-Papa Westray,small_airport,PPW,59.351699829100006,-2.9002799987800003,GB
-Stronsay,small_airport,SOY,59.1553001404,-2.64139008522,GB
-Sanday,small_airport,NDY,59.250301361083984,-2.576669931411743,GB
-Lerwick,small_airport,LWK,60.192199707,-1.24361002445,GB
-Westray,small_airport,WRY,59.3502998352,-2.95000004768,GB
 Cardiff,medium_airport,CWL,51.396702,-3.34333,GB
 Bristol,medium_airport,BRS,51.382702,-2.71909,GB
 Liverpool,medium_airport,LPL,53.333599,-2.84972,GB
 London,large_airport,LTN,51.874698638916016,-0.36833301186561584,GB
-Land's End,small_airport,LEQ,50.102798,-5.67056,GB
-St. Mary's,small_airport,ISC,49.9133,-6.29167,GB
 Bournemouth,medium_airport,BOH,50.779999,-1.8425,GB
 Southampton,medium_airport,SOU,50.950298,-1.3568,GB
 Newquay,medium_airport,NQY,50.440601,-4.99541,GB
@@ -668,44 +472,29 @@ Eindhoven,large_airport,EIN,51.4500999451,5.37452983856,NL
 Groningen,medium_airport,GRQ,53.1197013855,6.57944011688,NL
 Lelystad,medium_airport,LEY,52.4603,5.52722,NL
 Rotterdam,medium_airport,RTM,51.956902,4.43722,NL
-Inverin,small_airport,NNR,53.23030090332031,-9.467780113220215,IE
 Cork,medium_airport,ORK,51.841301,-8.49111,IE
 Galway,medium_airport,GWY,53.300201416015625,-8.941590309143066,IE
 Donegal,medium_airport,CFN,55.0442008972168,-8.340999603271484,IE
 Dublin,large_airport,DUB,53.428713,-6.262121,IE
-Inis Mór,small_airport,IOR,53.1067008972168,-9.653610229492188,IE
-Inis Oírr,small_airport,INQ,53.064701,-9.5109,IE
 Charlestown,medium_airport,NOC,53.910301,-8.81849,IE
 Killarney,medium_airport,KIR,52.180901,-9.52378,IE
-Inis Meáin,small_airport,IIA,53.09299850463867,-9.568059921264648,IE
 Shannon,large_airport,SNN,52.702,-8.92482,IE
 Waterford,medium_airport,WAT,52.187198638916016,-7.0869598388671875,IE
-Ejin Banner,small_airport,EJN,42.0155,101.0005,CN
-Enejit Island,small_airport,EJT,6.0404,171.9846,MH
 Aarhus,medium_airport,AAR,56.303331,10.618286,DK
 Billund,large_airport,BLL,55.7402992249,9.15178012848,DK
 Copenhagen,large_airport,CPH,55.617900848389,12.656000137329,DK
 Esbjerg,medium_airport,EBJ,55.525902,8.5534,DK
-Froðba,heliport,,61.543701,-6.77442,FO
 Karup,medium_airport,KRP,56.29750061035156,9.124629974365234,DK
-Kirkja,heliport,,62.317141,-6.313314,FO
-Klaksvík,heliport,,62.217619,-6.576274,FO
-Mykines,heliport,,62.102169,-7.645934,FO
 Odense,medium_airport,ODE,55.47669982910156,10.330900192260742,DK
 Rønne,medium_airport,RNN,55.06330108642578,14.759599685668945,DK
 Sønderborg,medium_airport,SGD,54.96440124511719,9.791729927062988,DK
 Sindal,medium_airport,CNL,57.503502,10.2294,DK
-Svínoy,heliport,,62.276632,-6.341524,FO
-Stóra Dímun,heliport,,61.685308,-6.758497,FO
-Skúvoy,heliport,,61.769556,-6.80349,FO
-Tórshavn,heliport,,62.021684,-6.757452,FO
 Vágar,medium_airport,FAE,62.063256,-7.275782,FO
 Aalborg,medium_airport,AAL,57.092759,9.849243,DK
 Luxembourg,large_airport,LUX,49.6233333,6.2044444,LU
 Ålesund,medium_airport,AES,62.5625,6.1197,NO
 Andenes,medium_airport,ANX,69.292503,16.144199,NO
 Alta,medium_airport,ALF,69.976097106934,23.371700286865,NO
-Førde,small_airport,FDE,61.391102,5.75694,NO
 Brønnøy,medium_airport,BNN,65.461098,12.2175,NO
 Bodø,medium_airport,BOO,67.269203,14.3653,NO
 Bergen,large_airport,BGO,60.2934,5.21814,NO
@@ -718,7 +507,6 @@ Florø,medium_airport,FRO,61.583599090576,5.0247201919556,NO
 Oslo,large_airport,OSL,60.193901,11.1004,NO
 Karmøy,medium_airport,HAU,59.345299,5.20836,NO
 Hammerfest,medium_airport,HFT,70.679702758789,23.668600082397,NO
-Hasvik,small_airport,HAA,70.486701965332,22.139699935913,NO
 Honningsvåg,medium_airport,HVG,71.009697,25.983601,NO
 Kvernberget,medium_airport,KSU,63.111801,7.82452,NO
 Kirkenes,medium_airport,KKN,69.7258,29.8913,NO
@@ -727,17 +515,13 @@ Mehamn,medium_airport,MEH,71.02970123291,27.826700210571,NO
 Årø,medium_airport,MOL,62.744701,7.2625,NO
 Mosjøen,medium_airport,MJF,65.783997,13.2149,NO
 Lakselv,medium_airport,LKL,70.068802,24.973499,NO
-Namsos,small_airport,OSY,64.472198,11.5786,NO
 Notodden,medium_airport,NTB,59.565701,9.21222,NO
 Ørland,medium_airport,OLA,63.69889831542969,9.604000091552734,NO
 Ørsta,medium_airport,HOV,62.180000305176,6.0741000175476,NO
 Mo i Rana,medium_airport,MQN,66.363899230957,14.301400184631,NO
 Rørvik,medium_airport,RVK,64.838302612305,11.14610004425,NO
 Røros,medium_airport,RRS,62.578399658203,11.342300415039,NO
-,small_airport,RET,67.527801513672,12.103300094604,NO
 Longyearbyen,medium_airport,LYR,78.246101379395,15.465600013733,NO
-Sandane,small_airport,SDN,61.830002,6.10583,NO
-Sogndal,small_airport,SOG,61.156101,7.13778,NO
 Svolvær,medium_airport,SVJ,68.243301,14.6692,NO
 Hadsel,medium_airport,SKN,68.578827,15.033417,NO
 Leirvik,medium_airport,SRP,59.791901,5.34085,NO
@@ -748,7 +532,6 @@ Tromsø,large_airport,TOS,69.683296,18.9189,NO
 Torp,medium_airport,TRF,59.1866989136,10.258600235,NO
 Trondheim,large_airport,TRD,63.457802,10.924,NO
 Vadsø,medium_airport,VDS,70.065299987793,29.844699859619,NO
-Værøy,heliport,VRY,67.654555,12.727257,NO
 Yan'an (Baota),medium_airport,ENY,36.479413,109.464083,CN
 Stavanger,large_airport,SVG,58.876701,5.63778,NO
 Bydgoszcz,medium_airport,BZG,53.096802,17.977699,PL
@@ -805,12 +588,10 @@ Visby,medium_airport,VBY,57.662799835205,18.346200942993,SE
 Ängelholm,medium_airport,AGH,56.29610061645508,12.847100257873535,SE
 Storuman,medium_airport,SQO,64.960899,17.6966,SE
 Hemavan,medium_airport,HMV,65.806099,15.0828,SE
-Shire Inda Selassie,small_airport,SHC,14.075699,38.273592,ET
 Rostock,medium_airport,RLG,53.9182014465,12.278300285299999,DE
 Liepāja,medium_airport,LPX,56.51750183105469,21.096900939941406,LV
 Riga,large_airport,RIX,56.923599,23.9711,LV
 Ventspils,medium_airport,VNT,57.35779953,21.5442008972,LV
-Excursion Inlet,seaplane_base,EXI,58.420502,-135.449005,US
 Kaunas,medium_airport,KUN,54.96390151977539,24.084800720214844,LT
 Palanga,medium_airport,PLQ,55.973201751708984,21.093900680541992,LT
 Vilnius,large_airport,VNO,54.634102,25.285801,LT
@@ -818,7 +599,6 @@ Bloemfontain,medium_airport,BFN,-29.092699,26.302401,ZA
 Cape Town,large_airport,CPT,-33.9648017883,18.6016998291,ZA
 East London,medium_airport,ELS,-33.035599,27.825899,ZA
 George,medium_airport,GRJ,-34.0056,22.378902,ZA
-Hoedspruit,small_airport,HDS,-24.368600845299998,31.0487003326,ZA
 Kimberley,medium_airport,KIM,-28.802799224900003,24.7651996613,ZA
 Mpumalanga,medium_airport,MQP,-25.3831996918,31.1056003571,ZA
 Johannesburg,medium_airport,HLA,-25.938499,27.9261,ZA
@@ -832,31 +612,24 @@ Plettenberg Bay,medium_airport,PBZ,-34.08816,23.328723,ZA
 Phalaborwa,medium_airport,PHW,-23.937200546299998,31.1553993225,ZA
 Polokwane,medium_airport,,-23.9260997772,29.4843997955,ZA
 Pietermaritzburg,medium_airport,PZB,-29.649000167799997,30.3987007141,ZA
-Pilanesberg,small_airport,NTY,-25.333799,27.173401,ZA
 Polokwane,medium_airport,PTG,-23.845269,29.458615,ZA
 Richards Bay,medium_airport,RCB,-28.740999221800003,32.0920982361,ZA
 Upington,medium_airport,UTN,-28.39909935,21.260200500499998,ZA
 Mthatha,medium_airport,UTT,-31.546363184900002,28.6733551025,ZA
 Francistown,medium_airport,FRW,-21.15914,27.468545,BW
-Ghanzi,small_airport,GNZ,-21.6924991607666,21.658100128173828,BW
 Jwaneng,medium_airport,JWA,-24.602301,24.691,BW
 Kasane,medium_airport,BBK,-17.832899,25.162399,BW
 Maun,medium_airport,MUB,-19.97260093688965,23.431100845336914,BW
-Orapa,small_airport,ORP,-21.265901,25.319667,BW
 Gaborone,large_airport,GBE,-24.555201,25.9182,BW
 Selebi Phikwe,medium_airport,PKW,-22.0583,27.8288,BW
-Shakawe,small_airport,SWX,-18.373899459838867,21.832599639892578,BW
-Tuli Lodge,small_airport,TLD,-22.189199447599997,29.126899719199997,BW
 Brazzaville,medium_airport,BZV,-4.251699924468994,15.253000259399414,CG
 Dolisie,medium_airport,DIS,-4.20635,12.6599,CG
 Pointe Noire,medium_airport,PNR,-4.81603,11.8866,CG
 Mpaka,large_airport,SHO,-26.358611,31.716944,SZ
 Bangui,medium_airport,BGF,4.39847993850708,18.518800735473633,CF
-San Antonio de Palé,small_airport,NBN,-1.408615,5.624163,GQ
 Bata,medium_airport,BSG,1.90547,9.80568,GQ
 Malabo,medium_airport,SSG,3.755270004272461,8.708720207214355,GQ
 Cat Hill,medium_airport,ASI,-7.9696,-14.3937,SH
-Longwood,small_airport,HLE,-15.957725,-5.645943,SH
 Plaine Magnein,large_airport,MRU,-20.430201,57.683601,MU
 Port Mathurin,medium_airport,RRG,-19.7577,63.361,MU
 Douala,medium_airport,DLA,4.0060801506,9.719479560849999,CM
@@ -865,52 +638,34 @@ N'Gaoundéré,medium_airport,NGE,7.3570098876953125,13.559200286865234,CM
 Garoua,medium_airport,GOU,9.33588981628418,13.370100021362305,CM
 Yaoundé,medium_airport,YAO,3.8360400199890137,11.523500442504883,CM
 Yaoundé,medium_airport,NSI,3.722559928894043,11.553299903869629,CM
-Chipata,small_airport,CIP,-13.558300018310547,32.58720016479492,ZM
 Livingstone,medium_airport,LVI,-17.8218,25.822701,ZM
 Lusaka,large_airport,LUN,-15.330833,28.452722,ZM
 Mfuwe,medium_airport,MFU,-13.258899688720703,31.936599731445312,ZM
 Ndola,medium_airport,NLA,-12.998512,28.664047,ZM
-Solwesi,small_airport,SLI,-12.173700332641602,26.365100860595703,ZM
 Moroni,medium_airport,HAH,-11.5337,43.2719,KM
 Fomboni,medium_airport,NWA,-12.2981,43.766399,KM
 Ouani,medium_airport,AJN,-12.131047,44.430044,KM
 Dzaoudzi,medium_airport,DZA,-12.809319,45.281815,YT
 St Denis,large_airport,RUN,-20.8871,55.5103,RE
 St Pierre,medium_airport,ZSE,-21.320899963378906,55.42499923706055,RE
-Antsalova,small_airport,WAQ,-18.701273,44.614921,MG
 Antananarivo,large_airport,TNR,-18.7969,47.478802,MG
-Ankavandra,small_airport,JVA,-18.80501,45.273467,MG
-Belo sur Tsiribihina,small_airport,BMD,-19.6867008209,44.541900634799994,MG
 Miandrivazo,medium_airport,ZVA,-19.562799,45.450802,MG
-Maintirano,small_airport,MXT,-18.049999,44.033001,MG
-Morafenobe,small_airport,TVA,-17.850083,44.920467,MG
 Vohilava,medium_airport,SMS,-17.093901,49.8158,MG
 Toamasina,medium_airport,TMM,-18.109501,49.392502,MG
-Tambohorano,small_airport,WTA,-17.47610092163086,43.972801208496094,MG
 Morondava,medium_airport,MOQ,-20.2847,44.3176,MG
-Tsiroanomandidy,small_airport,WTS,-18.759677,46.054065,MG
-Ambatondrazaka,small_airport,WAM,-17.795378,48.442583,MG
 Antisiranana,medium_airport,DIE,-12.3494,49.291698,MG
 Mananara Nord,medium_airport,WMR,-16.16390037536621,49.773799896240234,MG
-Port Bergé,small_airport,WPB,-15.584286,47.623587,MG
 Antsirabe,medium_airport,ANM,-14.9994,50.320202,MG
-Ambanja,closed,,-13.644528,48.456595,MG
 Analalava,medium_airport,HVA,-14.629514,47.763555,MG
 Mahajanga,medium_airport,MJN,-15.666842,46.351233,MG
 Nosy Be,medium_airport,NOS,-13.3121,48.3148,MG
-Soalala,small_airport,DWB,-16.10169,45.358837,MG
-Mampikony,small_airport,WMP,-16.0722693402,47.644164562200004,MG
 Besalampy,medium_airport,BPY,-16.74453,44.482484,MG
 Maroantsetra,medium_airport,WMN,-15.437742,49.689081,MG
 Sambava,medium_airport,SVB,-14.2786,50.174702,MG
-Tsaratanana,small_airport,TTS,-16.751064,47.619016,MG
 Vohemar,medium_airport,VOH,-13.3758,50.0028,MG
 Antsohihy,medium_airport,WAI,-14.898799896240234,47.993900299072266,MG
-Mandritsara,small_airport,WMA,-15.845992,48.834718,MG
 Tôlanaro,medium_airport,FTU,-25.038099,46.9561,MG
 Fianarantsoa,medium_airport,WFI,-21.441601,47.111698,MG
-Farafangana,small_airport,RVA,-22.8053,47.820599,MG
-Manja,small_airport,MJA,-21.426105,44.316509,MG
 Manakara,medium_airport,WVK,-22.119699,48.021702,MG
 Mananjary,medium_airport,MNJ,-21.201799,48.358299,MG
 Morombe,medium_airport,MXM,-21.753837,43.374753,MG
@@ -918,7 +673,6 @@ Toliara,medium_airport,TLE,-23.3834,43.7285,MG
 Mbanza Congo,medium_airport,SSY,-6.269899845123291,14.246999740600586,AO
 Cabinda,medium_airport,CAB,-5.59699010848999,12.188400268554688,AO
 Catumbela,medium_airport,CBT,-12.4792,13.4869,AO
-Funadhoo,small_airport,FND,6.162443,73.28752,MV
 Chitato,medium_airport,DUE,-7.400889873504639,20.818500518798828,AO
 Ngiva,medium_airport,VPE,-17.0435009003,15.683799743700002,AO
 Huambo,medium_airport,NOV,-12.808899879455566,15.760499954223633,AO
@@ -929,7 +683,6 @@ Moçâmedes,medium_airport,MSZ,-15.2612,12.1468,AO
 Negage,medium_airport,GXG,-7.754509925842285,15.287699699401855,AO
 Soyo,medium_airport,SZA,-6.141089916229248,12.371800422668457,AO
 Lubango,medium_airport,SDD,-14.924699783325195,13.574999809265137,AO
-Koltur,heliport,,61.984601,-6.963484,FO
 Koulamoutou,medium_airport,KOU,-1.1846100091934,12.441300392151,GA
 Mouila,medium_airport,MJL,-1.845139980316162,11.056699752807617,GA
 Oyem,medium_airport,OYE,1.5431100130081177,11.581399917602539,GA
@@ -937,7 +690,6 @@ Port Gentil,medium_airport,POG,-0.7117390036582947,8.754380226135254,GA
 Makokou,medium_airport,MKU,0.5792109966278076,12.890899658203125,GA
 Libreville,medium_airport,LBV,0.458600014448,9.412280082699999,GA
 Franceville,medium_airport,MVB,-1.6561599969863892,13.437999725341797,GA
-Tchibanga,small_airport,TCH,-2.88848,10.955429,GA
 São Tomé & Príncipe,medium_airport,PCP,1.66294,7.41174,ST
 São Tomé,medium_airport,TMS,0.378175,6.71215,ST
 Beira,medium_airport,BEW,-19.79640007019043,34.90760040283203,MZ
@@ -950,11 +702,8 @@ Pemba / Porto Amelia,medium_airport,POL,-12.991762161254883,40.52401351928711,MZ
 Quelimane,medium_airport,UEL,-17.855499267578125,36.86909866333008,MZ
 Tete,medium_airport,TET,-16.104799270629883,33.640201568603516,MZ
 Vilanculo,medium_airport,VNX,-22.018400192260742,35.31330108642578,MZ
-Cannes,heliport,JCA,43.5359992980957,7.037360191345215,FR
-Alphonse Island,small_airport,,-7.00478,52.7262,SC
 Mahe Island,large_airport,SEZ,-4.67434,55.521801,SC
 Grand Anse,medium_airport,PRI,-4.31929,55.691399,SC
-Sarh,small_airport,SRH,9.14444,18.374399,TD
 Abeche,medium_airport,AEH,13.847,20.844299,TD
 Moundou,medium_airport,MQQ,8.62441,16.0714,TD
 N'Djamena,large_airport,NDJ,12.1337,15.034,TD
@@ -962,30 +711,20 @@ Bulawayo,medium_airport,BUQ,-20.017401,28.617901,ZW
 Victoria Falls,medium_airport,VFA,-18.09589958190918,25.839000701904297,ZW
 Harare,large_airport,HRE,-17.931801,31.0928,ZW
 Blantyre,medium_airport,BLZ,-15.679100036621094,34.9739990234375,MW
-Club Makokola,small_airport,CMK,-14.306483,35.131477,MW
 Lilongwe,medium_airport,LLW,-13.7894001007,33.78099823,MW
 Mzuzu,medium_airport,ZZU,-11.444700241088867,34.01179885864258,MW
 Maseru,medium_airport,MSU,-29.462299346923828,27.552499771118164,LS
-Halali,small_airport,HAL,-19.0285,16.4585,NA
 Luderitz,medium_airport,LUD,-26.687400817871094,15.242899894714355,NA
 Ondangwa,medium_airport,OND,-17.878201,15.9526,NA
 Oranjemund,medium_airport,OMD,-28.5847,16.446699,NA
 Rundu,medium_airport,NDU,-17.956499099731,19.719400405884,NA
-Swakopmund,small_airport,SWP,-22.6619,14.5681,NA
 Walvis Bay,medium_airport,WVB,-22.9799,14.6453,NA
 Windhoek,medium_airport,ERS,-22.612199783325195,17.080400466918945,NA
 Windhoek,large_airport,WDH,-22.4799,17.4709,NA
 Kinshasa,large_airport,FIH,-4.38575,15.4446,CD
-Muanda,small_airport,MNB,-5.930637,12.351334,CD
-Boma,small_airport,BOA,-5.854,13.064,CD
-Matadi,small_airport,MAT,-5.799610137939453,13.440400123596191,CD
-Inongo,small_airport,INO,-1.947219967842102,18.28580093383789,CD
-Nioki,small_airport,NIO,-2.7174999713897705,17.68470001220703,CD
 Bandundu,medium_airport,FDU,-3.31132,17.381701,CD
-Kiri,small_airport,KRZ,-1.434999942779541,19.02400016784668,CD
 Kikwit,medium_airport,KKW,-5.03577,18.785601,CD
 Mbandaka,medium_airport,MDK,0.0226000007242,18.2887001038,CD
-Basankusu,small_airport,BSU,1.22472,19.7889,CD
 Gbadolite,medium_airport,BDT,4.25321,20.9753,CD
 Gemena,medium_airport,GMA,3.2353699207299997,19.771299362199997,CD
 Kisangani,medium_airport,FKI,0.481638997793,25.3379993439,CD
@@ -996,40 +735,27 @@ Kindu,medium_airport,KND,-2.91917991638,25.915399551399997,CD
 Lubumbashi,medium_airport,FBM,-11.5913000107,27.5308990479,CD
 ,medium_airport,KWZ,-10.765899658203125,25.505699157714844,CD
 ,medium_airport,FMI,-5.8755598068237305,29.25,CD
-Kamina,small_airport,KMN,-8.72861,24.9914,CD
 Kananga,medium_airport,KGA,-5.90005016327,22.4692001343,CD
-Tshikapa,small_airport,TSH,-6.43833,20.794701,CD
-Lodja,small_airport,LJA,-3.462745,23.615162,CD
-Tshumbe,small_airport,,-4.099999904632568,24.367000579833984,CD
-Ilebo,small_airport,PFR,-4.329919,20.590124,CD
 Mbuji Mayi,medium_airport,MJM,-6.121240139010001,23.569000244099996,CD
-Gamba,small_airport,GAX,-2.785278,10.047222,GA
 Bamako,large_airport,BKO,12.5335,-7.94994,ML
 ,medium_airport,GAQ,16.2484,-0.005456,ML
 ,medium_airport,KYS,14.4812,-11.4044,ML
 Sévaré,medium_airport,MZI,14.5128,-4.07956,ML
 Timbuktu,medium_airport,TOM,16.730499,-3.00758,ML
-Foula,small_airport,FOA,60.121725,-2.053202,GB
-Papa Stour Island,small_airport,PSV,60.321701,-1.69306,GB
 Banjul,large_airport,BJL,13.338,-16.652201,GM
 El Matorral,large_airport,FUE,28.4527,-13.8638,ES
-"Alajero, La Gomera Island",small_airport,GMZ,28.0296,-17.2146,ES
 El Hierro Island,medium_airport,VDE,27.8148,-17.8871,ES
 "Sta Cruz de la Palma, La Palma Island",medium_airport,SPC,28.626499,-17.7556,ES
 Gran Canaria Island,large_airport,LPA,27.9319,-15.3866,ES
 San Bartolomé,large_airport,ACE,28.945499,-13.6052,ES
 Tenerife,large_airport,TFS,28.0445,-16.5725,ES
 Tenerife,medium_airport,TFN,28.4827,-16.341499,ES
-Ceuta,heliport,JCU,35.892657,-5.306321,ES
 Melilla,medium_airport,MLN,35.2798,-2.95626,ES
-Bonthe,closed,,7.53242,-12.5189,SL
 Bo,medium_airport,KBS,7.9444,-11.761,SL
 Kenema,medium_airport,KEN,7.896364,-11.174126,SL
 Freetown (Lungi-Town),large_airport,FNA,8.61644,-13.1955,SL
 Yengema,medium_airport,WYE,8.610469818115234,-11.04539966583252,SL
 Bissau,medium_airport,OXB,11.894800186157227,-15.65369987487793,GW
-Kangilinnguit,closed,,61.237704,-48.105526,GL
-Akunnaaq,heliport,QCU,68.744273,-52.340369,GL
 Monrovia,medium_airport,MLW,6.289060115814209,-10.758700370788574,LR
 Monrovia,large_airport,ROB,6.23379,-10.3623,LR
 Agadir (Temsia),medium_airport,AGA,30.322478,-9.412003,MA
@@ -1038,7 +764,6 @@ Saïss,medium_airport,FEZ,33.927299,-4.97796,MA
 Errachidia,medium_airport,ERH,31.9475002289,-4.39833021164,MA
 Ahl Angad,medium_airport,OUD,34.789558,-1.926041,MA
 Smara,medium_airport,SMW,26.731987,-11.683655,EH
-Oulad Yaich,small_airport,BEM,32.401895,-6.315905,MA
 Rabat,medium_airport,RBA,34.051498,-6.75152,MA
 Dakhla,medium_airport,VIL,23.7183,-15.932,EH
 Essaouira,medium_airport,ESU,31.397499,-9.68167,MA
@@ -1063,42 +788,24 @@ Espargos,large_airport,SID,16.7414,-22.9494,CV
 Rabil,medium_airport,BVC,16.136499404907227,-22.888900756835938,CV
 Vila do Maio,medium_airport,MMO,15.155900001525879,-23.213699340820312,CV
 Praia,medium_airport,RAI,14.924500465393066,-23.493499755859375,CV
-São Filipe,small_airport,SFL,14.8850002289,-24.4799995422,CV
 Preguiça,medium_airport,SNE,16.588852,-24.284132,CV
 São Pedro,medium_airport,VXE,16.8332,-25.0553,CV
-Botopasi,small_airport,BTO,4.21751109352,-55.4470539093,SR
-Djumu-Djomoe,small_airport,DOE,4.00571261057,-55.4816436768,SR
-Aurora,small_airport,LDO,4.37610828345,-55.407056808499995,SR
 Addis Ababa,large_airport,ADD,8.97789,38.799301,ET
 ,medium_airport,AMH,6.0393900871276855,37.59049987792969,ET
 Axum,medium_airport,AXU,14.1468,38.7728,ET
 Bahir Dar,medium_airport,BJR,11.6081,37.321602,ET
-Beica,small_airport,BEI,9.38639,34.5219,ET
-Dessie,small_airport,DSE,11.082500457763672,39.71139907836914,ET
-Dembidollo,small_airport,DEM,8.554,34.858002,ET
 Dire Dawa,medium_airport,DIR,9.624699592590332,41.85419845581055,ET
 Gambela,medium_airport,GMB,8.12876,34.563099,ET
 Azezo,medium_airport,GDQ,12.5199,37.433998,ET
 Gode,medium_airport,GDE,5.93513011932,43.5786018372,ET
-Gore,small_airport,GOR,8.1614,35.5529,ET
 Jijiga,medium_airport,JIJ,9.3325,42.9121,ET
 Jimma,medium_airport,JIM,7.66609001159668,36.81660079956055,ET
 Kebri Dahar,medium_airport,ABK,6.732577,44.241339,ET
-Mizan Teferi,small_airport,MTF,6.9571,35.5547,ET
-Semera,small_airport,SZE,11.7875,40.9915,ET
 Asosa,medium_airport,ASO,10.018500328063965,34.586299896240234,ET
-Tippi,small_airport,TIE,7.2024,35.415,ET
 Bujumbura,medium_airport,BJM,-3.32402,29.318501,BI
-Kirundo,small_airport,KRE,-2.544772,30.094575,BI
-Haibei (Qilian),small_airport,HBQ,38.008068,100.645065,CN
-Hambantota,seaplane_base,HBT,6.124043,81.103,LK
-Bosaso,small_airport,BSA,11.275235,49.139231,SO
 Hargeisa,medium_airport,HGA,9.513207,44.082389,SO
 Berbera,medium_airport,BBO,10.385035,44.936723,SO
 Mogadishu,medium_airport,MGQ,2.0144400596618652,45.3046989440918,SO
-Beledweyne,small_airport,BLW,4.766976,45.2388,SO
-Galcaio,small_airport,GLK,6.78082990646,47.45470047,SO
-Garowe,small_airport,GGR,8.457942,48.567407,SO
 Djibouti City,large_airport,JIB,11.5473,43.1595,DJ
 El Alamein,medium_airport,DBB,30.930326,28.463076,EG
 El Arish,medium_airport,AAC,31.078565,33.836791,EG
@@ -1113,26 +820,21 @@ Marsa Matruh,medium_airport,MUH,31.338225,27.217577,EG
 Suhaj,medium_airport,HMB,26.339115,31.737624,EG
 Sharm El Sheikh,large_airport,SSH,27.978902,34.385598,EG
 Aswan,medium_airport,ASW,23.968137,32.824445,EG
-Siwa Oasis,small_airport,SEW,29.3389,25.51285,EG
 Taba,medium_airport,TCP,29.594496,34.775752,EG
 Asmara,medium_airport,ASM,15.291899681091309,38.910701751708984,ER
 Massawa,medium_airport,MSW,15.670000076293945,39.37009811401367,ER
 Asab,medium_airport,ASA,13.071800231933594,42.64500045776367,ER
 Huai'an,medium_airport,HIA,33.790833,119.125,CN
-Shilavo,small_airport,HIL,6.077545,44.763736,ET
 Juba,large_airport,JUB,4.87201,31.601101,SS
 Amboseli National Park,medium_airport,ASV,-2.645050048828125,37.25310134887695,KE
-Healy Lake,small_airport,HKB,63.9958,-144.6926,US
 Eldoret,medium_airport,EDL,0.4044579863548279,35.23889923095703,KE
 Nairobi,large_airport,NBO,-1.31923997402,36.9277992249,KE
 Kisumu,medium_airport,KIS,-0.0861390009522438,34.72890090942383,KE
 Lokichoggio,medium_airport,LKG,4.20412015914917,34.348201751708984,KE
 Lamu,medium_airport,LAU,-2.252431,40.912892,KE
-Meru-Kinna,small_airport,JJM,0.165083,38.195141,KE
 Malindi,medium_airport,MYD,-3.2293100357055664,40.10169982910156,KE
 Mombasa,large_airport,MBA,-4.03483,39.5942,KE
 Masai Mara,medium_airport,MRE,-1.406111,35.008057,KE
-Nakuru,small_airport,NUU,-0.298067,36.159302,KE
 Nairobi,medium_airport,WIL,-1.321720004081726,36.81480026245117,KE
 Nanyuki,medium_airport,NYK,-0.062399,37.041008,KE
 Wajir,medium_airport,WJR,1.73324,40.091599,KE
@@ -1144,98 +846,37 @@ Tripoli,large_airport,MJI,32.89177,13.287878,LY
 Al Albraq,medium_airport,LAQ,32.7887,21.9643,LY
 Sabha,medium_airport,SEB,26.992452,14.466162,LY
 Ghadames,medium_airport,LTD,30.15169906616211,9.715310096740723,LY
-Adam,small_airport,TOB,31.861,23.907,LY
 Kigali,large_airport,KGL,-1.96863,30.1395,RW
 Kamembe,medium_airport,KME,-2.462239980697632,28.907899856567383,RW
-Atbara,small_airport,ATB,17.710344314575195,34.0570182800293,SD
 Dongola,medium_airport,DOG,19.153900146499996,30.430099487299998,SD
 El Fasher,medium_airport,ELF,13.614899635314941,25.324600219726562,SD
 Kassala,medium_airport,KSL,15.387499809265137,36.328800201416016,SD
-Rumbek,small_airport,RBX,6.831074,29.669073,SS
 Nyala,medium_airport,UYL,12.0535,24.9562,SD
 El-Obeid,medium_airport,EBD,13.1532,30.2327,SD
 Port Sudan,medium_airport,PZU,19.4335994720459,37.234100341796875,SD
 Khartoum,large_airport,KRT,15.5895,32.5532,SD
 Malakal,medium_airport,MAK,9.55897,31.652201,SS
-Wadi Halfa,small_airport,WHF,21.802698,31.521578,SD
 Wau,medium_airport,WUU,7.72583,27.975,SS
 Arusha,medium_airport,ARK,-3.3677899837493896,36.63330078125,TZ
-Bukoba,small_airport,BKZ,-1.332,31.8212,TZ
 Dar es Salaam,large_airport,DAR,-6.87811,39.202599,TZ
 Dodoma,medium_airport,DOD,-6.17044,35.752602,TZ
 Mbeya,medium_airport,MBI,-8.919942,33.273981,TZ
-Kigoma,small_airport,TKQ,-4.8862,29.6709,TZ
 Arusha,medium_airport,JRO,-3.42941,37.074501,TZ
-Lindi,small_airport,LDI,-9.851005,39.75911,TZ
 Mtwara,medium_airport,MYW,-10.336204,40.181997,TZ
-Musoma,small_airport,MUZ,-1.503,33.8021,TZ
 Mwanza,medium_airport,MWZ,-2.4444899559020996,32.932701110839844,TZ
-Shinyanga,small_airport,SHY,-3.6093,33.5035,TZ
-Tabora,small_airport,TBO,-5.076389789581299,32.83330154418945,TZ
 Tanga,medium_airport,TGT,-5.09236,39.071201,TZ
 Zanzibar,large_airport,ZNZ,-6.22202,39.224899,TZ
 Arua,medium_airport,RUA,3.049152,30.911714,UG
 Kampala,large_airport,EBB,0.042386,32.443501,UG
 Gulu,medium_airport,ULU,2.8055601119995117,32.27180099487305,UG
 Soroti,medium_airport,SRT,1.7276899814605713,33.622798919677734,UG
-Hollis,seaplane_base,HYL,55.4816017151,-132.645996094,US
-Okpahik,small_airport,,-4.697855,140.770547,ID
-Jember,small_airport,JBB,-8.242494,113.693476,ID
-Banyuwangi,small_airport,BWX,-8.31015,114.3401,ID
-Pulau-Pulau Batu,small_airport,,-0.01924,98.30097,ID
-Pemuteran,small_airport,,-8.14055555556,114.616666667,ID
-,heliport,,-8.728055555560001,115.166111111,ID
-Binsari,small_airport,,-4.725525,140.792284,ID
-Iwur,small_airport,,-5.139139,140.717638,ID
-Kiwi,small_airport,,-4.697841,140.722425,ID
-Long Rungan,small_airport,,3.5994,115.8418,ID
-Oklip,small_airport,,-4.762095,140.780554,ID
-Okyap,small_airport,,-4.743448,140.848267,ID
-Sape,small_airport,,-4.7655,140.5054,ID
-Singkil,small_airport,,2.2695,97.9666,ID
-Sumtamon,small_airport,,-4.8083,140.1715,ID
-Yapil,small_airport,,-4.540447,140.565691,ID
-Bawean,small_airport,BXW,-5.723628,112.678889,ID
-Awimbon,small_airport,,-5.165884,140.381568,ID
-Kubibkop,small_airport,,-4.79436,140.69447,ID
-Pegunungan Bintang,small_airport,,-4.891004,140.74213,ID
-Tarup,small_airport,,-5.097671,140.821627,ID
-Pegunungan Bintang,small_airport,,-4.824475,140.87378,ID
-Okbab,small_airport,,-4.586015,140.499844,ID
-Alemson,small_airport,,-4.816571,140.222819,ID
-Pegunungan Bintang Regency,small_airport,,-4.638376,140.654907,ID
-Pegunungan Bintang Regency,small_airport,,-4.605771,140.634806,ID
-Binban,small_airport,,-4.585309,140.533962,ID
-Kaklup,small_airport,,-4.620771,140.531688,ID
-Pegunungan Bintang Regency,small_airport,,-4.58066,140.515995,ID
-Pegunungan Bintang Regency,small_airport,,-4.539485,140.462018,ID
-Dumpasik,small_airport,,-4.455194,140.508871,ID
-Bordamban,small_airport,,-4.439924,140.484527,ID
-Pegunungan Bintang Regency,small_airport,,-4.464786,140.393016,ID
-Hangmata,small_airport,,-4.49226,140.657322,ID
 Kolaka,medium_airport,KXB,-4.341217,121.523983,ID
-Sungai Penuh,small_airport,KRC,-2.093,101.4683,ID
-Tumbang Samba-Borneo Island,small_airport,TBM,-1.4694,113.0833,ID
 Sugapa,medium_airport,UGU,-3.739503,137.031183,ID
-,small_airport,,25.661487579345703,90.34503936767578,IN
-Pune,small_airport,,18.226944,74.590833,IN
-Faizabad,small_airport,,26.7511282,82.1543651,IN
-Saiha,heliport,,22.4885833333,92.98695,IN
-Sultanpur,small_airport,,26.2475,82.0425,IN
-Chipi,small_airport,,16.002552,73.529846,IN
-Jagdalpur,small_airport,JGB,19.074301,82.036797,IN
-Jalgaon,small_airport,,20.962678,75.627492,IN
 Ishigaki,medium_airport,ISG,24.396389,124.245,JP
-Peschici,heliport,,41.92814,16.012815,IT
-Tremiti Islands,heliport,TQR,42.117775,15.490655,IT
 Jiagedaqi,medium_airport,JGD,50.371389,124.1175,CN
-Jinchang,small_airport,JIC,38.542222,102.348333,CN
-Tiakur,small_airport,JIO,-8.140402,127.908758,ID
 Qianjiang,medium_airport,JIQ,29.5133333333,108.831111111,CN
 Cruz,medium_airport,JJD,-2.906425,-40.357338,BR
 "Linghai, Jinzhou",medium_airport,JNZ,40.936032,121.277114,CN
-New York,heliport,JRA,40.754501,-74.007103,US
-Chizhou,small_airport,JUH,30.7403,117.6856,CN
 Allentown,medium_airport,ABE,40.651773,-75.442797,US
 Abilene,medium_airport,ABI,32.4113006592,-99.68190002440001,US
 Albuquerque,medium_airport,ABQ,35.040199,-106.609001,US
@@ -1258,14 +899,12 @@ Alpena,medium_airport,APN,45.0780983,-83.56030273,US
 Watertown,medium_airport,ART,43.991901,-76.021698,US
 Aspen,medium_airport,ASE,39.22320175,-106.8690033,US
 Atlanta,large_airport,ATL,33.6367,-84.428101,US
-Appleton,small_airport,ATW,44.258099,-88.519096,US
 Watertown,medium_airport,ATY,44.91400146,-97.15470123,US
 Augusta,medium_airport,AUG,44.320598602299995,-69.7973022461,US
 Austin,large_airport,AUS,30.197535,-97.662015,US
 Asheville,medium_airport,AVL,35.436199,-82.541801,US
 Wilkes-Barre/Scranton,medium_airport,AVP,41.338500976599995,-75.72339630130001,US
 Kalamazoo,medium_airport,AZO,42.234901428222656,-85.5521011352539,US
-Branson,small_airport,BKG,36.532082,-93.200544,US
 Hartford,medium_airport,BDL,41.93851,-72.688066,US
 Bridgeport,medium_airport,BDR,41.16350173950195,-73.1261978149414,US
 Bradford,medium_airport,BFD,41.8031005859375,-78.64009857177734,US
@@ -1276,8 +915,6 @@ Binghamton,medium_airport,BGM,42.20869827,-75.97979736,US
 Bangor,medium_airport,BGR,44.8074,-68.828102,US
 Bar Harbor,medium_airport,BHB,44.45000076,-68.3615036,US
 Birmingham,medium_airport,BHM,33.562901,-86.753502,US
-Block Island,small_airport,BID,41.1680984497,-71.577796936,US
-Beatrice,small_airport,BIE,40.301300048799995,-96.75409698490002,US
 Billings,medium_airport,BIL,45.807701,-108.542999,US
 Bismarck,medium_airport,BIS,46.772701263427734,-100.74600219726562,US
 Beckley,medium_airport,BKW,37.787300109899995,-81.1241989136,US
@@ -1293,7 +930,6 @@ Brunswick,medium_airport,BQK,31.258800506591797,-81.46649932861328,US
 Brainerd,medium_airport,BRD,46.402861,-94.129727,US
 Burlington,medium_airport,BRL,40.783199310302734,-91.12550354003906,US
 Brownsville,medium_airport,BRO,25.90679931640625,-97.4259033203125,US
-Kaben,small_airport,KBT,8.90056,170.843994,MH
 Butte,medium_airport,BTM,45.95479965209961,-112.49700164794922,US
 Baton Rouge,medium_airport,BTR,30.533199,-91.149597,US
 South Burlington,medium_airport,BTV,44.471901,-73.153297,US
@@ -1342,7 +978,6 @@ Duluth,medium_airport,DLH,46.842098,-92.193604,US
 Des Moines,medium_airport,DSM,41.534,-93.663101,US
 Detroit,large_airport,DTW,42.212398529052734,-83.35340118408203,US
 Dubois,medium_airport,DUJ,41.17829895,-78.8986969,US
-Kandy,seaplane_base,KDZ,7.3251,80.6422,LK
 Kearney,medium_airport,EAR,40.727001,-99.006798,US
 Eau Claire,medium_airport,EAU,44.86579895019531,-91.48429870605469,US
 Panama City Beach,medium_airport,ECP,30.357106,-85.795414,US
@@ -1361,7 +996,6 @@ Key West,medium_airport,EYW,24.556101,-81.759598,US
 Fargo,medium_airport,FAR,46.92070007324219,-96.81580352783203,US
 Fresno,medium_airport,FAT,36.776199,-119.718002,US
 Fayetteville,medium_airport,FAY,34.991199,-78.880302,US
-Friday Harbor,small_airport,FRD,48.5219993591,-123.024002075,US
 Fort Huachuca / Sierra Vista,medium_airport,FHU,31.587383,-110.348225,US
 Flagstaff,medium_airport,FLG,35.1385,-111.670998,US
 Fort Lauderdale,large_airport,FLL,26.072599,-80.152702,US
@@ -1372,12 +1006,6 @@ Sioux Falls,medium_airport,FSD,43.585463,-96.741152,US
 Fort Smith,medium_airport,FSM,35.336601,-94.367401,US
 Fort Wayne,medium_airport,FWA,40.9785,-85.195099,US
 Jalal-Abad,medium_airport,,40.944401,72.977798,KG
-Naryn,small_airport,,41.44150161739999,76.13059997559999,KG
-Talas,small_airport,,42.5059013367,72.2630996704,KG
-Tamga,small_airport,,42.1530990601,77.5639038086,KG
-Tokmok,small_airport,,42.828899383499994,75.33599853519999,KG
-Kerben,small_airport,,41.484500885,71.7337036133,KG
-Kyzyl-Kiya,small_airport,,40.271701812699995,72.0470962524,KG
 Gillette,medium_airport,GCC,44.3489,-105.539001,US
 Garden City,medium_airport,GCK,37.9275016785,-100.723999023,US
 Grand Canyon - Tusayan,medium_airport,GCN,35.9524,-112.147003,US
@@ -1398,8 +1026,6 @@ Greensboro,medium_airport,GSO,36.097801,-79.937302,US
 Greer,medium_airport,GSP,34.895699,-82.218903,US
 Great Falls,medium_airport,GTF,47.48199844,-111.3710022,US
 Columbus/W Point/Starkville,medium_airport,GTR,33.450298309299995,-88.5914001465,US
-Gunnison,small_airport,GUC,38.536346,-106.928306,US
-Grayling,small_airport,KGX,62.895187,-160.066289,US
 Hibbing,medium_airport,HIB,47.3866,-92.838997,US
 Lake Havasu City,medium_airport,HII,34.571098,-114.358002,US
 Helena,medium_airport,HLN,46.6068,-111.983002,US
@@ -1493,24 +1119,19 @@ Missoula,medium_airport,MSO,46.91630173,-114.0910034,US
 Minneapolis,large_airport,MSP,44.882,-93.221802,US
 Massena,medium_airport,MSS,44.936157,-74.844304,US
 New Orleans,large_airport,MSY,29.99340057373047,-90.25800323486328,US
-Martha's Vineyard,small_airport,MVY,41.3931007385,-70.6143035889,US
 Myrtle Beach,medium_airport,MYR,33.6796989441,-78.9282989502,US
 Yuma,medium_airport,YUM,32.656601,-114.606003,US
 Richlands,medium_airport,OAJ,34.829201,-77.612099,US
 Oakland,large_airport,OAK,37.721298,-122.221001,US
 Ogden,medium_airport,OGD,41.195899963379,-112.0120010376,US
-Ogdensburg,small_airport,OGS,44.6819,-75.4655,US
 Oklahoma City,medium_airport,OKC,35.393101,-97.6007,US
 Omaha,medium_airport,OMA,41.3032,-95.894096,US
 Ontario,large_airport,ONT,34.055999755859375,-117.60099792480469,US
 Chicago,large_airport,ORD,41.9786,-87.9048,US
 Norfolk,medium_airport,ORF,36.8946,-76.201202,US
 Worcester,medium_airport,ORH,42.2673,-71.875702,US
-Eastsound,small_airport,ESD,48.7081985474,-122.910003662,US
 North Bend,medium_airport,OTH,43.41709899902344,-124.24600219726562,US
 Owensboro,medium_airport,OWB,37.74010086,-87.16680145,US
-Chongjin,closed,,41.801300048799995,129.854995728,KP
-Samjiyŏn,small_airport,YJS,41.907132,128.409834,KP
 Hoemun-ri,medium_airport,RGO,41.428538,129.647555,KP
 Everett,medium_airport,PAE,47.9063,-122.281998,US
 Paducah,medium_airport,PAH,37.06079864501953,-88.7738037109375,US
@@ -1593,7 +1214,6 @@ St Louis,large_airport,STL,38.748697,-90.370003,US
 Santa Rosa,medium_airport,STS,38.50899887,-122.8130035,US
 Hailey,medium_airport,SUN,43.50439835,-114.2959976,US
 Sioux City,medium_airport,SUX,42.397605,-96.382237,US
-Silver City,small_airport,SVC,32.632293,-108.154263,US
 Newburgh,medium_airport,SWF,41.504101,-74.104797,US
 Syracuse,large_airport,SYR,43.11119842529297,-76.1063003540039,US
 Fort Leonard Wood,medium_airport,TBN,37.74160004,-92.14070129,US
@@ -1615,17 +1235,12 @@ State College,medium_airport,SCE,40.849374,-77.84852,US
 Victoria,medium_airport,VCT,28.85260009765625,-96.91850280761719,US
 Valdosta,medium_airport,VLD,30.782499313354492,-83.27670288085938,US
 Valparaiso,medium_airport,VPS,30.4832,-86.525398,US
-West Point,seaplane_base,KWP,57.770099639899996,-153.548995972,US
-Westerly,small_airport,WST,41.3496017456,-71.8033981323,US
 Kiwayu,medium_airport,KWY,-1.9605599641799927,41.29750061035156,KE
 Fayetteville/Springdale/Rogers,medium_airport,XNA,36.281898,-94.306801,US
 Yakima,medium_airport,YKM,46.56819916,-120.5439987,US
-Zachar Bay,seaplane_base,KZB,57.553001,-153.746052,US
 Ton Phueng,medium_airport,,20.324,100.165,LA
-Abbeville,heliport,,29.974361,-92.108433,US
 Tirana,large_airport,TIA,41.4146995544,19.7206001282,AL
 Burgas,large_airport,BOJ,42.56959915161133,27.515199661254883,BG
-Sydney,seaplane_base,LBH,-33.5871,151.3234,AU
 Plovdiv,medium_airport,PDV,42.067799,24.8508,BG
 Sofia,large_airport,SOF,42.696693420410156,23.411436080932617,BG
 Varna,large_airport,VAR,43.232101,27.8251,BG
@@ -1665,8 +1280,6 @@ Reus,medium_airport,REU,41.1474,1.16717,ES
 Salamanca,medium_airport,SLM,40.952099,-5.50199,ES
 Hondarribia,medium_airport,EAS,43.356499,-1.79061,ES
 Santiago de Compostela,large_airport,SCQ,42.896301,-8.41514,ES
-La Seu d'Urgell Pyrenees and Andorra,small_airport,LEU,42.3386,1.40917,ES
-Villamartin,small_airport,,36.871793,-5.648775,ES
 Valencia,medium_airport,VLC,39.4893,-0.481625,ES
 Valladolid,medium_airport,VLL,41.7061,-4.85194,ES
 Alava,medium_airport,VIT,42.882801,-2.72447,ES
@@ -1734,46 +1347,31 @@ Strasbourg,medium_airport,SXB,48.538299560546875,7.628230094909668,FR
 Toulon/Hyères/Le Palyvestre,medium_airport,TLN,43.0973014832,6.14602994919,FR
 Rize,medium_airport,RZV,41.179625,40.850796,TR
 Nîmes/Garons,medium_airport,FNI,43.75740051269531,4.4163498878479,FR
-La Môle,small_airport,LTT,43.205399,6.482,FR
 Miquelon,medium_airport,MQC,47.095501,-56.380299,PM
 Saint-Pierre,medium_airport,FSP,46.762901306152344,-56.173099517822266,PM
 Alexandroupolis,medium_airport,AXD,40.8559,25.956301,GR
 Athens,large_airport,ATH,37.936401,23.9445,GR
 Nea Anchialos,medium_airport,VOL,39.219601,22.7943,GR
 Chios Island,medium_airport,JKH,38.34320068359375,26.140600204467773,GR
-Ikaria Island,small_airport,JIK,37.6827011108,26.3470993042,GR
 Ioannina,medium_airport,IOA,39.6963996887207,20.822500228881836,GR
 Heraklion,large_airport,HER,35.3396987915,25.180299758900002,GR
-Argos Orestiko,small_airport,KSO,40.446301,21.2822,GR
-Kithira Island,small_airport,KIT,36.2742996216,23.0170001984,GR
 Kefallinia Island,medium_airport,EFL,38.12009811401367,20.500499725341797,GR
-Kastelorizo Island,small_airport,KZS,36.1417007446,29.576400756799995,GR
 Kalamata,medium_airport,KLX,37.06829833984375,22.02549934387207,GR
 Kos Island,medium_airport,KGS,36.79330062866211,27.091699600219727,GR
 Karpathos Island,medium_airport,AOK,35.4213981628418,27.145999908447266,GR
 Kerkyra Island,medium_airport,CFU,39.601898193359375,19.911699295043945,GR
-Kasos Island,small_airport,KSJ,35.4213981628,26.909999847399998,GR
 Kavala,medium_airport,KVA,40.9133,24.6192,GR
-Kalymnos Island,small_airport,JKL,36.9632987976,26.9405994415,GR
 Kozani,medium_airport,KZI,40.286098,21.840799,GR
-Leros Island,small_airport,LRS,37.184898,26.800301,GR
-Limnos Island,small_airport,LXS,39.917098999,25.236299514799995,GR
 Mykonos Island,medium_airport,JMK,37.43510055541992,25.348100662231445,GR
-Milos Island,small_airport,MLO,36.696899,24.4769,GR
 Mytilene,medium_airport,MJT,39.0567016602,26.5983009338,GR
-Naxos,small_airport,JNX,37.0811,25.368099,GR
-Paros,small_airport,PAS,37.020495,25.113195,GR
-Astypalaia Island,small_airport,JTY,36.5798988342,26.3757991791,GR
 Preveza/Lefkada,medium_airport,PVK,38.925498962402344,20.765300750732422,GR
 Rodes Island,medium_airport,RHO,36.405399322509766,28.086200714111328,GR
 Patras,medium_airport,GPA,38.1511,21.4256,GR
 Souda,medium_airport,CHQ,35.531700134277344,24.149700164794922,GR
 Skiathos,medium_airport,JSI,39.177101135253906,23.503700256347656,GR
 Samos Island,medium_airport,SMI,37.689998626708984,26.911699295043945,GR
-Syros Island,small_airport,JSY,37.4227981567,24.950899124099998,GR
 Santorini Island,medium_airport,JTR,36.399200439453125,25.479299545288086,GR
 Crete Island,medium_airport,JSH,35.21609878540039,26.101299285888672,GR
-Skiros Island,small_airport,SKU,38.9676017761,24.4871997833,GR
 Thessaloniki,large_airport,SKG,40.51969909667969,22.97089958190918,GR
 Zakynthos Island,medium_airport,ZTH,37.7509,20.8843,GR
 Budapest,large_airport,BUD,47.42976,19.261093,HU
@@ -1821,7 +1419,6 @@ Pisa,large_airport,PSA,43.683899,10.3927,IT
 Firenze,medium_airport,FLR,43.810001,11.2051,IT
 Perugia,medium_airport,PEG,43.095901,12.5132,IT
 Ljubljana,large_airport,LJU,46.223701,14.4576,SI
-Kilinochchi,small_airport,,9.3066,80.489,LK
 Karlovy Vary,medium_airport,KLV,50.202999114990234,12.914999961853027,CZ
 Ostrava,medium_airport,OSR,49.6963005065918,18.111099243164062,CZ
 Pardubice,medium_airport,PED,50.01340103149414,15.73859977722168,CZ
@@ -1830,9 +1427,7 @@ Brno,medium_airport,BRQ,49.15129852294922,16.694400787353516,CZ
 Tel Aviv,large_airport,TLV,32.01139831542969,34.88669967651367,IL
 Eilat,large_airport,ETM,29.727009,35.014116,IL
 Haifa,medium_airport,HFA,32.80939865112305,35.04309844970703,IL
-Gozo,heliport,GZM,36.027199,14.2728,MT
 Valletta,large_airport,MLA,35.857498,14.4775,MT
-Fontvieille,heliport,MCM,43.725798,7.419673,MC
 Graz (Feldkirchen bei Graz),medium_airport,GRZ,46.9911,15.4396,AT
 Innsbruck,medium_airport,INN,47.260201,11.344,AT
 Klagenfurt am Wörthersee,medium_airport,KLU,46.642502,14.3377,AT
@@ -1841,7 +1436,6 @@ Salzburg,medium_airport,SZG,47.793300628699996,13.0043001175,AT
 Vienna,large_airport,VIE,48.110298,16.5697,AT
 Vila do Porto,medium_airport,SMA,36.97140121459961,-25.17060089111328,PT
 Bragança,medium_airport,BGC,41.8578,-6.70713,PT
-Corvo,small_airport,CVU,39.671501,-31.1136,PT
 Cascais,medium_airport,CAT,38.724998,-9.35523,PT
 Santa Cruz das Flores,medium_airport,FLW,39.455299377441406,-31.131399154663086,PT
 Faro,large_airport,FAO,37.0144004822,-7.96590995789,PT
@@ -1887,25 +1481,19 @@ Seyhan,medium_airport,ADA,36.982201,35.280399,TR
 Antalya,large_airport,AYT,36.898701,30.800501,TR
 Gaziantep,medium_airport,GZT,36.947201,37.478699,TR
 Konya,medium_airport,KYA,37.979,32.561901,TR
-Malatya,small_airport,,38.353699,38.253899,TR
-Amasya,small_airport,MZH,40.829399,35.521999,TR
-Sivas,small_airport,VAS,39.813801,36.9035,TR
 Zonguldak,medium_airport,ONQ,41.506401,32.0886,TR
 Malatya,medium_airport,MLX,38.435298919699996,38.0909996033,TR
 Kayseri,medium_airport,ASR,38.770401001,35.4953994751,TR
 Tokat,medium_airport,TJK,40.307430267333984,36.367408752441406,TR
 Denizli,medium_airport,DNZ,37.7855987549,29.7012996674,TR
-Nevşehir,small_airport,NAV,38.7719,34.5345,TR
 "Bakırköy, Istanbul",large_airport,ISL,40.971913,28.823714,TR
 ,medium_airport,BZI,39.619300842285156,27.926000595092773,TR
 Çanakkale,medium_airport,CKZ,40.1376991272,26.4267997742,TR
 İzmir,large_airport,ADB,38.2924,27.157,TR
-Uşak,small_airport,USQ,38.68149948120117,29.47170066833496,TR
 Bursa,medium_airport,YEI,40.2551994324,29.5625991821,TR
 Dalaman,large_airport,DLM,36.7131004333,28.7924995422,TR
 Çorlu,medium_airport,TEQ,41.13819885253906,27.919099807739258,TR
 Eskişehir,medium_airport,AOE,39.809898,30.5194,TR
-Altıntaş,small_airport,KZR,39.113079,30.128111,TR
 Elazığ,medium_airport,EZS,38.597974,39.28348,TR
 Ordu,medium_airport,OGU,40.966872,38.085995,TR
 Diyarbakır,medium_airport,DIY,37.893902,40.201,TR
@@ -1913,7 +1501,6 @@ Erzincan,medium_airport,ERC,39.7102012634,39.527000427199994,TR
 Erzurum,medium_airport,ERZ,39.956501,41.1702,TR
 Kars,medium_airport,KSY,40.562198638916016,43.1150016784668,TR
 Trabzon,medium_airport,TZX,40.995098,39.7897,TR
-Şanlıurfa,closed,,37.094299,38.847099,TR
 Van,medium_airport,VAN,38.46820068359375,43.332298278808594,TR
 Batman,medium_airport,BAL,37.929000854499996,41.1166000366,TR
 Muş,medium_airport,MSR,38.747798919677734,41.66120147705078,TR
@@ -1938,8 +1525,6 @@ Chişinău,medium_airport,KIV,46.92770004272461,28.930999755859375,MD
 Ohrid,medium_airport,OHD,41.18,20.7423,MK
 Skopje,large_airport,SKP,41.961601,21.621401,MK
 Gibraltar,medium_airport,GIB,36.151199,-5.34966,GI
-Misrata,small_airport,MRA,32.325001,15.061,LY
-Ubari,small_airport,QUB,26.567499,12.8231,LY
 Belgrade,large_airport,BEG,44.818401,20.309099,RS
 Kraljevo,medium_airport,KVO,43.818298,20.5872,RS
 Nis,medium_airport,INI,43.337299,21.853701,RS
@@ -1950,16 +1535,13 @@ Bratislava,large_airport,BTS,48.17020034790039,17.21269989013672,SK
 Košice,medium_airport,KSC,48.66310119628906,21.241100311279297,SK
 Sliač,medium_airport,SLD,48.63779830932617,19.13409996032715,SK
 Poprad,medium_airport,TAT,49.073601,20.2411,SK
-Hamilton,heliport,,46.2066993713,-114.152999878,US
 Cockburn Town,medium_airport,GDT,21.4445,-71.142303,TC
 North Caicos,medium_airport,NCA,21.916094,-71.942954,TC
 Providenciales,large_airport,PLS,21.773697,-72.268321,TC
 South Caicos,medium_airport,XSC,21.515699,-71.528503,TC
-Salt Cay,small_airport,SLX,21.333000183099998,-71.1999969482,TC
 Barahona,medium_airport,BRX,18.25149917602539,-71.12039947509766,DO
 Samana,medium_airport,AZS,19.269259,-69.737405,DO
 La Isabela,medium_airport,JBQ,18.572500228881836,-69.98560333251953,DO
-,small_airport,,18.5964259778,-69.5257759094,DO
 La Romana,medium_airport,LRM,18.450700759887695,-68.91179656982422,DO
 Punta Cana,large_airport,PUJ,18.567399978599997,-68.36340332030001,DO
 Puerto Plata,medium_airport,POP,19.75790023803711,-70.56999969482422,DO
@@ -1967,37 +1549,18 @@ Santo Domingo,large_airport,SDQ,18.42970085144,-69.668899536133,DO
 Santiago,medium_airport,STI,19.406099319458008,-70.60469818115234,DO
 Guatemala City,large_airport,GUA,14.5833,-90.527496,GT
 Puerto Barrios,medium_airport,PBR,15.7309,-88.583801,GT
-Quezaltenango,small_airport,AAZ,14.8656,-91.501999,GT
 Puerto San José,medium_airport,GSJ,13.936200141899999,-90.83580017090001,GT
 San Benito,medium_airport,FRS,16.913799,-89.866402,GT
-Ailuk Island,small_airport,AIM,10.21679973602295,169.98300170898438,MH
-Aur Atoll,small_airport,AUL,8.145279884338379,171.17300415039062,MH
-Bikini Atoll,small_airport,BII,11.5225,165.565002,MH
-Ailinglapalap Atoll,small_airport,JEJ,7.565350055690001,168.962005615,MH
-Likiep Island,small_airport,LIK,9.82316,169.307999,MH
-Maloelap Island,small_airport,MAV,8.70444011688,171.229995728,MH
-Mejit Atoll,small_airport,MJB,10.283302,170.869,MH
-Majkin,small_airport,MJE,7.76291,168.26576,MH
-Namorik Atoll,small_airport,NDK,5.631669998168945,168.125,MH
-Rongelap Island,small_airport,RNP,11.1572,166.886993,MH
-Jabor Jaluit Atoll,small_airport,UIT,5.90924,169.636993,MH
-Woja,small_airport,WJA,7.45083333333,168.55,MH
-Wotje,small_airport,WTE,9.458333,170.238611,MH
-Wotho Island,small_airport,WTO,10.173299789428711,166.0030059814453,MH
 La Ceiba,medium_airport,LCE,15.7425,-86.852997,HN
 San Pedro Sula,medium_airport,SAP,15.4526,-87.923599,HN
 Guanaja,medium_airport,GJA,16.4454,-85.906601,HN
-Puerto Lempira,small_airport,PEU,15.2622,-83.781197,HN
 Coxen Hole,medium_airport,RTB,16.316799,-86.523003,HN
 Palmerola,medium_airport,XPL,14.3824,-87.621201,HN
 Tegucigalpa,medium_airport,TGU,14.0609,-87.217201,HN
-Utila Island,small_airport,UII,16.1131,-86.880302,HN
 Boscobel,medium_airport,OCJ,18.404079,-76.969754,JM
 Kingston,large_airport,KIN,17.935699462890625,-76.7874984741211,JM
 Montego Bay,medium_airport,MBJ,18.503700256347656,-77.91339874267578,JM
 Tinson Pen,medium_airport,KTP,17.98859977722168,-76.82379913330078,JM
-Mili Island,small_airport,MIJ,6.08333,171.733002,MH
-Guasave,small_airport,,25.652200698853,-108.53800201416,MX
 Acapulco,large_airport,ACA,16.757099,-99.753998,MX
 Aguascalientes,medium_airport,AGU,21.699589,-102.318372,MX
 Huatulco,medium_airport,HUX,15.775611,-96.26079,MX
@@ -2015,10 +1578,8 @@ Cozumel,medium_airport,CZM,20.52239990234375,-86.92559814453125,MX
 Comondú,medium_airport,CUA,25.053801,-111.614998,MX
 Durango,medium_airport,DGO,24.1242008209,-104.527999878,MX
 Tepic,medium_airport,TPQ,21.4195,-104.843002,MX
-Ensenada,small_airport,ESE,31.7953,-116.602997,MX
 Guadalajara,large_airport,GDL,20.521799,-103.310997,MX
 Guaymas,medium_airport,GYM,27.9689998626709,-110.92500305175781,MX
-San Quintín,small_airport,GUB,28.0261,-114.024002,MX
 Hermosillo,large_airport,HMO,29.095899581900003,-111.047996521,MX
 Colima,medium_airport,CLQ,19.277,-103.577002,MX
 Saltillo,medium_airport,SLW,25.54949951171875,-100.92900085449219,MX
@@ -2038,14 +1599,12 @@ Cosoleacaque,medium_airport,MTT,18.103399,-94.580704,MX
 Mexico City,large_airport,MEX,19.4363,-99.072098,MX
 Monterrey,medium_airport,MTY,25.7785,-100.107002,MX
 Mazatlán,large_airport,MZT,23.1614,-106.265999,MX
-Nogales,small_airport,NOG,31.225756,-110.976934,MX
 Nuevo Laredo,medium_airport,NLD,27.443899,-99.570503,MX
 Oaxaca,medium_airport,OAX,16.9999008179,-96.726600647,MX
 Poza Rica,medium_airport,PAZ,20.6026992798,-97.46080017090001,MX
 Puebla,medium_airport,PBC,19.1581001282,-98.3713989258,MX
 Piedras Negras,medium_airport,PDS,28.627873,-100.53524,MX
 Uruapan,medium_airport,UPN,19.3967,-102.039001,MX
-Palenque,small_airport,PQM,17.533153,-92.015484,MX
 Puerto Vallarta,large_airport,PVR,20.680099,-105.253998,MX
 Puerto Escondido,medium_airport,PXM,15.8769,-97.089103,MX
 Querétaro,medium_airport,QRO,20.6173,-100.185997,MX
@@ -2064,31 +1623,20 @@ Veracruz,medium_airport,VER,19.1459007263,-96.1873016357,MX
 Zacatecas,medium_airport,ZCL,22.8971004486,-102.68699646,MX
 Ixtapa,medium_airport,ZIH,17.601601,-101.460999,MX
 Manzanillo,medium_airport,ZLO,19.1448,-104.558998,MX
-Mandalgobi,small_airport,MXW,45.7380981445,106.268997192,MN
 Bluefileds,medium_airport,BEF,11.991,-83.774101,NI
-Tola,small_airport,ECI,11.427542,-86.033361,NI
-Omtepe Island,small_airport,,11.523616,-85.702995,NI
 Managua,medium_airport,MGA,12.141500473022461,-86.16819763183594,NI
 Puerto Cabezas,medium_airport,PUZ,14.047200202941895,-83.38670349121094,NI
-Saint Robert,heliport,,37.8232444,-92.1610167,US
-Morowali,small_airport,MOH,-2.203333,121.660278,ID
 Isla Colón,medium_airport,BOC,9.34085,-82.250801,PA
 Chitré,medium_airport,CTD,7.98784,-80.409837,PA
 Changuinola,medium_airport,CHX,9.458962,-82.515062,PA
 David,medium_airport,DAV,8.391,-82.434998,PA
 Colón,medium_airport,ONX,9.356639862060547,-79.86740112304688,PA
-Panamá City,small_airport,BLB,8.91479,-79.599602,PA
-Jaqué,small_airport,JQE,7.51778,-78.157204,PA
 Albrook,medium_airport,PAC,8.973340034484863,-79.55560302734375,PA
-Pedasí,small_airport,PDM,7.534801,-80.043347,PA
-Río Hato,small_airport,RIH,8.375880241394,-80.127899169922,PA
 Tocumen,large_airport,PTY,9.0713596344,-79.3834991455,PA
 Roxana,medium_airport,TTQ,10.42,-83.6095,CR
 Pococi,medium_airport,BCL,10.768699645996094,-83.58560180664062,CR
 Corredores,medium_airport,OTR,8.60155963897705,-82.96859741210938,CR
-Carrillo,small_airport,PLD,9.8705101013184,-85.481399536133,CR
 Golfito,medium_airport,GLF,8.654009819030762,-83.18219757080078,CR
-Nandayure,small_airport,PBP,9.856109619140625,-85.37079620361328,CR
 Liberia,large_airport,LIR,10.5933,-85.544403,CR
 Puerto Limon,medium_airport,LIO,9.95796012878418,-83.02200317382812,CR
 Nicoya,medium_airport,NOB,9.976490020750001,-85.65299987790002,CR
@@ -2122,17 +1670,6 @@ Matanzas,large_airport,VRA,23.034401,-81.435303,CU
 Las Tunas,medium_airport,VTU,20.987600326538086,-76.93579864501953,CU
 Cayman Brac,medium_airport,CYB,19.687,-79.882797,KY
 Georgetown,large_airport,GCM,19.292800903299998,-81.3576965332,KY
-Villahermosa,heliport,,18.501817,-93.520564,MX
-Tuxcacuesco,small_airport,,19.729351,-103.977854,MX
-Cuauhtémoc,heliport,,19.434329,-99.149613,MX
-Margaritas,small_airport,,16.344274,-91.993828,MX
-Ecatepec,heliport,,19.5345,-99.026752,MX
-Camargo,small_airport,,27.848115,-104.204827,MX
-Tuxtla Gutierrez,heliport,,16.748686,-93.075078,MX
-Guadalajara,heliport,,20.678111,-103.456194,MX
-Salina Cruz,small_airport,SCX,16.212600708,-95.20159912110002,MX
-Mukah,closed,,2.907082,112.077756,MY
-Long Banga,small_airport,LBP,3.202138,115.401811,MY
 Andros,medium_airport,TZN,24.158701,-77.589798,BS
 Marsh Harbour,medium_airport,MHH,26.5114,-77.083503,BS
 Andros Island,medium_airport,SAQ,25.053800582885742,-78.04900360107422,BS
@@ -2148,7 +1685,6 @@ North Eleuthera,medium_airport,ELH,25.474899292,-76.6835021973,BS
 Governor's Harbour,medium_airport,GHB,25.2847,-76.331001,BS
 Freeport,medium_airport,FPO,26.5587005615,-78.695602417,BS
 Matthew Town,medium_airport,IGA,20.975000381469727,-73.66690063476562,BS
-May Creek,small_airport,MYK,61.3357009888,-142.68699646,US
 Deadman's Cay,medium_airport,LGI,23.1790008545,-75.09359741210001,BS
 Stella Maris,medium_airport,SML,23.582317,-75.268621,BS
 Abrahams Bay,medium_airport,MYG,22.379499,-73.013494,BS
@@ -2156,61 +1692,29 @@ Nassau,large_airport,NAS,25.039,-77.466202,BS
 San Salvador,medium_airport,ZSA,24.063299,-74.524002,BS
 Belize City,large_airport,BZE,17.539951,-88.303556,BZ
 Baishan,medium_airport,NBS,42.066944,127.602222,CN
-Aitutaki,small_airport,AIT,-18.830900192260742,-159.76400756835938,CK
-Atiu Island,small_airport,AIU,-19.96780014038086,-158.11900329589844,CK
-Mangaia Island,small_airport,MGS,-21.895986557006836,-157.9066619873047,CK
-Manihiki Island,small_airport,MHX,-10.376700401306152,-161.0019989013672,CK
-Mauke Island,small_airport,MUK,-20.13610076904297,-157.34500122070312,CK
-Mitiaro Island,small_airport,MOI,-19.842501,-157.703003,CK
-Penrhyn Island,small_airport,PYE,-9.01436996459961,-158.03240966796875,CK
 Avarua,medium_airport,RAR,-21.2027,-159.806,CK
-Cicia,small_airport,ICI,-17.7432994843,-179.341995239,FJ
 Nadi,medium_airport,NAN,-17.755399703979492,177.4429931640625,FJ
-Malolo Lailai Island,small_airport,PTF,-17.778448,177.196996,FJ
-Vunisea,small_airport,KDV,-19.058099746699998,178.156997681,FJ
-Mana Island,small_airport,MNF,-17.672844,177.0985,FJ
-Moala,small_airport,MFJ,-18.566699981699998,179.951004028,FJ
 Nausori,medium_airport,SUV,-18.04330062866211,178.5590057373047,FJ
-Bureta,small_airport,LEV,-17.7110996246,178.759002686,FJ
-Ngau,small_airport,NGI,-18.115600585899998,179.339996338,FJ
-Lakeba Island,small_airport,LKB,-18.1991996765,-178.817001343,FJ
 ,medium_airport,LBS,-16.466699600219727,179.33999633789062,FJ
-Matei,small_airport,TVU,-16.690599,-179.876999,FJ
-Koro Island,small_airport,KXF,-17.3458003998,179.42199707,FJ
-Rotuma,small_airport,RTA,-12.482500076293945,177.0709991455078,FJ
-Savusavu,small_airport,SVU,-16.803394,179.340587,FJ
-Eua Island,small_airport,EUA,-21.378299713100002,-174.957992554,TO
 Nuku'alofa,medium_airport,TBU,-21.241199493408203,-175.14999389648438,TO
 Lifuka,medium_airport,HPA,-19.777000427246094,-174.34100341796875,TO
-"Angaha, Niuafo'ou Island",small_airport,NFO,-15.5708,-175.632996,TO
-Niuatoputapu,small_airport,NTT,-15.977297,-173.791089,TO
 Vava'u Island,medium_airport,VAV,-18.58530044555664,-173.96200561523438,TO
-Vanua Balavu,small_airport,VBV,-17.268999099731445,-178.9759979248047,FJ
 Gombe,medium_airport,GMO,10.298889,10.9,NG
-Port Harcourt,small_airport,PHG,4.846111,7.021389,NG
-Birinin Kebbi,small_airport,,12.480556,4.369445,NG
 Warri,medium_airport,QRW,5.59611,5.81778,NG
 Funafuti,medium_airport,FUN,-8.525,179.195999,TV
 Tarawa,medium_airport,TRW,1.38164,173.147003,KI
-Butaritari,small_airport,BBG,3.08583,172.811005,KI
-Buariki,small_airport,AAK,0.185278,173.636993,KI
 Alofi,medium_airport,IUE,-19.079030990600586,-169.92559814453125,NU
 Ninglang,medium_airport,NLH,27.5403,100.7593,CN
 Futuna Island,medium_airport,FUT,-14.3114004135,-178.065994263,WF
 Wallis Island,medium_airport,WLS,-13.2383003235,-176.199005127,WF
-Ofu,small_airport,OFU,-14.1844,-169.669998,AS
-Asau,small_airport,AAU,-13.505132,-172.627888,WS
 Apia,medium_airport,APW,-13.829999923706055,-172.00799560546875,WS
 Fitiuta Village,medium_airport,FTI,-14.215622,-169.424254,AS
-Maota,small_airport,MXS,-13.742300033569336,-172.25799560546875,WS
 Pago Pago,medium_airport,PPG,-14.331,-170.710007,AS
 Papeete,large_airport,PPT,-17.553699,-149.606995,PF
-Rimatara Island,small_airport,RMT,-22.63725,-152.8059,PF
 ,medium_airport,RUR,-22.434099197387695,-151.36099243164062,PF
 ,medium_airport,TUB,-23.365400314331055,-149.5240020751953,PF
 Anaa,medium_airport,AAA,-17.3526,-145.509995,PF
 ,medium_airport,TIH,-15.119600296020508,-148.2310028076172,PF
-Apataki,small_airport,APK,-15.5736,-146.414993,PF
 ,medium_airport,FAV,-16.054100036621094,-145.65699768066406,PF
 ,medium_airport,XMH,-14.436800003051758,-146.07000732421875,PF
 ,medium_airport,GMR,-23.07990074157715,-134.88999938964844,PF
@@ -2223,8 +1727,6 @@ Ahe Atoll,medium_airport,AHE,-14.428099632263184,-146.2570037841797,PF
 ,medium_airport,TKX,-14.45580005645752,-145.02499389648438,PF
 Nuku Hiva,medium_airport,NHV,-8.7956,-140.229004,PF
 Hiva Oa Island,medium_airport,AUQ,-9.76879024506,-139.011001587,PF
-Ua Pou,small_airport,UAP,-9.35167,-140.078003,PF
-Ua Huka,small_airport,UAH,-8.936228,-139.554062,PF
 Motu Mute,medium_airport,BOB,-16.444400787353516,-151.75100708007812,PF
 ,medium_airport,RGI,-14.954299926757812,-147.66099548339844,PF
 Fare,medium_airport,HUH,-16.687084,-151.021593,PF
@@ -2232,33 +1734,8 @@ Moorea-Maiao,medium_airport,MOZ,-17.48979,-149.761777,PF
 Otepa,medium_airport,HOI,-18.0748,-140.945999,PF
 ,medium_airport,MAU,-16.42650032043457,-152.24400329589844,PF
 Uturoa,medium_airport,RFP,-16.7229,-151.466003,PF
-Ablow,small_airport,MTV,-13.6660003662,167.712005615,VU
-Sola,small_airport,SLH,-13.8516998291,167.537002563,VU
-Loh/Linua,small_airport,TOH,-13.3280000687,166.638000488,VU
-Emae Island,small_airport,EAE,-17.0902996063,168.343002319,VU
-Craig Cove,small_airport,CCV,-16.264999,167.923996,VU
-Longana,small_airport,LOD,-15.3066997528,167.966995239,VU
-Pentecost Island,small_airport,SSR,-15.4708003998,168.151992798,VU
-Paama Island,small_airport,PBJ,-16.438999176,168.257003784,VU
-Lamap,small_airport,LPM,-16.4611228,167.829253,VU
-Lamen Bay,small_airport,LNB,-16.584199905400002,168.158996582,VU
-Maewo Island,small_airport,MWF,-15,168.082992554,VU
-Lonorore,small_airport,LNE,-15.865599632299999,168.17199707,VU
-Norsup,small_airport,NUS,-16.0797,167.401001,VU
 Gaua Island,medium_airport,ZGU,-14.218099594099998,167.587005615,VU
-Redcliffe,small_airport,RCL,-15.472000122099999,167.835006714,VU
 Luganville,medium_airport,SON,-15.505000114399998,167.220001221,VU
-Tongoa Island,small_airport,TGH,-16.8910999298,168.550994873,VU
-Ambrym Island,small_airport,ULB,-16.3297,168.3011,VU
-Epi Island,small_airport,VLS,-16.796100616500002,168.177001953,VU
-Walaha,small_airport,WLH,-15.411999702500001,167.690994263,VU
-Malekula Island,small_airport,SWJ,-16.4864,167.4472,VU
-Olpoi,small_airport,OLJ,-14.881699562099998,166.557998657,VU
-Anatom Island,small_airport,AUY,-20.2492008209,169.770996094,VU
-Aniwa,small_airport,AWD,-19.2346,169.6009,VU
-Dillon's Bay,small_airport,DLY,-18.7693996429,169.00100708,VU
-Futuna Island,small_airport,FTA,-19.516399383499998,170.231994629,VU
-Ipota,small_airport,IPA,-18.856389,169.283333,VU
 Port Vila,large_airport,VLI,-17.699301,168.320007,VU
 ,medium_airport,TAH,-19.45509910583496,169.2239990234375,VU
 Tiga,medium_airport,TGJ,-21.096099853515625,167.8040008544922,NC
@@ -2272,7 +1749,6 @@ Maré,medium_airport,MEE,-21.481700897216797,168.03799438476562,NC
 Touho,medium_airport,TOU,-20.790127,165.259524,NC
 Ouvéa,medium_airport,UVE,-20.640600204467773,166.572998046875,NC
 Nouméa (La Tontouta),medium_airport,NOU,-22.014601,166.212997,NC
-Pitt Island,small_airport,,-44.293167,-176.203476,NZ
 Auckland,large_airport,AKL,-37.01199,174.786331,NZ
 Taupo,medium_airport,TUO,-38.73970031738281,176.08399963378906,NZ
 Christchurch,large_airport,CHC,-43.48939895629883,172.53199768066406,NZ
@@ -2287,10 +1763,8 @@ New Plymouth,medium_airport,NPL,-39.00859832763672,174.1790008544922,NZ
 Napier,medium_airport,NPE,-39.465801,176.869995,NZ
 Nelson,medium_airport,NSN,-41.298302,173.220993,NZ
 Invercargill,medium_airport,IVC,-46.41239929199219,168.31300354003906,NZ
-Otaki,small_airport,,-40.785582,175.1513,NZ
 ,medium_airport,OAM,-44.970001220703125,171.08200073242188,NZ
 ,medium_airport,PMR,-40.32059860229492,175.61700439453125,NZ
-Koromiko,small_airport,PCN,-41.346099853516,173.95599365234,NZ
 Queenstown,medium_airport,ZQN,-45.021099,168.738998,NZ
 Rotorua,medium_airport,ROT,-38.10919952392578,176.31700134277344,NZ
 Tauranga,medium_airport,TRG,-37.67190170288086,176.1959991455078,NZ
@@ -2302,12 +1776,9 @@ Wellington,large_airport,WLG,-41.3272018433,174.804992676,NZ
 Whangarei,medium_airport,WRE,-35.769253,174.363713,NZ
 Westport,medium_airport,WSZ,-41.737111,171.579033,NZ
 Wanganui,medium_airport,WAG,-39.96220016479492,175.02499389648438,NZ
-Chaghcharan,small_airport,CCN,34.526465,65.27102,AF
-Fayzabad,small_airport,FBD,37.122148,70.5201,AF
 Guzara,medium_airport,HEA,34.209999,62.228298,AF
 Kabul,medium_airport,KBL,34.565899,69.212303,AF
 Khvoshab,medium_airport,KDH,31.5058,65.847801,AF
-Khost,small_airport,,33.333401,69.952003,AF
 Mazar-i-Sharif,medium_airport,MZR,36.706902,67.209702,AF
 Manama,large_airport,BAH,26.267295,50.63764,BH
 Abha,medium_airport,AHB,18.2404,42.656601,SA
@@ -2337,7 +1808,6 @@ Turaif,medium_airport,TUI,31.692188,38.731544,SA
 Wadi Al Dawasir,medium_airport,WAE,20.504299,45.1996,SA
 Al Wajh,medium_airport,EJH,26.198601,36.476398,SA
 Yanbu,medium_airport,YNB,24.144199,38.0634,SA
-Ustupo,small_airport,OGM,9.1383,-77.93385,PA
 Abadan,medium_airport,ABD,30.367887,48.230075,IR
 Dezful,medium_airport,DEF,32.434399,48.397598,IR
 Mahshahr,medium_airport,MRX,30.5562,49.151901,IR
@@ -2357,11 +1827,9 @@ Hamadan,medium_airport,HDM,34.869202,48.552502,IR
 Tehran,large_airport,IKA,35.416099548339844,51.152198791503906,IR
 Tehran,large_airport,THR,35.68920135498047,51.31340026855469,IR
 Karaj,medium_airport,PYK,35.7761,50.826698,IR
-Semnan,small_airport,SNX,35.591099,53.495098,IR
 Bandar Abbas,medium_airport,BND,27.218299865722656,56.37779998779297,IR
 Kerman,medium_airport,KER,30.271276,56.949692,IR
 Bam,medium_airport,BXR,29.0842,58.450001,IR
-Dayrestan,small_airport,GSM,26.754639,55.902353,IR
 Rafsanjan,medium_airport,RJN,30.298345,56.048979,IR
 Birjand,medium_airport,XBJ,32.896525,59.281258,IR
 Mashhad,large_airport,MHD,36.235198974609375,59.64099884033203,IR
@@ -2374,19 +1842,16 @@ Lar,medium_airport,LRR,27.6747,54.383301,IR
 Lamerd,medium_airport,LFM,27.3727,53.188801,IR
 Shiraz,large_airport,SYZ,29.5392,52.589802,IR
 Ardabil,medium_airport,ADU,38.3256988525,48.4244003296,IR
-Parsabad,small_airport,PFQ,39.6036,47.8815,IR
 Urmia,medium_airport,OMH,37.6680984497,45.0686988831,IR
 Tabriz,medium_airport,TBZ,38.1339,46.235001,IR
 Yazd,medium_airport,AZD,31.9048995972,54.2765007019,IR
 Konarak,medium_airport,ZBR,25.44573,60.38246,IR
 Zahedan,medium_airport,ZAH,29.47570037841797,60.90620040893555,IR
-Bandar-e-Jask,small_airport,JSK,25.654757,57.801718,IR
 Amman,large_airport,AMM,31.7226009369,35.9931983948,JO
 Amman,medium_airport,ADJ,31.9727,35.9916,JO
 Aqaba,medium_airport,AQJ,29.611600875854492,35.01810073852539,JO
 Kuwait City,large_airport,KWI,29.226600646972656,47.96889877319336,KW
 Beirut,large_airport,BEY,33.820899963378906,35.488399505615234,LB
-Old Harbor,small_airport,OLH,57.218102,-153.270004,US
 Duqm,large_airport,DQM,19.501944,57.634167,OM
 Abu Dhabi,large_airport,AUH,24.443764,54.651718,AE
 Al Ain,medium_airport,AAN,24.261699676513672,55.60919952392578,AE
@@ -2398,28 +1863,20 @@ Sharjah,large_airport,SHJ,25.32859992980957,55.5172004699707,AE
 Khasab,medium_airport,KHS,26.171,56.240601,OM
 Muscat,large_airport,MCT,23.593299865722656,58.284400939941406,OM
 Salalah,medium_airport,SLL,17.038700103759766,54.09130096435547,OM
-Sohar,small_airport,OHS,24.38604,56.62541,OM
-Bannu,small_airport,BNP,32.9729,70.527901,PK
 Bahawalpur,medium_airport,BHV,29.348100662231445,71.71800231933594,PK
 Chitral,medium_airport,CJL,35.886213,71.799922,PK
-Dalbandin,small_airport,DBA,28.878299713100002,64.3998031616,PK
 Dera Ghazi Khan,medium_airport,DEA,29.961000442504883,70.48590087890625,PK
 Dera Ismael Khan,medium_airport,DSK,31.909400939941406,70.89659881591797,PK
 Faisalabad,medium_airport,LYP,31.364999771118164,72.99479675292969,PK
 Gwadar,medium_airport,GWD,25.232391,62.327671,PK
 Gilgit,medium_airport,GIL,35.918800354003906,74.33360290527344,PK
 Attock,large_airport,ISB,33.549,72.82566,PK
-Jiwani,small_airport,JIW,25.067800521900004,61.8054008484,PK
 Karachi,large_airport,KHI,24.9065,67.160797,PK
-Hyderabad,small_airport,HDD,25.3181,68.366096,PK
-Khuzdar,small_airport,KDD,27.790599823,66.6473007202,PK
 Lahore,large_airport,LHE,31.521601,74.403603,PK
 Muzaffarabad,medium_airport,MFG,34.3390007019043,73.50859832763672,PK
 Moenjodaro,medium_airport,MJD,27.3351993560791,68.14309692382812,PK
 Multan,medium_airport,MUX,30.20319938659668,71.41909790039062,PK
 Nawabashah,medium_airport,WNS,26.2194,68.390099,PK
-Ormara Raik,small_airport,ORW,25.276625,64.588343,PK
-Parachinar,small_airport,PAJ,33.902099609400004,70.0716018677,PK
 Panjgur,medium_airport,PJG,26.954500198364258,64.13249969482422,PK
 Pasni,medium_airport,PSI,25.29050064086914,63.34510040283203,PK
 Peshawar,medium_airport,PEW,33.993900299072266,71.51460266113281,PK
@@ -2431,12 +1888,10 @@ Mirpur Khas,medium_airport,SKZ,27.722000122070312,68.79170227050781,PK
 Sehwan Sharif,medium_airport,SYW,26.473100662231445,67.71720123291016,PK
 Saidu Sharif,medium_airport,SDT,34.8135986328125,72.35279846191406,PK
 Sialkot,medium_airport,SKT,32.535557,74.363892,PK
-Sawan Gas Field,small_airport,RZS,26.9662,68.878098,PK
 Turbat,medium_airport,TUK,25.986400604248047,63.03020095825195,PK
 Fort Sandeman,medium_airport,PZH,31.358400344848633,69.4636001586914,PK
 Baghdad,large_airport,BGW,33.262501,44.2346,IQ
 Arbil,medium_airport,EBL,36.23759841918945,43.963199615478516,IQ
-Port Lions,small_airport,ORI,57.884905,-152.847719,US
 Basra,medium_airport,BSR,30.549101,47.662102,IQ
 Najaf,medium_airport,NJF,31.989853,44.404317,IQ
 Sulaymaniyah,medium_airport,ISU,35.5617485046,45.316738128699996,IQ
@@ -2454,113 +1909,65 @@ Socotra Islands,medium_airport,SCT,12.63070011138916,53.905799865722656,YE
 Seiyun,medium_airport,GXF,15.9661,48.7883,YE
 Ta'izz,medium_airport,TAI,13.6859998703,44.139099121099996,YE
 Zagora,medium_airport,OZG,30.263858,-5.853341,MA
-Mulatupo,small_airport,MPP,8.9453,-77.7331,PA
-Playón Chico,small_airport,PYC,9.305184161299998,-78.235874176,PA
-Bahia Piña,small_airport,BFQ,7.586764,-78.180251,PA
-El Real de Santa María,small_airport,ELE,8.1072,-77.7252,PA
-Contadora Island,small_airport,OTD,8.62876,-79.034698,PA
-Boca de Sábalo,small_airport,SAX,8.026279,-78.209555,PA
 Bethel,medium_airport,BET,60.77980042,-161.8379974,US
 Utqiaġvik,medium_airport,BRW,71.285402,-156.766008,US
 Cordova,medium_airport,CDV,60.491798,-145.477997,US
-Yakataga,small_airport,CYT,60.080974,-142.494541,US
 Adak,medium_airport,ADK,51.883564,-176.642783,US
 Dillingham,medium_airport,DLG,59.04470062,-158.5050049,US
 Marshall,medium_airport,MLL,61.8642997742,-162.026000977,US
 Kodiak,medium_airport,ADQ,57.75,-152.4940033,US
 Unalaska,medium_airport,DUT,53.89881,-166.544996,US
-Elfin Cove,seaplane_base,ELV,58.195201873799995,-136.347000122,US
 Emmonak,medium_airport,EMK,62.78609848,-164.4909973,US
 Fairbanks,large_airport,FAI,64.81510162,-147.8560028,US
-Shungnak,small_airport,SHG,66.88809967041,-157.16200256348,US
-Angoon,seaplane_base,AGN,57.497097,-134.56722,US
 Gustavus,medium_airport,GST,58.4253006,-135.7070007,US
-Skagway,small_airport,SGY,59.460343,-135.316651,US
 Holy Cross,medium_airport,HCR,62.18830108642578,-159.77499389648438,US
 Haines,medium_airport,HNS,59.24380111694336,-135.5240020751953,US
-Hughes,small_airport,HUS,66.04109955,-154.2630005,US
 Egegik,medium_airport,EGX,58.184386,-157.374873,US
-Wales,small_airport,WAA,65.622593,-168.095,US
 Juneau,medium_airport,JNU,58.35499954223633,-134.5760040283203,US
-Koliganek,small_airport,KGK,59.726600647,-157.259002686,US
 King Salmon,medium_airport,AKN,58.677845,-156.651965,US
 Ketchikan,medium_airport,KTN,55.35559845,-131.7140045,US
-Kalskag,small_airport,KLG,61.53630065917969,-160.34100341796875,US
 McGrath,medium_airport,MCG,62.95289993,-155.6060028,US
-St Michael,small_airport,SMK,63.49010086,-162.1100006,US
-Mountain Village,small_airport,MOU,62.095401763916016,-163.6820068359375,US
 Anchorage,large_airport,ANC,61.1744,-149.996002,US
 Aniak,medium_airport,ANI,61.581600189208984,-159.54299926757812,US
-Funter Bay,seaplane_base,FNR,58.2543983459,-134.897994995,US
 Metlakatla,medium_airport,ANN,55.037026,-131.572695,US
 Anvik,medium_airport,ANV,62.646702,-160.190994,US
-Hoonah,small_airport,HNH,58.0961,-135.410111,US
 Nome,medium_airport,OME,64.51219940185547,-165.44500732421875,US
 Kotzebue,medium_airport,OTZ,66.88469696,-162.598999,US
 St George,medium_airport,STG,56.577345,-169.663823,US
 Petersburg,medium_airport,PSG,56.80170059,-132.9450073,US
-Quinhagak,small_airport,KWN,59.7551,-161.845,US
 Arctic Village,medium_airport,ARC,68.1147,-145.578995,US
 Deadhorse,medium_airport,SCC,70.19470215,-148.4649963,US
 Sitka,medium_airport,SIT,57.04710006713867,-135.36199951171875,US
-Selawik,small_airport,WLK,66.600098,-159.985992,US
 St Paul Island,medium_airport,SNP,57.166311,-170.222555,US
-Teller,small_airport,TLA,65.2404022217,-166.339004517,US
-Akutan,small_airport,KQA,54.14459,-165.604332,US
-Chevak,small_airport,VAK,61.5409,-165.6005,US
 Wrangell,medium_airport,WRG,56.48429871,-132.3699951,US
 Yakutat,medium_airport,YAK,59.508717,-139.660435,US
-Noorvik,small_airport,ORV,66.817902,-161.018997,US
-Tok,small_airport,TKJ,63.32949829,-142.9539948,US
-Aitape,small_airport,TAJ,-3.19819180354,142.430963516,PG
-Awaba,small_airport,AWB,-8.00611019135,142.748352051,PG
-Gasmata Island,small_airport,GMI,-6.27111005783,150.330993652,PG
-Ihu,small_airport,IHU,-7.8975601196300005,145.395996094,PG
-Jacquinot Bay,small_airport,JAQ,-5.65250015259,151.507003784,PG
-Kandrian,small_airport,KDR,-6.19217,149.54783,PG
-Kokoda,small_airport,KKD,-8.88467884064,147.730957031,PG
-Kamusi,small_airport,KUY,-7.420347,143.121811,PG
-Lake Murray,small_airport,LMY,-7.00992012024,141.494003296,PG
-Obo,small_airport,OBX,-7.590622421369999,141.324262619,PG
 Balimo,medium_airport,OPU,-8.05000019073,142.932998657,PG
-Suki,small_airport,SKC,-8.0466,141.7222,PG
-Tufi,small_airport,TFI,-9.07595443726,149.319839478,PG
-Nuku,small_airport,UKU,-3.676651,142.484334,PG
 Baimuru,medium_airport,VMU,-7.49686002731,144.819900513,PG
-Wipim,small_airport,WPM,-8.788220405579999,142.882003784,PG
 Rota Island,medium_airport,ROP,14.1743,145.242996,MP
 "I Fadang, Saipan",medium_airport,SPN,15.119,145.729004,MP
 Hagåtña,large_airport,GUM,13.4834,144.796005,GU
 Cagayan de Oro,medium_airport,CGY,8.612203,124.456496,PH
 Lal-lo,medium_airport,LLC,18.182388,121.745853,PH
-Pasay,seaplane_base,,14.556705,120.979401,PH
-El Nido,small_airport,ENI,11.202399,119.416087,PH
 Hana,medium_airport,HNM,20.795601,-156.014008,US
 Lahaina,medium_airport,JHM,20.9629,-156.673004,US
 Kailua-Kona,medium_airport,KOA,19.738783,-156.045603,US
 Lihue,medium_airport,LIH,21.976,-159.339005,US
-Kalaupapa,small_airport,LUP,21.211,-156.973999,US
 Kaunakakai,medium_airport,MKK,21.152901,-157.095993,US
 Waimea (Kamuela),medium_airport,MUE,20.001301,-155.667999,US
 Honolulu,large_airport,HNL,21.32062,-157.924228,US
 Lanai City,medium_airport,LNY,20.785675,-156.951324,US
 Kahului,medium_airport,OGG,20.898543,-156.431212,US
 Hilo,medium_airport,ITO,19.721399,-155.048004,US
-Eniwetok Atoll,small_airport,ENT,11.340700149536133,162.3280029296875,MH
 Majuro Atoll,medium_airport,MAJ,7.064760208129883,171.27200317382812,MH
 Kaieteur Falls,medium_airport,KAI,5.17275476456,-59.491481781,GY
 Kwajalein,medium_airport,KWA,8.720120429992676,167.73199462890625,MH
 Kiritimati,medium_airport,CXI,1.986278,-157.350011,KI
-Salinas,closed,,17.970482,-66.266021,PR
-San Juan,seaplane_base,,18.457799911499997,-66.1211013794,PR
 Weno Island,medium_airport,TKK,7.461870193481445,151.84300231933594,FM
 Pohnpei Island,medium_airport,PNI,6.985099792480469,158.20899963378906,FM
 Babelthuap Island,medium_airport,ROR,7.36731,134.544236,PW
 Okat,medium_airport,KSA,5.35698,162.957993,FM
 Yap Island,medium_airport,YAP,9.49891,138.082993,FM
 Wake Island,medium_airport,AWK,19.282437,166.636637,UM
-Kili Island,small_airport,KIO,5.644515,169.119507,MH
-Igaliku,heliport,QFX,60.99229,-45.431428,GL
 Shang-I,medium_airport,KNH,24.4279,118.359001,TW
 Matsu (Nangan),medium_airport,LZN,26.1598,119.958,TW
 Taitung City,medium_airport,TTT,22.7549991607666,121.10199737548828,TW
@@ -2576,11 +1983,9 @@ Pingtung,medium_airport,PIF,22.700199127197266,120.48200225830078,TW
 Taipei City,medium_airport,TSA,25.069400787353516,121.552001953125,TW
 Taoyuan (Dayuan),large_airport,TPE,25.0777,121.233002,TW
 Hualien City,medium_airport,HUN,24.023099899291992,121.61799621582031,TW
-Badanjilin,small_airport,RHT,39.225,101.546,CN
 Narita,large_airport,NRT,35.764702,140.386002,JP
 Matsumoto,medium_airport,MMJ,36.166801,137.923004,JP
 Omitama,medium_airport,IBR,36.181099,140.414993,JP
-Niijima Village,small_airport,,34.3694000244,139.268997192,JP
 Osaka,large_airport,KIX,34.427299,135.244003,JP
 Shirahama,medium_airport,SHM,33.6622009277,135.363998413,JP
 Kobe,medium_airport,UKB,34.6328010559082,135.2239990234375,JP
@@ -2592,7 +1997,6 @@ Kushiro,medium_airport,KUH,43.041000366199995,144.192993164,JP
 Nakashibetsu,medium_airport,SHB,43.5774993896,144.960006714,JP
 Sapporo,medium_airport,OKD,43.117447,141.38134,JP
 Wakkanai,medium_airport,WKJ,45.4042015076,141.800994873,JP
-Amakusa,small_airport,AXJ,32.482498,130.158997,JP
 Iki,medium_airport,IKI,33.7490005493,129.785003662,JP
 Ube,medium_airport,UBJ,33.930000305200004,131.279006958,JP
 Tsushima,medium_airport,TSJ,34.2849006653,129.330993652,JP
@@ -2650,7 +2054,6 @@ Hachijojima,medium_airport,HAC,33.115002,139.785995,JP
 Izu Oshima,medium_airport,OIM,34.782001495399996,139.36000061,JP
 Miyakejima,medium_airport,MYE,34.073600769,139.559997559,JP
 Tokyo,large_airport,HND,35.552299,139.779999,JP
-Dokdo (Liancourt Rocks),heliport,,37.239445,131.868781,KR
 Piseo-ri (Muan),large_airport,MWX,34.991406,126.382814,KR
 Gwangju,medium_airport,KWJ,35.123173,126.805444,KR
 Kunsan,medium_airport,KUV,35.903801,126.615997,KR
@@ -2666,12 +2069,10 @@ Seoul,large_airport,GMP,37.5583,126.791,KR
 Pohang,medium_airport,KPO,35.987955,129.420383,KR
 Daegu,medium_airport,TAE,35.896872,128.65531,KR
 Cheongju,medium_airport,CJJ,36.717008,127.498741,KR
-Rampart,small_airport,RMP,65.507896,-150.141007,US
 Naha,large_airport,OKA,26.195801,127.646004,JP
 Kumejima,medium_airport,UEO,26.363445,126.71384,JP
 Minamidaito,medium_airport,MMD,25.8465,131.263,JP
 Miyako City,medium_airport,MMY,24.782800674399997,125.294998169,JP
-Aguni,small_airport,AGJ,26.592755,127.240335,JP
 Kitadaitōjima,medium_airport,KTD,25.9447002411,131.32699585,JP
 Tarama,medium_airport,TRA,24.653900146499996,124.675003052,JP
 Yoron,medium_airport,RNJ,27.044001,128.401993,JP
@@ -2680,9 +2081,6 @@ Olongapo,medium_airport,SFS,14.7944,120.271004,PH
 Mabalacat,medium_airport,CRK,15.186,120.559998,PH
 Laoag City,medium_airport,LAO,18.176121,120.531034,PH
 Manila,large_airport,MNL,14.5086,121.019997,PH
-Palanan,small_airport,,17.065667,122.427671,PH
-Cuyo,small_airport,CYU,10.858099937438965,121.06900024414062,PH
-Legazpi City,closed,,13.1575,123.735,PH
 Itbayat,medium_airport,,20.722521,121.809969,PH
 Datu Odin Sinsuat,medium_airport,CBO,7.164753,124.209938,PH
 Davao,large_airport,DVO,7.12552,125.646004,PH
@@ -2696,10 +2094,7 @@ General Santos,medium_airport,GES,6.05800008774,125.096000671,PH
 Surigao City,medium_airport,SUG,9.755838325629998,125.480947495,PH
 Tandag,medium_airport,TDG,9.072002,126.17132,PH
 Zamboanga City,medium_airport,ZAM,6.922420024871826,122.05999755859375,PH
-Del Carmen,small_airport,IAO,9.8591,126.014,PH
-Taytay,small_airport,RZP,11.05065,119.519266,PH
 Panglao,medium_airport,TAG,9.573045,123.770143,PH
-San Vicente,small_airport,SWL,10.524298,119.272899,PH
 Baguio City,medium_airport,BAG,16.375099182128906,120.62000274658203,PH
 San Jose,medium_airport,SJI,12.361499786399998,121.04699707,PH
 Naga,medium_airport,WNP,13.58489990234375,123.2699966430664,PH
@@ -2723,20 +2118,10 @@ Puerto Princesa,medium_airport,PPS,9.74212,118.759003,PH
 Roxas City,medium_airport,RXS,11.597700119018555,122.75199890136719,PH
 Tablas Island,medium_airport,TBH,12.3109998703,122.084999084,PH
 Coron,medium_airport,USU,12.121865,120.100801,PH
-Nogliki,small_airport,NGK,51.782337,143.140783,RU
 Grozny,medium_airport,GRV,43.388106,45.699772,RU
 Yamburg,medium_airport,,67.986664,75.099998,RU
-Yelizovo,heliport,,53.15999984741211,158.38499450683594,RU
 Kostomuksha,medium_airport,,64.61799621579999,30.687000274699997,RU
-Udskoye,small_airport,,54.5217291038,134.423046112,RU
-Bichevaya,small_airport,,47.75029,135.64066,RU
-,small_airport,,59.498603,119.309163,RU
-Kizhi,heliport,,62.076514,35.226102,RU
 Utrenneye gas terminal,medium_airport,,71.011405,74.259759,RU
-Kurilsk,closed,,45.251701,148.311996,RU
-Lopez,small_airport,LPS,48.4838981628418,-122.93800354003906,US
-Kenmore,seaplane_base,KEH,47.7547988892,-122.259002686,US
-Presidencia Roca,small_airport,,-26.2959,-59.5353,AR
 Parana,medium_airport,PRA,-31.7948,-60.4804,AR
 Rosario,medium_airport,ROS,-32.9036,-60.785,AR
 Santa Fe,medium_airport,SFN,-31.7117,-60.8117,AR
@@ -2764,19 +2149,15 @@ Tartagal,medium_airport,TTG,-22.6196,-63.793701,AR
 Comodoro Rivadavia,medium_airport,CRD,-45.7853,-67.4655,AR
 Esquel,medium_airport,EQS,-42.908000946,-71.139503479,AR
 Las Heras,medium_airport,LHS,-46.538517,-68.965323,AR
-San Antonio Oeste,small_airport,OES,-40.7512,-65.0343,AR
 Rawson,medium_airport,REL,-43.2105,-65.2703,AR
 Viedma / Carmen de Patagones,medium_airport,VDM,-40.8692,-63.0004,AR
 Puerto Madryn,medium_airport,PMY,-42.7592,-65.1027,AR
-El Calafate,closed,,-50.336102,-72.248596,AR
 El Calafate,medium_airport,FTE,-50.2803,-72.053101,AR
 Puerto Deseado,medium_airport,PUD,-47.7353,-65.9041,AR
 Rio Gallegos,medium_airport,RGL,-51.6089,-69.3126,AR
 Ushuaia,medium_airport,USH,-54.8433,-68.2958,AR
 San Julian,medium_airport,ULA,-49.306816,-67.802596,AR
 Perito Moreno,medium_airport,PMQ,-46.537899,-70.978699,AR
-Gobernador Gregores,small_airport,GGS,-48.7831,-70.150002,AR
-Rio Turbio,small_airport,RYO,-51.605,-72.2203,AR
 Puerto Santa Cruz,medium_airport,RZA,-50.0165,-68.5792,AR
 Bahia Blanca,medium_airport,BHI,-38.725,-62.1693,AR
 Santa Teresita,medium_airport,SST,-36.5423,-56.7218,AR
@@ -2790,26 +2171,21 @@ Araraquara,medium_airport,AQA,-21.812,-48.132999,BR
 Aracaju,medium_airport,AJU,-10.984,-37.070301,BR
 Alta Floresta,medium_airport,AFL,-9.866389,-56.106298,BR
 Araçatuba,medium_airport,ARU,-21.141479,-50.424575,BR
-Araxá,small_airport,AAX,-19.5632,-46.9604,BR
 Belém,large_airport,BEL,-1.379279,-48.476207,BR
 Brasília,large_airport,BSB,-15.869167,-47.920834,BR
 Boa Vista,medium_airport,BVB,2.845855,-60.690944,BR
 Cascavel,medium_airport,CAC,-25.000323,-53.501208,BR
-Cabo Frio,small_airport,CFB,-22.921485,-42.071874,BR
-Caçador,small_airport,CFC,-26.787423,-50.939942,BR
 Belo Horizonte,large_airport,CNF,-19.63571,-43.966928,BR
 Campo Grande,medium_airport,CGR,-20.469998,-54.673988,BR
 Chapecó,medium_airport,XAP,-27.134199,-52.656601,BR
 Parauapebas,medium_airport,CKS,-6.117841,-50.003372,BR
 Criciúma,medium_airport,CCM,-28.725743,-49.424475,BR
-Caldas Novas,small_airport,CLV,-17.725096,-48.606324,BR
 Campos Dos Goytacazes,medium_airport,CAW,-21.698299,-41.301701,BR
 Corumbá,medium_airport,CMG,-19.01193,-57.672772,BR
 Curitiba,medium_airport,CWB,-25.5285,-49.1758,BR
 Caxias Do Sul,medium_airport,CXJ,-29.197183,-51.187647,BR
 Cuiabá,medium_airport,CGB,-15.6529,-56.116699,BR
 Cruzeiro Do Sul,medium_airport,CZS,-7.59991,-72.769501,BR
-Bonito,small_airport,BYO,-21.2473,-56.452399,BR
 Presidente Prudente,medium_airport,PPB,-22.1751,-51.424599,BR
 Manaus,large_airport,MAO,-3.03861,-60.049702,BR
 Foz do Iguaçu,medium_airport,IGU,-25.594167,-54.489444,BR
@@ -2819,21 +2195,16 @@ Fortaleza,medium_airport,FOR,-3.77628,-38.5326,BR
 Rio De Janeiro,large_airport,GIG,-22.809999,-43.250557,BR
 Goiânia,medium_airport,GYN,-16.632,-49.220699,BR
 São Paulo,large_airport,GRU,-23.431944,-46.467778,BR
-Guarapuava,small_airport,GPB,-25.388327,-51.52349,BR
-Governador Valadares,small_airport,GVR,-18.895882,-41.982869,BR
 Altamira,medium_airport,ATM,-3.253144,-52.253938,BR
 Itaituba,medium_airport,ITB,-4.242131,-56.000651,BR
 Ilhéus,medium_airport,IOS,-14.815929,-39.033458,BR
 Ipatinga,medium_airport,IPN,-19.470699,-42.487598,BR
 Imperatriz,medium_airport,IMP,-5.53129,-47.459999,BR
-Jaguaruna,small_airport,JJG,-28.6753,-49.0596,BR
 Juiz de Fora,medium_airport,JDF,-21.791482,-43.386072,BR
 João Pessoa,medium_airport,JPA,-7.148691,-34.950554,BR
-Juazeiro do Norte,small_airport,JDO,-7.21932,-39.269096,BR
 Joinville,medium_airport,JOI,-26.224501,-48.797401,BR
 Campina Grande,medium_airport,CPV,-7.269662,-35.896057,BR
 Campinas,medium_airport,VCP,-23.007404,-47.134502,BR
-Lençóis,small_airport,LEC,-12.4823,-41.277,BR
 Lages,medium_airport,LAJ,-27.782101,-50.281502,BR
 Londrina,medium_airport,LDB,-23.333599,-51.1301,BR
 Marabá,medium_airport,MAB,-5.36859,-49.138,BR
@@ -2866,13 +2237,10 @@ São José Dos Campos,medium_airport,SJK,-23.2292,-45.8615,BR
 São Luís,medium_airport,SLZ,-2.58536,-44.2341,BR
 Santa Maria,medium_airport,RIA,-29.711399,-53.688202,BR
 Santarém,medium_airport,STM,-2.422423,-54.79306,BR
-Sorriso,small_airport,SMT,-12.479177,-55.672341,BR
 São Paulo,medium_airport,CGH,-23.627657,-46.654601,BR
 São José do Rio Preto,medium_airport,SJP,-20.817113,-49.406963,BR
 Salvador,large_airport,SSA,-12.908611,-38.322498,BR
 Oriximiná,medium_airport,TMT,-1.4896,-56.396801,BR
-Una,small_airport,UNA,-15.354358,-38.998729,BR
-Toledo,small_airport,TOW,-24.6863,-53.697498,BR
 Teresina,medium_airport,THE,-5.06025,-42.823712,BR
 Tefé,medium_airport,TFF,-3.38294,-64.724098,BR
 Tabatinga,medium_airport,TBT,-4.25567,-69.935799,BR
@@ -2898,36 +2266,22 @@ Concepcion,medium_airport,CCP,-36.772701,-73.063103,CL
 Isla De Pascua,medium_airport,IPC,-27.1648006439,-109.42199707,CL
 Osorno,medium_airport,ZOS,-40.611198,-73.060997,CL
 Puerto Natales,medium_airport,PNT,-51.67067,-72.529078,CL
-Pucon,small_airport,ZPC,-39.292801,-71.915901,CL
 Temuco,medium_airport,ZCO,-38.9259,-72.6515,CL
-Villa Las Estrellas,small_airport,TNM,-62.191026,-58.98669,AQ
 La Serena-Coquimbo,medium_airport,LSC,-29.916201,-71.199501,CL
 Puerto Montt,medium_airport,PMC,-41.438899993896484,-73.09400177001953,CL
 Valdivia,medium_airport,ZAL,-39.6500015259,-73.0860977173,CL
-Valdivia,small_airport,,-39.7969017029,-73.24169921880001,CL
-São Paulo,heliport,,-23.54356,-46.644634,BR
-Sorocaba,small_airport,SOD,-23.478001,-47.490002,BR
-Paraty,small_airport,JPY,-23.224044,-44.7234,BR
 Coca,medium_airport,OCC,-0.4628860056400299,-76.98680114746094,EC
 Cuenca,medium_airport,CUE,-2.88947,-78.984398,EC
-Isla Baltra,small_airport,GPS,-0.453758,-90.2659,EC
 Guayaquil,large_airport,GYE,-2.15742,-79.883598,EC
-Puerto Villamil,small_airport,IBB,-0.942628,-90.953003,EC
 Latacunga,medium_airport,LTX,-0.906833,-78.615799,EC
 Macas,medium_airport,XMS,-2.2991700172424316,-78.12079620361328,EC
 Manta,medium_airport,MEC,-0.9460780024528503,-80.67880249023438,EC
 Quito,large_airport,UIO,-0.129166666667,-78.3575,EC
 Santa Rosa,medium_airport,ETR,-3.441986,-79.996957,EC
-Puerto Baquerizo Moreno,small_airport,SCY,-0.910206,-89.617401,EC
-La Toma (Catamayo),small_airport,LOH,-3.99589,-79.371902,EC
-Tachina,small_airport,ESM,0.9785190224647522,-79.62660217285156,EC
 Tulcán,medium_airport,TUA,0.8095059990882874,-77.70809936523438,EC
 Stanley,medium_airport,PSY,-51.685699462891,-57.777599334717,FK
 Asunción,medium_airport,ASU,-25.239999771118164,-57.52000045776367,PY
-Encarnación,small_airport,ENO,-27.227366,-55.837495,PY
 Ciudad del Este,medium_airport,AGT,-25.454516,-54.842682,PY
-Maraú,small_airport,,-13.906082,-38.940804,BR
-Juara,small_airport,JUA,-11.2966,-57.5495,BR
 Bauru,medium_airport,JTC,-22.160755,-49.070325,BR
 Armenia,medium_airport,AXM,4.45278,-75.7664,CO
 Puerto Asís,medium_airport,PUU,0.505228,-76.5008,CO
@@ -2945,19 +2299,14 @@ Barrancabermeja,medium_airport,EJA,7.02433,-73.8068,CO
 Florencia,medium_airport,FLA,1.58919,-75.5644,CO
 Cartago,medium_airport,CRC,4.75818,-75.9557,CO
 Guapi,medium_airport,GPI,2.57013,-77.897969,CO
-Garzón,small_airport,,2.1464,-75.6944,CO
 Ibagué,medium_airport,IBE,4.42161,-75.1333,CO
 Ipiales,medium_airport,IPI,0.861925,-77.6718,CO
 Carepa,medium_airport,APO,7.81196,-76.7164,CO
-Puerto Leguízamo,small_airport,LQM,-0.182278,-74.7708,CO
-La Pedrera,small_airport,LPD,-1.32861,-69.5797,CO
 Leticia,medium_airport,LET,-4.19355,-69.9432,CO
 Medellín,medium_airport,EOH,6.220549,-75.590582,CO
 Montería,medium_airport,MTR,8.82374,-75.8258,CO
 Mitú,medium_airport,MVP,1.25366,-70.2339,CO
 Manizales,medium_airport,MZL,5.0296,-75.4647,CO
-La Macarena,small_airport,LMC,2.17565,-73.78674,CO
-Nuquí,small_airport,NQU,5.6964,-77.2806,CO
 Neiva,medium_airport,NVA,2.95015,-75.294,CO
 Puerto Carreño,medium_airport,PCR,6.18472,-67.4932,CO
 Puerto Inírida,medium_airport,PDA,3.85353,-67.9062,CO
@@ -2967,12 +2316,10 @@ Pasto,medium_airport,PSO,1.39625,-77.2915,CO
 Providencia,medium_airport,PVA,13.357461,-81.357977,CO
 Medellín,medium_airport,MDE,6.16454,-75.4231,CO
 Riohacha,medium_airport,RCH,11.5262,-72.926,CO
-Saravena,small_airport,RVE,6.951868,-71.857179,CO
 San José Del Guaviare,medium_airport,SJE,2.57969,-72.6394,CO
 Santa Marta,medium_airport,SMR,11.1196,-74.2306,CO
 San Andrés,medium_airport,ADZ,12.5836,-81.7112,CO
 San Vicente Del Caguán,medium_airport,SVI,2.15217,-74.7663,CO
-Santiago de Tolú,small_airport,TLU,9.50945,-75.5854,CO
 Tame,medium_airport,TME,6.45108,-71.7603,CO
 Arauca,medium_airport,AUC,7.06888,-70.7369,CO
 Quibdó,medium_airport,UIB,5.69076,-76.6412,CO
@@ -2981,54 +2328,19 @@ Villavicencio,medium_airport,VVC,4.16787,-73.6138,CO
 El Yopal,medium_airport,EYP,5.31911,-72.384,CO
 Yamparaez,medium_airport,SRE,-19.246835,-65.149611,BO
 Cochabamba,medium_airport,CBB,-17.421100616455078,-66.1771011352539,BO
-Chimore,small_airport,CCA,-16.976834,-65.145568,BO
 Cobija,medium_airport,CIJ,-11.040399551400002,-68.7829971313,BO
 Santa Cruz,medium_airport,SRZ,-17.8115997314,-63.1715011597,BO
-Guayaramerín,small_airport,GYA,-10.820599556,-65.3455963135,BO
 La Paz / El Alto,medium_airport,LPB,-16.5132999420166,-68.19229888916016,BO
-Puerto Rico/Manuripi,small_airport,PUR,-11.107663,-67.551155,BO
 Puerto Suárez,medium_airport,PSZ,-18.975301,-57.820599,BO
-Riberalta,small_airport,RIB,-11,-66,BO
-Reyes,small_airport,REY,-14.3044,-67.353401,BO
-San Borja,small_airport,SRJ,-14.859199523925781,-66.73750305175781,BO
 Tarija,medium_airport,TJA,-21.5557,-64.701302,BO
 Santa Cruz,large_airport,VVI,-17.6448,-63.135399,BO
-Afobakka,small_airport,,4.998505,-54.992033,SR
-Lawa Cottica,small_airport,,3.85216,-54.228201,SR
-Drietabbetje,small_airport,DRJ,4.111359,-54.672766,SR
-Pikienkondre of Miranda,small_airport,,4.0583,-54.7861,SR
 Zandery,large_airport,PBM,5.45283,-55.187801,SR
-Moengo,small_airport,MOJ,5.6076,-54.4003,SR
-Benzdorp,small_airport,,3.679806,-54.085207,SR
-Wageningen,small_airport,AGI,5.841252,-56.673247,SR
-Paramaribo,small_airport,ORG,5.811131,-55.1913,SR
-Paragominas,small_airport,JPE,-3.019798,-47.316474,BR
-Vacaria,small_airport,VCC,-28.43248,-51.023322,BR
-Ponta Porã,small_airport,,-22.559118,-55.381143,BR
-Guarapari,small_airport,GUZ,-20.6465,-40.491901,BR
-Feira De Santana,small_airport,FEC,-12.200694,-38.906164,BR
-Mucuri,small_airport,MVS,-18.048900604248047,-39.864200592041016,BR
-Cairu,small_airport,MXQ,-13.428781,-38.913689,BR
-Caruaru,small_airport,CAU,-8.28239,-36.0135,BR
-Salinópolis,small_airport,OPP,-0.696111,-47.336111,BR
-Teixeira De Freitas,small_airport,TXF,-17.524499893188,-39.66849899292,BR
-Óbidos,small_airport,OBI,-1.867981,-55.514596,BR
-Valença,small_airport,VAL,-13.2965,-38.992401,BR
-Almeirim,small_airport,GGF,-1.479524,-52.578214,BR
-Paracatu,small_airport,,-17.242599,-46.883099,BR
 Mogadishu,medium_airport,,2.00528,44.986599,SO
 Matoury,large_airport,CAY,4.819964,-52.361326,GF
-Grand-Santi,small_airport,GSI,4.285833,-54.373056,GF
-Maripasoula,small_airport,MPY,3.655907,-54.039431,GF
-Saint-Laurent-du-Maroni,small_airport,LDX,5.48306,-54.034401,GF
-Saül,small_airport,XAU,3.61361,-53.204201,GF
 Pucallpa,medium_airport,PCL,-8.37794017791748,-74.57430267333984,PE
 Chimbote,medium_airport,CHM,-9.14961,-78.523804,PE
 Chiclayo,medium_airport,CIX,-6.78748,-79.828102,PE
-Olmos,closed,,-5.984722,-79.745277,PE
 Ayacucho,medium_airport,AYP,-13.1548,-74.204399,PE
-Huancayo,small_airport,,-12.069899559020996,-75.19850158691406,PE
-Andahuaylas,small_airport,ANS,-13.706399917602539,-73.35040283203125,PE
 Lima,large_airport,LIM,-12.0219,-77.114305,PE
 Jaén,medium_airport,JAE,-5.59248,-78.774002,PE
 Jauja,medium_airport,JAU,-11.7831001282,-75.47339630130001,PE
@@ -3037,7 +2349,6 @@ Cajamarca,medium_airport,CJA,-7.1391801834106445,-78.4894027709961,PE
 Tumbes,medium_airport,TBP,-3.552074,-80.381086,PE
 Yurimaguas,medium_airport,YMS,-5.893770217895508,-76.11820220947266,PE
 Huánuco,medium_airport,HUU,-9.878809928894043,-76.20480346679688,PE
-Pozuzo,small_airport,,-10.070099830627441,-75.55000305175781,PE
 Iquitos,medium_airport,IQT,-3.78474,-73.3088,PE
 Arequipa,medium_airport,AQP,-16.3411006927,-71.5830993652,PE
 Trujillo,medium_airport,TRU,-8.08141040802002,-79.10880279541016,PE
@@ -3050,19 +2361,8 @@ Nazca,medium_airport,NZC,-14.854,-74.961502,PE
 Cusco,large_airport,CUZ,-13.535699844400002,-71.9387969971,PE
 Shangrao,medium_airport,SQD,28.3797,117.9643,CN
 Sanming,medium_airport,SQJ,26.4263,117.8336,CN
-Mulegé,small_airport,SRL,27.0927,-112.0985,MX
-Canela,small_airport,CEL,-29.370091,-50.831729,BR
-Campo Largo,heliport,,-25.439011,-49.448404,BR
-Dourados,small_airport,DOU,-22.2019,-54.926601,BR
-Serra,heliport,,-20.207646,-40.234916,BR
-Cacoal,small_airport,OAL,-11.496,-61.4508,BR
-Pato Branco,small_airport,PTO,-26.217184,-52.694463,BR
-Três Lagoas,small_airport,TJL,-20.752643,-51.682026,BR
-Umuarama,small_airport,UMU,-23.7987,-53.313801,BR
-Santa Rosa,small_airport,SRA,-27.9067,-54.520401,BR
 Ponta Grossa,medium_airport,PGZ,-25.184476,-50.143822,BR
 Ciudad de la Costa,large_airport,MVD,-34.835647,-56.026497,UY
-Maldonado,small_airport,,-34.909716,-54.920212,UY
 Acarigua,medium_airport,AGV,9.553375,-69.237869,VE
 Barcelona,large_airport,BLA,10.111111,-64.692222,VE
 Barinas,medium_airport,BNS,8.615,-70.21416667,VE
@@ -3072,8 +2372,6 @@ Canaima,medium_airport,CAJ,6.231988906860352,-62.85443115234375,VE
 Carúpano,medium_airport,CUP,10.660014152526855,-63.261680603027344,VE
 Coro,medium_airport,CZE,11.41494369506836,-69.68090057373047,VE
 ,medium_airport,CUM,10.450332641601562,-64.1304702758789,VE
-Higuerote,small_airport,HGE,10.462474,-66.092779,VE
-Isla de Coche,small_airport,ICC,10.794432,-63.98159,VE
 Paraguaná,medium_airport,LSP,11.78077507019043,-70.15149688720703,VE
 Maracaibo,medium_airport,MAR,10.5582084656,-71.7278594971,VE
 Mérida,medium_airport,MRD,8.582078,-71.161041,VE
@@ -3082,22 +2380,14 @@ Caracas,large_airport,CCS,10.601194,-66.991222,VE
 Maturín,medium_airport,MUN,9.749023,-63.153348,VE
 Puerto Ayacucho,medium_airport,PYH,5.6199898719788,-67.606101989746,VE
 Puerto Ordaz-Ciudad Guayana,medium_airport,PZO,8.288530349731445,-62.760398864746094,VE
-Gran Roque Island,small_airport,LRV,11.946177,-66.669836,VE
 ,medium_airport,SVZ,7.840829849243164,-72.439697265625,VE
 Santo Domingo,medium_airport,STD,7.56538,-72.035103,VE
 El Tigre,medium_airport,SOM,8.9451465606689,-64.151084899902,VE
 Valencia,medium_airport,VLN,10.14973258972168,-67.92839813232422,VE
 El Vigía,medium_airport,VIG,8.624139,-71.672668,VE
 Valera,medium_airport,VLV,9.34047794342041,-70.58406066894531,VE
-Barcelos,small_airport,BAZ,-0.981292,-62.919601,BR
-Pontes e Lacerda,small_airport,LCB,-15.1934,-59.3848,BR
 Araguaína,medium_airport,AUX,-7.22787,-48.240501,BR
-Jandaia,small_airport,,-17.172918,-50.208507,BR
-Ji-Paraná,small_airport,JPR,-10.870743,-61.846675,BR
 Rondonópolis,medium_airport,ROO,-16.586,-54.7248,BR
-Santa Isabel Do Rio Negro,small_airport,IRZ,-0.3786,-64.9923,BR
-Tangará Da Serra,small_airport,TGQ,-14.662,-57.443501,BR
-Nunam Iqua,small_airport,SXP,62.520599,-164.848006,US
 Georgetown,medium_airport,GEO,6.49855,-58.254101,GY
 Ogle,medium_airport,OGL,6.80628,-58.1059,GY
 Lethem,medium_airport,LTM,3.37276,-59.789398,GY
@@ -3105,27 +2395,20 @@ Lethem,medium_airport,LTM,3.37276,-59.789398,GY
 St. John's,medium_airport,ANU,17.1367,-61.792702,AG
 Codrington,medium_airport,BBQ,17.635799,-61.828602,AG
 Bridgetown,medium_airport,BGI,13.0746,-59.4925,BB
-Takotna,small_airport,TCT,62.993206,-156.029026,US
 Canefield,medium_airport,DCF,15.336693,-61.392108,DM
 Marigot,medium_airport,DOM,15.547,-61.299999,DM
-Sasereme,small_airport,TDS,-7.6217,142.868,PG
-Grande Anse,small_airport,DSD,16.296902,-61.0844,GP
-Basse-Terre,small_airport,BBR,16.013648,-61.742928,GP
-St-François,small_airport,SFC,16.257799,-61.262501,GP
 Fort-de-France,large_airport,FDF,14.591,-61.003201,MQ
 Grand Case,medium_airport,SFG,18.099899,-63.047199,MF
 Gustavia / Saint-Jean,medium_airport,SBH,17.9044,-62.843601,BL
 Grand Bourg,medium_airport,GBJ,15.86870002746582,-61.27000045776367,GP
 Pointe-à-Pitre,large_airport,PTP,16.265301,-61.531799,GP
 Saint George's,medium_airport,GND,12.004199981689453,-61.78620147705078,GD
-Carriacou Island,small_airport,CRU,12.4761,-61.472801,GD
 Charlotte Amalie,medium_airport,STT,18.337091,-64.977251,VI
 Christiansted,medium_airport,STX,17.701900482177734,-64.79859924316406,VI
 Aguadilla,medium_airport,BQN,18.4949,-67.129402,PR
 San Juan,medium_airport,SIG,18.45680046081543,-66.09809875488281,PR
 Mayaguez,medium_airport,MAZ,18.255699157714844,-67.14849853515625,PR
 Ponce,medium_airport,PSE,18.00830078125,-66.56300354003906,PR
-Ceiba,small_airport,NRR,18.2453,-65.643402,PR
 San Juan,large_airport,SJU,18.4393997192,-66.0018005371,PR
 Basseterre,medium_airport,SKB,17.311199188232422,-62.71870040893555,KN
 Charlestown,medium_airport,NEV,17.205699920654297,-62.589900970458984,KN
@@ -3136,20 +2419,15 @@ Oranjestad,large_airport,AUA,12.5014,-70.015198,AW
 Willemstad,large_airport,CUR,12.1889,-68.959801,CW
 Sint Eustatius,medium_airport,EUX,17.49650001525879,-62.979400634765625,BQ
 Saint Martin,large_airport,SXM,18.041,-63.108898,SX
-Saba,small_airport,SAB,17.645000457763672,-63.220001220703125,BQ
 The Valley,medium_airport,AXA,18.204773,-63.05383,AI
-Bingöl,small_airport,BGG,38.8592605591,40.5959625244,TR
 Gerald's Park,medium_airport,MNI,16.791400909423828,-62.19329833984375,MS
 Scarborough,medium_airport,TAB,11.149700164794922,-60.83219909667969,TT
 Port of Spain,medium_airport,POS,10.5954,-61.3372,TT
-Tissamaharama,seaplane_base,TTW,6.2876,81.2906,LK
 Road Town,medium_airport,EIS,18.445492,-64.541707,VG
-Spanish Town,small_airport,VIJ,18.446399688720703,-64.42749786376953,VG
 Kingstown,medium_airport,SVD,13.156695,-61.149945,VC
 Canouan,medium_airport,CIW,12.699,-61.3424,VC
 Mustique Island,medium_airport,MQS,12.8879,-61.180199,VC
 Union Island,medium_airport,UNI,12.600135,-61.411945,VC
-Tumxuk,small_airport,TWC,39.886663,79.233408,CN
 Hamilton,medium_airport,BDA,32.36399841308594,-64.67870330810547,BM
 Batken,medium_airport,,40.042899,70.83784,KG
 Almaty,large_airport,ALA,43.354267,77.042828,KZ
@@ -3157,45 +2435,32 @@ Nur-Sultan,large_airport,NQZ,51.022202,71.466904,KZ
 Kokshetau,medium_airport,KOV,53.329102,69.594597,KZ
 Petropavl,medium_airport,PPK,54.774702,69.183273,KZ
 Taraz,medium_airport,DMB,42.853599548339844,71.30359649658203,KZ
-Isfana,small_airport,,39.824737,69.56882,KG
 Tamchy,medium_airport,IKU,42.585584,76.701181,KG
 Bishkek,large_airport,FRU,43.0612983704,74.4776000977,KG
 Osh,medium_airport,OSS,40.6090011597,72.793296814,KG
-Karakol,small_airport,,42.508098602299995,78.4077987671,KG
-Kazarman,small_airport,,41.410291,74.044418,KG
 Shymkent,medium_airport,CIT,42.364200592041016,69.47889709472656,KZ
 ,large_airport,HSA,43.313126,68.549881,KZ
 Zhezkazgan,medium_airport,DZN,47.708953,67.738094,KZ
 Karaganda,medium_airport,KGF,49.670799,73.334396,KZ
-Kyzylorda,small_airport,KZO,44.706902,65.592499,KZ
 Uralsk,medium_airport,URA,51.15079879760742,51.54309844970703,KZ
 Ust-Kamenogorsk (Oskemen),medium_airport,UKK,50.036571,82.493477,KZ
 Pavlodar,medium_airport,PWQ,52.19499969482422,77.07389831542969,KZ
 Semey,medium_airport,PLX,50.351295,80.234398,KZ
-Zaysan,small_airport,SZI,47.487491,84.887675,KZ
 Aktau,medium_airport,SCO,43.860093,51.09086,KZ
 Atyrau,medium_airport,GUW,47.122559,51.819321,KZ
 Aktobe,medium_airport,AKX,50.2458,57.206699,KZ
 Kostanay,medium_airport,KSN,53.20690155029297,63.55030059814453,KZ
 Baku,large_airport,GYD,40.467498779296875,50.04669952392578,AZ
 Ganja,medium_airport,KVD,40.737701,46.3176,AZ
-Lankaran,small_airport,LLK,38.757919,48.807042,AZ
 Nakhchivan,medium_airport,NAJ,39.18880081176758,45.45840072631836,AZ
 Gabala,medium_airport,GBB,40.808617,47.725389,AZ
 Gyumri,medium_airport,LWN,40.750401,43.859299,AM
 Yerevan,large_airport,EVN,40.1473007202,44.3959007263,AM
-Batagay,small_airport,BQJ,67.648002624512,134.69500732422,RU
-Batagay-Alyta,small_airport,SUK,67.792,130.394,RU
-Ust-Kuyga,small_airport,UKG,70.011002,135.645004,RU
 Yakutsk,medium_airport,YKS,62.093299865722656,129.77099609375,RU
-,small_airport,,59.028719,131.788731,RU
 Neryungri,medium_airport,NER,56.913898468018,124.91400146484,RU
 Khonuu,medium_airport,MQJ,66.450861,143.261551,RU
 Olyokminsk,medium_airport,OLZ,60.397499,120.471001,RU
 Ust-Nera,medium_airport,USR,64.550003051758,143.11500549316,RU
-Ust-Maya,small_airport,UMS,60.356998443604,134.43499755859,RU
-Verkhnevilyuisk,small_airport,VHV,63.458057403564,120.26916503906,RU
-Suntar,small_airport,SUY,62.185001373291,117.63500213623,RU
 Vilyuisk,medium_airport,VYI,63.75666809082,121.69333648682,RU
 Lensk,medium_airport,ULK,60.7206001282,114.825996399,RU
 Yakutia,medium_airport,PYJ,66.4003982544,112.029998779,RU
@@ -3206,10 +2471,7 @@ Chokurdah,medium_airport,CKH,70.62310028076172,147.90199279785156,RU
 Cherskiy,medium_airport,CYX,68.7406005859375,161.33799743652344,RU
 Tiksi,medium_airport,IKS,71.697700500488,128.90299987793,RU
 Zyryanka,medium_airport,ZKP,65.7485,150.8889,RU
-Moyo,small_airport,OYG,3.6444001197815,31.762762069702,UG
 Kopitnari,medium_airport,KUT,42.176768,42.482393,GE
-Mestia,small_airport,,43.053597,42.749012,GE
-Natakhtari,small_airport,,41.921737,44.712166,GE
 Batumi,medium_airport,BUS,41.6102981567,41.5997009277,GE
 Sukhumi,medium_airport,SUI,42.8582,41.128101,GE
 Tbilisi,large_airport,TBS,41.6692008972,44.95470047,GE
@@ -3222,28 +2484,18 @@ Omsukchan,medium_airport,,62.457000732421875,155.7449951171875,RU
 Chaybukha,medium_airport,,61.834999084472656,160.54800415039062,RU
 Keperveem,medium_airport,KPW,67.845001,166.139999,RU
 Magadan,medium_airport,GDX,59.9109992980957,150.72000122070312,RU
-Omolon,small_airport,,65.23999786376953,160.5399932861328,RU
-Markovo,small_airport,KVM,64.665088,170.429782,RU
-Bogorodskoye,small_airport,BQG,52.381041,140.449378,RU
 Nikolayevsk-na-Amure Airport,medium_airport,NLI,53.154999,140.649994,RU
 Okhotsk,medium_airport,OHO,59.410064697265625,143.05650329589844,RU
-Ust-Kamchatsk,small_airport,,56.238854,162.689989,RU
 Petropavlovsk-Kamchatsky,medium_airport,PKC,53.16790008544922,158.45399475097656,RU
-Kurilsk,small_airport,ITU,45.256389,147.95549,RU
-Shakhtyorsk,small_airport,EKS,49.1903,142.082993,RU
 Yuzhno-Sakhalinsk,medium_airport,UUS,46.885461,142.717466,RU
-Plastun,small_airport,TLY,44.814998626709,136.29200744629,RU
 Artyom,large_airport,VVO,43.396256,132.148155,RU
 Chita,medium_airport,HTA,52.026299,113.306,RU
 Bratsk,medium_airport,BTK,56.370601654052734,101.697998046875,RU
 Irkutsk,medium_airport,IKT,52.268002,104.389,RU
-Bodaybo,small_airport,ODO,57.866100311299995,114.242996216,RU
 Ust-Kut,medium_airport,UKX,56.8567008972168,105.7300033569336,RU
 Ulan Ude,medium_airport,UUD,51.808614,107.439652,RU
-Ujae Atoll,small_airport,UJE,8.92805957794,165.761993408,MH
 Boryspil,large_airport,KBP,50.345001,30.894699,UA
 Mariupol,medium_airport,MPW,47.07609939575195,37.44960021972656,UA
-Luhansk,closed,,48.4174,39.3741,UA
 Dnipro,medium_airport,DNK,48.357201,35.100601,UA
 Zaporizhia,medium_airport,OZH,47.867000579833984,35.31570053100586,UA
 Kryvyi Rih,medium_airport,KWG,48.04330062866211,33.209999084472656,UA
@@ -3259,9 +2511,7 @@ Kherson,medium_airport,KHE,46.6758,32.506401,UA
 Nikolayev,medium_airport,NLV,47.057899,31.9198,UA
 Odessa,medium_airport,ODS,46.4268,30.6765,UA
 Archangelsk,medium_airport,ARH,64.60030364990234,40.71670150756836,RU
-Leshukonskoye,small_airport,LDG,64.8960037231,45.7229995728,RU
 Naryan Mar,medium_airport,NNM,67.63999938964844,53.12189865112305,RU
-Solovetsky Islands,small_airport,CSH,65.0299987793,35.7333335876,RU
 Cherepovets,medium_airport,CEE,59.273601532,38.015800476100004,RU
 Amderma,medium_airport,AMV,69.76329803466797,61.556400299072266,RU
 Al Ula,medium_airport,ULH,26.48,38.128889,SA
@@ -3269,10 +2519,7 @@ Kotlas,medium_airport,KSZ,61.235801696777344,46.6974983215332,RU
 St. Petersburg,large_airport,LED,59.80030059814453,30.262500762939453,RU
 Murmansk,medium_airport,MMK,68.78170013427734,32.75080108642578,RU
 Pskov,medium_airport,PKV,57.78390121459961,28.395599365234375,RU
-Pudozh,small_airport,,61.8250007629,36.5800018311,RU
 Petrozavodsk,medium_airport,PES,61.88520050048828,34.154701232910156,RU
-Kichmengskiy Gorodok,small_airport,,59.97700119018555,45.82500076293945,RU
-Vytegra,small_airport,,61.032001,36.435001,RU
 Brest,medium_airport,BQT,52.108299,23.8981,BY
 Gomel,medium_airport,GME,52.527000427246094,31.016700744628906,BY
 Kaliningrad,medium_airport,KGD,54.88999938964844,20.592599868774414,RU
@@ -3280,13 +2527,10 @@ Hrodna,medium_airport,GNA,53.60200119018555,24.053800582885742,BY
 Minsk,large_airport,MSQ,53.888071,28.039964,BY
 Mogilev,medium_airport,MVQ,53.954898834228516,30.09510040283203,BY
 Abakan,medium_airport,ABA,53.740002,91.385002,RU
-Kazantsevo,small_airport,,53.385176,92.044718,RU
 Barnaul,medium_airport,BAX,53.363800048828125,83.53849792480469,RU
-Biysk,small_airport,,52.478686,85.342513,RU
 Kemerovo,medium_airport,KEJ,55.27009963989258,86.1072006225586,RU
 Yeniseysk,medium_airport,EIE,58.47420120239258,92.11250305175781,RU
 Severo-Yeniseysk,medium_airport,,60.373299,93.011703,RU
-Tura,small_airport,,64.333511352539,100.4328918457,RU
 Vanavara,medium_airport,,60.356229,102.309641,RU
 Krasnoyarsk,large_airport,KJA,56.173077,92.492437,RU
 Krasnoyarsk,medium_airport,,56.177584,92.545881,RU
@@ -3298,7 +2542,6 @@ Novokuznetsk,medium_airport,NOZ,53.811401,86.877197,RU
 Khatanga,medium_airport,HTG,71.97810363769531,102.49099731445312,RU
 Igarka,medium_airport,IAA,67.43720245361328,86.62190246582031,RU
 Norilsk,medium_airport,NSK,69.31109619140625,87.33219909667969,RU
-Turukhansk,small_airport,THX,65.797203064,87.9353027344,RU
 Krasnyi Kurgan,medium_airport,AAQ,45.002102,37.347301,RU
 Yeysk,medium_airport,EIK,46.68,38.21,RU
 Gelendzhik,medium_airport,GDZ,44.5820926295,38.0124807358,RU
@@ -3315,21 +2558,13 @@ Sochi,large_airport,AER,43.449902,39.9566,RU
 Astrakhan,medium_airport,ASF,46.282843,48.010511,RU
 Elista,medium_airport,ESL,46.3739013671875,44.33089828491211,RU
 Volgograd,medium_airport,VOG,48.782501220703125,44.34550094604492,RU
-Grand Chenier,heliport,,29.71360016,-92.76290131,US
-Weston,heliport,,44.889456,-89.57905,US
 Williston,medium_airport,XWA,48.258387,-103.748797,US
-Lanai,heliport,,20.745933,-156.913039,US
-Atwater,small_airport,,45.049494,-94.836683,US
-Golden Meadow,heliport,,29.139916,-90.201486,US
-Marathon,closed,,30.19669,-102.97096,US
 Chelyabinsk,medium_airport,CEK,55.305801,61.5033,RU
 Magnitogorsk,medium_airport,MQF,53.39310073852539,58.755699157714844,RU
 Sabetta,medium_airport,SBT,71.219167,72.052222,RU
 Bovanenkovo,medium_airport,BVJ,70.315278,68.333611,RU
 Salekhard,medium_airport,SLY,66.5907974243164,66.61100006103516,RU
-Tolka,small_airport,,63.987808,82.050889,RU
 Khanty-Mansiysk,medium_airport,HMA,61.028499603271484,69.08609771728516,RU
-Lugovoy,small_airport,,59.7239990234375,65.83300018310547,RU
 Nyagan,medium_airport,NYA,62.110001,65.614998,RU
 Sovetskiy,medium_airport,OVS,61.326622009277344,63.60191345214844,RU
 Uray,medium_airport,URJ,60.10329818725586,64.82669830322266,RU
@@ -3347,7 +2582,6 @@ Surgut,medium_airport,SGC,61.34370040893555,73.40180206298828,RU
 Yekaterinburg,large_airport,SVX,56.743099212646,60.802700042725,RU
 Tyumen,medium_airport,TJM,57.189601898199996,65.3243026733,RU
 Kurgan,medium_airport,KRO,55.47529983520508,65.41560363769531,RU
-Balkanabat,small_airport,BKN,39.480598,54.366001,TM
 Ashgabat,large_airport,ASB,37.986801,58.361,TM
 Turkmenbashi,medium_airport,KRW,40.063301,53.007198,TM
 Mary,medium_airport,MYP,37.62353,61.895668,TM
@@ -3359,13 +2593,10 @@ Khujand,medium_airport,LBD,40.215401,69.694702,TJ
 Kurgan-Tyube,medium_airport,KQT,37.86640167236328,68.86470031738281,TJ
 Andizhan,medium_airport,AZN,40.727699,72.293999,UZ
 Fergana,medium_airport,FEG,40.358799,71.745003,UZ
-Namangan,small_airport,NMA,40.9846,71.556702,UZ
 Nukus,medium_airport,NCU,42.4884,59.623299,UZ
 Urgench,medium_airport,UGC,41.58430099487305,60.641700744628906,UZ
 Navoi,medium_airport,NVI,40.117199,65.170799,UZ
 Bukhara,medium_airport,BHK,39.775002,64.483299,UZ
-Karshi,small_airport,KSQ,38.802246,65.773068,UZ
-Zarafshan,small_airport,AFS,41.613899,64.2332,UZ
 Samarkand,medium_airport,SKD,39.70050048828125,66.98380279541016,UZ
 Termez,medium_airport,TMJ,37.287261,67.311869,UZ
 Tashkent,medium_airport,,41.312889,69.395535,UZ
@@ -3374,7 +2605,6 @@ Kostroma,medium_airport,KMW,57.7969017029,41.019401550299996,RU
 Ivanovo,medium_airport,IWA,56.93939971923828,40.940799713134766,RU
 Rybinsk,medium_airport,RYB,58.10419845581055,38.92940139770508,RU
 Bryansk,medium_airport,BZK,53.214199,34.176399,RU
-,small_airport,,58.391989,45.554466,RU
 Moscow,large_airport,ZIA,55.553299,38.150002,RU
 Moscow,large_airport,DME,55.40879821777344,37.90629959106445,RU
 Moscow,large_airport,SVO,55.972599,37.4146,RU
@@ -3397,18 +2627,14 @@ Cheboksary,medium_airport,CSY,56.090301513671875,47.3473014831543,RU
 Zhigansk,medium_airport,ZIX,66.7965011597,123.361000061,RU
 Ulyanovsk,medium_airport,ULV,54.268299,48.2267,RU
 Cherdakly,medium_airport,ULY,54.401001,48.8027,RU
-Kvarkeno,small_airport,,52.077797,59.686542,RU
 Orenburg,medium_airport,REN,51.795799255371094,55.45669937133789,RU
 Orsk,medium_airport,OSW,51.072498,58.5956,RU
-,small_airport,,50.800721,60.902367,RU
 Penza,medium_airport,PEZ,53.110599517822266,45.02109909057617,RU
 Saransk,medium_airport,SKX,54.12512969970703,45.212257385253906,RU
 Balakovo,medium_airport,BWO,51.8582992554,47.7456016541,RU
 Saratov,large_airport,GSV,51.712778,46.171111,RU
 Ufa,large_airport,UFA,54.557498931885,55.874401092529,RU
 Samara,large_airport,KUF,53.504901885986,50.16429901123,RU
-Urzhar,small_airport,UZR,47.09115,81.66521,KZ
-Diu,small_airport,DIU,20.7131,70.921097,IN
 Gondia,medium_airport,GDB,21.526817,80.290347,IN
 Ahmedabad,medium_airport,AMD,23.0771999359,72.63469696039999,IN
 Aurangabad,medium_airport,IXU,19.862699508666992,75.39810180664062,IN
@@ -3433,7 +2659,6 @@ Nasik,medium_airport,ISK,20.119101,73.912903,IN
 Pune,medium_airport,PNQ,18.5821,73.919701,IN
 Porbandar,medium_airport,PBD,21.649524,69.656405,IN
 Rajkot,medium_airport,RAJ,22.3092002869,70.77950286869999,IN
-Raipur,small_airport,RPR,21.180401,81.7388,IN
 Kakadi,medium_airport,SAG,19.688752,74.377354,IN
 ,medium_airport,STV,21.1140995026,72.7417984009,IN
 Udaipur,medium_airport,UDR,24.617700576799997,73.89610290530001,IN
@@ -3443,13 +2668,10 @@ Colombo,medium_airport,RML,6.821990013122559,79.88619995117188,LK
 Jaffna,medium_airport,JAF,9.79233,80.070099,LK
 Galle,medium_airport,KCT,5.993680000305176,80.32029724121094,LK
 Trincomalee,medium_airport,TRR,8.5385103225708,81.18190002441406,LK
-Weerawila,small_airport,WRZ,6.25448989868,81.23519897460001,LK
 ,large_airport,HRI,6.284467,81.124128,LK
 Battambang,medium_airport,BBM,13.0956,103.223999,KH
 Phnom Penh (Pou Senchey),large_airport,PNH,11.5466,104.844002,KH
 Siem Reap,large_airport,REP,13.41155,103.813044,KH
-Preah Sihanouk,small_airport,KOS,10.569498,103.631001,KH
-Darbhanga,small_airport,DBR,26.192801,85.916901,IN
 Agartala,medium_airport,IXA,23.886999,91.240402,IN
 Siliguri,medium_airport,IXB,26.68120002746582,88.32859802246094,IN
 Shillong,medium_airport,SHL,25.70359992980957,91.97869873046875,IN
@@ -3479,19 +2701,14 @@ Saidpur,medium_airport,SPD,25.759199142456055,88.90889739990234,BD
 Sylhet,medium_airport,ZYL,24.963832,91.864843,BD
 Dhaka,large_airport,DAC,23.843347,90.397783,BD
 Islands,large_airport,HKG,22.308901,113.915001,HK
-Central and Western,heliport,HHP,22.288868,114.152369,HK
-Charlotte Amalie St Thomas,seaplane_base,SPB,18.338600158691406,-64.9406967163086,VI
-Christiansted St Croix,seaplane_base,SSB,17.74720001220703,-64.70490264892578,VI
 Agra,medium_airport,AGR,27.157683,77.960942,IN
 Allahabad,medium_airport,IXD,25.4401,81.733902,IN
 Amritsar,medium_airport,ATQ,31.7096,74.797302,IN
-Adampur,small_airport,AIP,31.4338,75.758797,IN
 Varanasi,medium_airport,VNS,25.452129,82.861805,IN
 Chandigarh,medium_airport,IXC,30.6735,76.788498,IN
 Kanpur,medium_airport,KNU,26.404301,80.410103,IN
 Dehradun (Jauligrant),medium_airport,DED,30.189243,78.176651,IN
 New Delhi,large_airport,DEL,28.55563,77.09519,IN
-Ghaziabad,small_airport,,28.707701,77.358902,IN
 Gaggal,medium_airport,DHM,32.1651,76.263397,IN
 Gwalior,medium_airport,GWL,26.29330062866211,78.22779846191406,IN
 Jodhpur,medium_airport,JDH,26.251100540161133,73.04889678955078,IN
@@ -3503,41 +2720,19 @@ Lucknow,medium_airport,LKO,26.7605991364,80.8892974854,IN
 Pathankot,medium_airport,IXP,32.233611,75.634444,IN
 Pantnagar,medium_airport,PGH,29.0334,79.473701,IN
 Srinagar,medium_airport,SXR,33.987099,74.7742,IN
-,small_airport,TNI,24.56262,80.852927,IN
-Huay Xai,small_airport,HOE,20.2572994232,100.43699646,LA
 Luang Phabang,medium_airport,LPQ,19.897300720214844,102.16100311279297,LA
-Luang Namtha,small_airport,LXG,20.966999,101.400002,LA
-Oudomsay,small_airport,ODY,20.68269920349121,101.99400329589844,LA
 Pakse,medium_airport,PKZ,15.132100105285645,105.78099822998047,LA
-Sainyabuli,small_airport,ZBY,19.2436,101.7093,LA
 Vientiane,medium_airport,VTE,17.988300323500003,102.56300354,LA
-Xieng Khouang,small_airport,XKH,19.450001,103.157997,LA
 Nossa Senhora do Carmo,large_airport,MFM,22.149599,113.592003,MO
 Dong Hoi,medium_airport,VDH,17.515,106.590556,VN
-Bharatpur,small_airport,BHR,27.678101,84.429398,NP
 Siddharthanagar (Bhairahawa),medium_airport,BWA,27.505328,83.412594,NP
-Bhadrapur,small_airport,BDP,26.5708007812,88.07959747310001,NP
-Dolpa,small_airport,DOP,28.985659,82.818703,NP
-Jumla,small_airport,JUM,29.2742,82.193298,NP
 Janakpur,medium_airport,JKR,26.708799,85.922401,NP
-Jomsom,small_airport,JMO,28.780426,83.723,NP
 Kathmandu,large_airport,KTM,27.6966,85.3591,NP
-Lukla,small_airport,LUA,27.686899185180664,86.72969818115234,NP
-Meghauli,small_airport,MEY,27.5774,84.22875,NP
 Nepalgunj,medium_airport,KEP,28.1036,81.667,NP
 Pokhara,medium_airport,PKR,28.200899124145508,83.98210144042969,NP
-Phaplu,small_airport,PPL,27.517787,86.584454,NP
-Rukumkot,small_airport,RUK,28.627001,82.194021,NP
-Rumjatar,small_airport,RUM,27.303499221801758,86.55039978027344,NP
-Simara,small_airport,SIF,27.159803,84.980021,NP
-Surkhet,small_airport,SKH,28.586,81.636002,NP
-Musikot,small_airport,,28.636161,82.45018,NP
-Simikot,small_airport,IMK,29.971099853515625,81.81890106201172,NP
 Taplejung,medium_airport,TPJ,27.3509,87.69525,NP
-Tumling Tar,small_airport,TMI,27.315001,87.193298,NP
 Biratnagar,medium_airport,BIR,26.48150062561035,87.26399993896484,NP
 Latur,medium_airport,LTU,18.411501,76.464699,IN
-Vagaikulam,small_airport,TCR,8.724241,78.025803,IN
 Agatti,medium_airport,AGX,10.8237,72.176003,IN
 Bangalore,large_airport,BLR,13.1979,77.706299,IN
 Gannavaram,medium_airport,VGA,16.530399,80.796799,IN
@@ -3554,24 +2749,16 @@ Chennai,large_airport,MAA,12.990005,80.169296,IN
 Port Blair,medium_airport,IXZ,11.641208,92.729643,IN
 Puducherry (Pondicherry),medium_airport,PNY,11.968,79.812,IN
 Madhurapudi,medium_airport,RJA,17.105799,81.813204,IN
-Tirupati,small_airport,TIR,13.632499694800002,79.543296814,IN
 Tiruchirappalli,medium_airport,TRZ,10.766223,78.71774,IN
 Thiruvananthapuram,large_airport,TRV,8.48211956024,76.9200973511,IN
-Tashigang,small_airport,YON,27.256399,91.514503,BT
-Jakar,small_airport,BUT,27.5622,90.7471,BT
 Paro,medium_airport,PBH,27.4032,89.424599,BT
-Kulhudhuffushi,small_airport,HDK,6.630762,73.067815,MV
 Noonu Atoll,medium_airport,NMF,5.818394,73.469181,MV
-Baa Atoll,small_airport,DRV,5.1561,73.1302,MV
 Gan,medium_airport,GAN,-0.693342,73.155602,MV
 Haa Dhaalu Atoll,medium_airport,HAQ,6.744229793548584,73.17050170898438,MV
 Kadhdhoo,medium_airport,KDO,1.8591699600219727,73.52189636230469,MV
 Malé,large_airport,MLE,4.191830158233643,73.52909851074219,MV
-Huvadhu Atoll,small_airport,GKK,0.7324,73.4336,MV
 Huvadhu Atoll,medium_airport,KDM,0.488131,72.996902,MV
 Maamigili,medium_airport,VAM,3.470556,72.835833,MV
-Thimarafushi,small_airport,TMF,2.211,73.1533,MV
-Maavaarulu,small_airport,RUL,0.338085,73.512869,MV
 Bangkok,large_airport,DMK,13.9125995636,100.607002258,TH
 Laem Ngop,medium_airport,TDX,12.2746,102.319,TH
 Bangkok,large_airport,BKK,13.681099891662598,100.74700164794922,TH
@@ -3580,7 +2767,6 @@ Chiang Mai,large_airport,CNX,18.766799926799997,98.962600708,TH
 ,medium_airport,HGN,19.301300048828125,97.97579956054688,TH
 ,medium_airport,LPT,18.27090072631836,99.50420379638672,TH
 ,medium_airport,NNT,18.807899475097656,100.78299713134766,TH
-,small_airport,,18.546816,99.012029,TH
 Chiang Rai,medium_airport,CEI,19.952299,99.882896,TH
 ,medium_airport,PHY,16.6760005951,101.194999695,TH
 Hua Hin,medium_airport,HHQ,12.6361999512,99.951499939,TH
@@ -3607,7 +2793,6 @@ Ubon Ratchathani,medium_airport,UBP,15.2512998581,104.870002747,TH
 ,medium_airport,ROI,16.11680030822754,103.77400207519531,TH
 Nakhon Phanom,medium_airport,KOP,17.383801,104.642998,TH
 Buon Ma Thuot,medium_airport,BMV,12.668299675,108.120002747,VN
-Tam Nghĩa,small_airport,VCL,15.4033,108.706001,VN
 Haiphong (Hai An),medium_airport,HPH,20.81686,106.722994,VN
 Ca Mau City,medium_airport,CAH,9.177667,105.177778,VN
 Cam Ranh,medium_airport,CXR,11.9982,109.219002,VN
@@ -3624,15 +2809,11 @@ Phu Quoc Island,medium_airport,PQC,10.1698,103.9931,VN
 Rach Gia,medium_airport,VKG,9.95802997234,105.132379532,VN
 Tuy Hoa,medium_airport,TBB,13.0496,109.334,VN
 Ho Chi Minh City,large_airport,SGN,10.8188,106.652,VN
-Thanh Hóa,small_airport,THD,19.901667,105.467778,VN
 Van Don,medium_airport,VDO,21.120693,107.41539,VN
 Vinh,medium_airport,VII,18.7376003265,105.67099762,VN
-Nyaung U,small_airport,NYU,21.178800582885742,94.9301986694336,MM
-Banmaw,small_airport,BMO,24.27044,97.2476,MM
 Dawei,medium_airport,TVY,14.103899955749512,98.20359802246094,MM
 Pyinmana,medium_airport,NYT,19.623501,96.200996,MM
 Kengtung,medium_airport,KET,21.301599502563477,99.63600158691406,MM
-Kanti,small_airport,KHM,25.988300323486328,95.67440032958984,MM
 Kyaukpyu,medium_airport,KYP,19.42639923095703,93.53479766845703,MM
 Kawthoung,medium_airport,KAW,10.049300193786621,98.53800201416016,MM
 Loikaw,medium_airport,LIW,19.691499710083008,97.21479797363281,MM
@@ -3640,142 +2821,84 @@ Lashio,medium_airport,LSH,22.9778995513916,97.752197265625,MM
 Mandalay,large_airport,MDL,21.702199935913086,95.97789764404297,MM
 Mkeik,medium_airport,MGZ,12.439800262451172,98.62149810791016,MM
 Myitkyina,medium_airport,MYT,25.38360023498535,97.35189819335938,MM
-Mawlamyine,small_airport,MNU,16.444700241088867,97.66069793701172,MM
 Mong Hsat,medium_airport,MOG,20.516799926757812,99.25679779052734,MM
-Magway,small_airport,MWQ,20.1656,94.941399,MM
-Pathein,small_airport,BSX,16.815201,94.7799,MM
 Putao,medium_airport,PBU,27.32990074157715,97.42630004882812,MM
-Pakhokku,small_airport,PKK,21.4043,95.11125,MM
 Sittwe,medium_airport,AKY,20.133165,92.870693,MM
 Thandwe,medium_airport,SNW,18.4606990814209,94.30010223388672,MM
 Tachileik,medium_airport,THL,20.483800888061523,99.9354019165039,MM
 Yangon,large_airport,RGN,16.907300949099998,96.1332015991,MM
-Seattle,seaplane_base,LKE,47.6290016174,-122.338996887,US
 Ujung Pandang,large_airport,UPG,-5.06163,119.554001,ID
 Biak,medium_airport,BIK,-1.19002,136.108002,ID
-Kornasoren,small_airport,FOO,-0.935842,134.872298,ID
 Nabire,medium_airport,NBX,-3.368586,135.496702,ID
 Timika,medium_airport,TIM,-4.52978,136.887388,ID
-Bima,small_airport,BMU,-8.537184,118.685002,ID
 Denpasar,large_airport,DPS,-8.74817,115.167,ID
 Mataram,medium_airport,LOP,-8.757792,116.275435,ID
-Sumbawa Island,small_airport,SWQ,-8.48904037475586,117.41200256347656,ID
-Radamata,small_airport,TMC,-9.409224,119.242558,ID
-Waingapu-Sumba Island,small_airport,WGP,-9.66922,120.302002,ID
 Toraja,medium_airport,TRT,-3.185833,119.91775,ID
-Palopo,small_airport,LLO,-3.082997,120.245018,ID
 Palu,medium_airport,PLW,-0.916462,119.908647,ID
-Masamba,small_airport,MXB,-2.55803,120.323997,ID
-Muara Teweh,small_airport,HMS,-1.02581,114.92881,ID
-Seruyan,small_airport,KLP,-3.376062,112.536521,ID
-Palangkaraya,small_airport,PKY,-2.22513,113.943001,ID
 Yogyakarta,medium_airport,YIA,-7.905338,110.057264,ID
 Cilacap,medium_airport,CXP,-7.64506,109.033997,ID
-Karimunjawa,small_airport,KWB,-5.80091,110.47838,ID
-Bokondini,small_airport,BUI,-3.68455,138.677437,ID
 Sentani,large_airport,DJJ,-2.579627,140.519857,ID
-Kiwirok,small_airport,,-4.713481,140.740271,ID
 Oksibil,medium_airport,OKL,-4.9071,140.6277,ID
-Senggeh,small_airport,SEH,-3.442448,140.778079,ID
 Merauke,medium_airport,MKQ,-8.523898,140.419693,ID
 Tanah Merah,medium_airport,TMH,-6.09669,140.303521,ID
-Tanjung Selor-Borneo Island,small_airport,TJS,2.83583333333,117.373611111,ID
-Datadawai-Borneo Island,small_airport,DTD,0.8106,114.5306,ID
 Tanjung Redeb - Borneo Island,medium_airport,BEJ,2.1555,117.431999,ID
 Balikpapan,large_airport,BPN,-1.268342,116.89452,ID
 Tarakan,medium_airport,TRK,3.325145,117.564169,ID
 Samarinda,medium_airport,AAP,-0.374478,117.250128,ID
-Pekaulang,small_airport,PGQ,0.9194,128.3825,ID
-Gorontalo-Celebes Island,small_airport,GTO,0.63711899519,122.849998474,ID
 Tahuna-Sangihe Island,medium_airport,NAH,3.6832098960876465,125.52799987792969,ID
 Manado,medium_airport,MDC,1.54926,124.926003,ID
 Sango,medium_airport,TTE,0.831012,127.381611,ID
-Buol-Celebes Island,small_airport,UOL,1.1027,121.4141,ID
-Pangkalanbun,small_airport,PKN,-2.7052,111.672997,ID
-Stagen,small_airport,KBU,-3.29472,116.165001,ID
-Murateweh,closed,,-0.942549,114.89399,ID
 Tanta-Tabalong,medium_airport,TJG,-2.21656,115.435997,ID
-Landasan Ulin,small_airport,BDJ,-3.44236,114.763,ID
-Sampit,small_airport,SMQ,-2.499198,112.974987,ID
-Bandanaira,small_airport,NDA,-4.5214,129.9054,ID
 Langgur,medium_airport,LUV,-5.760278,132.759444,ID
 Ambon,medium_airport,AMQ,-3.71026,128.089005,ID
-Malinau,small_airport,LNU,3.575278,116.619722,ID
-Malang,small_airport,MLG,-7.929099,112.714233,ID
 Yogyakarta,medium_airport,JOG,-7.78818,110.431999,ID
-Surakarta,small_airport,SOC,-7.516044,110.757492,ID
 Surabaya,large_airport,SUB,-7.37983,112.787003,ID
 Semarang,medium_airport,SRG,-6.970732,110.373244,ID
 Fakfak,medium_airport,FKQ,-2.920508,132.267011,ID
 Kaimana,medium_airport,KNG,-3.6446,133.695116,ID
-Waisai,small_airport,RJM,-0.423056,130.773333,ID
 Manokwari,medium_airport,MKW,-0.891833,134.048996,ID
-Waioti,small_airport,MOF,-8.639514,122.238135,ID
-Ende,small_airport,ENE,-8.849114,121.66101,ID
-Satar Tacik,small_airport,RTG,-8.596171,120.478177,ID
-Kabola,small_airport,ARD,-8.13234,124.597,ID
-Labuan Bajo,small_airport,LBJ,-8.480694,119.888306,ID
-Kupang,small_airport,KOE,-10.1716,123.670998,ID
 Wamena,medium_airport,WMX,-4.097324,138.952417,ID
 Wangi-wangi Island,medium_airport,WNI,-5.293996,123.634,ID
-Benteng,small_airport,KSR,-6.17921,120.437479,ID
-Kendari,small_airport,KDI,-4.08161,122.417999,ID
 Sorong,medium_airport,SOQ,-0.894,131.287,ID
-Seria,small_airport,,4.635158,114.378748,BN
 Bintulu,medium_airport,BTU,3.12385010719,113.019996643,MY
-Long Datih,small_airport,LGL,3.4210000038099997,115.153999329,MY
 Kuching,medium_airport,KCH,1.487364,110.352859,MY
-Long Seridan,small_airport,ODN,3.9670000076293945,115.05000305175781,MY
 Limbang,medium_airport,LMN,4.808300018310547,115.01000213623047,MY
 Mukah,medium_airport,MKM,2.881944,112.043333,MY
 Marudi,medium_airport,MUR,4.178734,114.330318,MY
-Bakalalan,small_airport,BKM,3.9739999771118164,115.61799621582031,MY
 Miri,medium_airport,MYY,4.32201,113.987,MY
 Sibu,medium_airport,SBW,2.2616,111.985001,MY
-Lawas,small_airport,LWY,4.84917,115.407997,MY
 Bario,medium_airport,BBN,3.734648,115.478548,MY
 Lahad Datu,medium_airport,LDU,5.032249927520752,118.3239974975586,MY
 Kota Kinabalu,medium_airport,BKI,5.932743,116.049324,MY
 Labuan,medium_airport,LBU,5.300680160522461,115.25,MY
-Tomanggong,small_airport,TMG,5.40257,118.65763,MY
 Sandakan,medium_airport,SDK,5.900899887084961,118.05899810791016,MY
-Kudat,small_airport,KUD,6.924111,116.837068,MY
 Tawau,medium_airport,TWU,4.320159912109375,118.12799835205078,MY
 Mulu,medium_airport,MZV,4.048329830169678,114.80500030517578,MY
 Bandar Seri Begawan,large_airport,BWN,4.9442,114.928001,BN
-Cijulang,small_airport,CJN,-7.719895,108.488995,ID
 Pekanbaru,medium_airport,PKU,0.458647,101.444321,ID
 Dumai,medium_airport,DUM,1.609114,101.433492,ID
 Bandung,medium_airport,BDO,-6.90063,107.575996,ID
 Batam,medium_airport,BTH,1.12103,104.119003,ID
-Tanjung Pinang-Bintan Island,small_airport,TNJ,0.922683000565,104.531997681,ID
-Muko Muko,small_airport,MPC,-2.54186,101.087997,ID
 Jakarta,medium_airport,HLP,-6.266610145568848,106.89099884033203,ID
 Jakarta,large_airport,CGK,-6.1255698204,106.65599823,ID
-Pangkal Pinang,small_airport,PGK,-2.1622,106.139,ID
 Bandar Lampung,medium_airport,TKG,-5.246803,105.182531,ID
 Gunungsitoli,medium_airport,GNS,1.16628,97.704327,ID
 Padang Sidempuan,medium_airport,AEG,1.4001,99.430496,ID
 Padang,medium_airport,,-0.874989,100.351997,ID
 Bandara Kuala Namu,medium_airport,KNO,3.64177,98.885307,ID
-Siborong-Borong,small_airport,DTB,2.25973,98.991898,ID
 Sibolga (Pinangsori),medium_airport,FLZ,1.557127,98.887145,ID
-Tanjung Pandan,small_airport,TJQ,-2.74572,107.754997,ID
 Nanga Pinoh-Borneo Island,medium_airport,NPO,-0.34886899590492,111.74800109863,ID
 Ketapang,medium_airport,KTG,-1.816845,109.963331,ID
 Ranai-Natuna Besar Island,medium_airport,NTX,3.90871,108.388,ID
 Pontianak,medium_airport,PNK,-0.150711,109.403999,ID
 Putussibau-Borneo Island,medium_airport,PSU,0.8355780243873596,112.93699645996094,ID
 Sintang,medium_airport,SQG,0.063851,111.473572,ID
-Jambi,small_airport,DJB,-1.63802,103.643997,ID
-Muara Bungo,small_airport,BUU,-1.1278,102.135,ID
 Bengkulu,medium_airport,BKS,-3.8637,102.338997,ID
 Palembang,medium_airport,PLM,-2.897653,104.698147,ID
 Talang Gudang-Sumatra Island,medium_airport,PDO,-3.2860701084136963,103.87999725341797,ID
 Padang (Katapiang),medium_airport,PDG,-0.786917,100.280998,ID
 Kuala Pesisir,medium_airport,MEQ,4.040631,96.253538,ID
 Takengon,medium_airport,TXE,4.72113,96.851943,ID
-Lhok Seumawe-Sumatra Island,small_airport,LSW,5.226679801940918,96.95030212402344,ID
 Banda Aceh,medium_airport,BTJ,5.522872024010001,95.42063713070002,ID
 Pulau Tioman,medium_airport,TOD,2.81818,104.160004,MY
 Alor Satar,medium_airport,AOR,6.189670085906982,100.39800262451172,MY
@@ -3787,29 +2910,16 @@ Sepang,large_airport,KUL,2.74558,101.709999,MY
 Langkawi,medium_airport,LGK,6.329730033874512,99.72869873046875,MY
 Kuala Terengganu,medium_airport,TGG,5.3826398849487305,103.10299682617188,MY
 Penang,medium_airport,PEN,5.297140121459961,100.2770004272461,MY
-Pangkor Island,small_airport,PKG,4.244719982147217,100.5530014038086,MY
 Subang,medium_airport,SZB,3.130579948425293,101.54900360107422,MY
-Saumlaki-Yamdena Island,small_airport,SXK,-7.848354,131.337068,ID
 Dili,medium_airport,DIL,-8.546562,125.524507,TL
-Atambua,small_airport,ABU,-9.074841,124.903285,ID
-Tiwatobi,small_airport,LKA,-8.274424,123.002,ID
-Long Bawan,small_airport,LBW,3.9028,115.6921,ID
-Bontang-Borneo Island,small_airport,BXT,0.119691,117.474998,ID
-Nunukan-Nunukan Island,small_airport,NNX,4.13333333333,117.666666667,ID
-Long Apung-Borneo Island,small_airport,LPU,1.704486,114.970297,ID
-San Juan,seaplane_base,UGI,57.7304,-153.320999,US
 Seletar,medium_airport,XSP,1.41555,103.86673,SG
 Singapore,large_airport,SIN,1.35019,103.994003,SG
 Tangbu,medium_airport,WUZ,23.40316,111.09331,CN
-New Barag Right Banner,small_airport,XRQ,48.575585,116.939382,CN
 Albany,medium_airport,ALH,-34.94329833984375,117.80899810791016,AU
-,small_airport,GYL,-16.6369,128.451004,AU
 Armidale,medium_airport,ARM,-30.528099060099997,151.617004395,AU
-Aurukun,small_airport,AUU,-13.354067,141.72065,AU
 Yulara,medium_airport,AYQ,-25.185913,130.97703,AU
 Barcaldine,medium_airport,BCI,-23.566268,145.302086,AU
 Alice Springs,medium_airport,ASP,-23.806588,133.903427,AU
-,small_airport,BDD,-10.149999618499999,142.1734,AU
 Brisbane,large_airport,BNE,-27.384199142456055,153.11700439453125,AU
 Gold Coast,medium_airport,OOL,-28.165962,153.506641,AU
 Blackall,medium_airport,BKQ,-24.431678,145.429716,AU
@@ -3820,12 +2930,9 @@ Broken Hill,medium_airport,BHQ,-32.0013999939,141.472000122,AU
 Hamilton Island,medium_airport,HTI,-20.3581008911,148.95199585,AU
 ,medium_airport,BEU,-24.346099853515625,139.4600067138672,AU
 ,medium_airport,BRK,-30.039199829101562,145.95199584960938,AU
-,small_airport,BUC,-17.748600006103516,139.53399658203125,AU
-Busselton,small_airport,BQB,-33.688423,115.401596,AU
 Mount Isa,medium_airport,ISA,-20.663900375399997,139.488998413,AU
 Mackay,medium_airport,MKY,-21.170816,149.182588,AU
 Ballina,medium_airport,BNK,-28.833236,153.561471,AU
-,small_airport,GIC,-9.23278045654,142.218002319,AU
 ,medium_airport,OKY,-27.409262,151.736727,AU
 ,medium_airport,BQL,-22.913299560546875,139.89999389648438,AU
 Yibin (Cuiping),medium_airport,YBP,28.858431,104.526157,CN
@@ -3842,61 +2949,41 @@ Toowoomba,medium_airport,WTB,-27.558332,151.793335,AU
 Carnarvon,medium_airport,CVQ,-24.880091,113.670752,AU
 ,medium_airport,CAZ,-31.538299560546875,145.79400634765625,AU
 Coober Pedy,medium_airport,CPD,-29.038312,134.722166,AU
-,small_airport,CNC,-10.050000190734863,143.07000732421875,AU
 Cloncurry,medium_airport,CNJ,-20.668600082399998,140.503997803,AU
 ,medium_airport,CED,-32.13059997558594,133.7100067138672,AU
 Coffs Harbour,medium_airport,CFS,-30.320601,153.115997,AU
-Christmas Creek Mine,small_airport,CKW,-22.3543,119.6426,AU
 ,medium_airport,CTN,-15.443649,145.183221,AU
 ,medium_airport,CMA,-28.030000686645508,145.6219940185547,AU
 ,medium_airport,CNB,-30.980946,148.377833,AU
 Coen,medium_airport,CUQ,-13.761133,143.113311,AU
 Cooma,medium_airport,OOM,-36.300445,148.972408,AU
-,small_airport,DMD,-17.9403,138.822006,AU
-Darnley Island,small_airport,NLF,-9.583330154418945,143.76699829101562,AU
 Devonport,medium_airport,DPO,-41.1697006226,146.429992676,AU
 Elcho Island,medium_airport,ELC,-12.019399642899998,135.570999146,AU
 Emerald,medium_airport,EMD,-23.5674991608,148.179000854,AU
 Esperance,medium_airport,EPR,-33.684399,121.822998,AU
-Flinders Island,small_airport,FLS,-40.0917015076,147.992996216,AU
-,small_airport,,-35.0505,149.2559,AU
 Geraldton,medium_airport,GET,-28.796101,114.707001,AU
 Gladstone,medium_airport,GLT,-23.869763,151.225439,AU
 Groote Eylandt,medium_airport,GTE,-13.972405,136.458553,AU
 Griffith,medium_airport,GFF,-34.2508010864,146.067001343,AU
 Hervey Bay,medium_airport,HVB,-25.320127,152.880662,AU
 Horn Island,medium_airport,HID,-10.585628,142.292653,AU
-Lajamanu,small_airport,HOK,-18.3367004395,130.638000488,AU
 Mount Hotham,medium_airport,MHU,-37.0475006104,147.333999634,AU
-,small_airport,HGD,-20.815000534057617,144.22500610351562,AU
-,small_airport,JCK,-20.66830062866211,141.72300720214844,AU
-Kalbarri,small_airport,KAX,-27.692813,114.259169,AU
 ,medium_airport,KNS,-39.877498626708984,143.8780059814453,AU
-,small_airport,KFG,-17.431900024414062,130.80799865722656,AU
-,small_airport,KRB,-17.45669937133789,140.8300018310547,AU
 Kowanyama,medium_airport,KWM,-15.48516,141.751852,AU
 ,medium_airport,KGC,-35.71390151977539,137.52099609375,AU
-Moa Island,small_airport,KUG,-10.225000381500001,142.218002319,AU
 Leonora,medium_airport,LNO,-28.87809944152832,121.31500244140625,AU
-,small_airport,LEL,-12.498900413513184,135.80599975585938,AU
-Lord Howe Island,small_airport,LDH,-31.538204,159.07546,AU
 Lockhart River,medium_airport,IRG,-12.7869,143.304993,AU
 Lismore,medium_airport,LSY,-28.830689,153.258419,AU
 ,medium_airport,LHG,-29.452857,147.977146,AU
 Longreach,medium_airport,LRE,-23.4342002869,144.279998779,AU
 ,medium_airport,LER,-27.843299865722656,120.7030029296875,AU
-Laverton,small_airport,LVO,-28.614267,122.428673,AU
-Mabuiag Island,small_airport,UBB,-9.950168,142.19523,AU
-Murray Island,small_airport,MYI,-9.915105,144.054644,AU
 Lara,medium_airport,AVV,-38.039398,144.468994,AU
 Albury,medium_airport,ABX,-36.066758,146.959148,AU
 ,medium_airport,MKR,-26.6117000579834,118.5479965209961,AU
 Essendon Fields,medium_airport,MEB,-37.7281,144.901993,AU
 Merimbula,medium_airport,MIM,-36.9085998535,149.901000977,AU
-Milingimbi Island,small_airport,MGT,-12.0944004059,134.893997192,AU
 Maningrida,medium_airport,MNG,-12.0560998917,134.23399353,AU
 Hobart,medium_airport,HBA,-42.836101532,147.509994507,AU
-McArthur River Mine,small_airport,MCV,-16.4424991608,136.083999634,AU
 Mildura,medium_airport,MQL,-34.229198455799995,142.085998535,AU
 Launceston,medium_airport,LST,-41.54529953,147.214004517,AU
 Melbourne,medium_airport,MBW,-37.975799560546875,145.1020050048828,AU
@@ -3905,18 +2992,13 @@ Melbourne,large_airport,MEL,-37.673302,144.843002,AU
 Moree,medium_airport,MRZ,-29.498899459799997,149.845001221,AU
 Moranbah,medium_airport,MOV,-22.057800293,148.07699585,AU
 Moruya,medium_airport,MYA,-35.8978004456,150.143997192,AU
-,small_airport,ONG,-16.662500381469727,139.17799377441406,AU
-Maryborough,small_airport,MBH,-25.513528,152.713603,AU
 Narrandera,medium_airport,NRA,-34.7022018433,146.511993408,AU
 Narrabri,medium_airport,NAA,-30.3192005157,149.82699585,AU
-Bamaga,small_airport,ABM,-10.946194,142.455081,AU
 Yantai,large_airport,YNT,37.659724,120.978124,CN
 Normanton,medium_airport,NTN,-17.68409,141.069664,AU
 Newman,medium_airport,ZNE,-23.417800903299998,119.803001404,AU
-Olympic Dam,small_airport,OLP,-30.485000610399997,136.876998901,AU
 Adelaide,large_airport,ADL,-34.947512,138.533393,AU
 ,medium_airport,PUG,-32.506900787353516,137.7169952392578,AU
-,small_airport,PMK,-18.755300521850586,146.58099365234375,AU
 Paraburdoo,medium_airport,PBO,-23.1711006165,117.745002747,AU
 West Island,medium_airport,CCK,-12.19134,96.833696,CC
 Nhulunbuy,medium_airport,GOV,-12.269399642899998,136.817993164,AU
@@ -3926,27 +3008,19 @@ Parkes,medium_airport,PKE,-33.131401062,148.238998413,AU
 Kununurra,medium_airport,KNX,-15.7781,128.707993,AU
 Port Lincoln,medium_airport,PLO,-34.6053009033,135.880004883,AU
 Exmouth,medium_airport,LEA,-22.235201,114.090024,AU
-Mount Eba,small_airport,PXH,-29.716,135.5244,AU
-Pormpuraaw,small_airport,EDR,-14.896451,141.60908,AU
 Port Macquarie,medium_airport,PQQ,-31.4358005524,152.863006592,AU
 ,medium_airport,PTJ,-38.31809997558594,141.4709930419922,AU
 Port Hedland,medium_airport,PHE,-20.3777999878,118.625999451,AU
 Perth,large_airport,PER,-31.94029998779297,115.96700286865234,AU
-Woomera,small_airport,UMR,-31.14419937133789,136.81700134277344,AU
 Flying Fish Cove,medium_airport,XCH,-10.449382,105.690931,CX
 ,medium_airport,ULP,-26.612199783325195,144.2530059814453,AU
-,small_airport,RCM,-20.701900482177734,143.11500549316406,AU
-,small_airport,RAM,-12.356399536132812,134.8979949951172,AU
 Roma,medium_airport,RMA,-26.545000076300003,148.774993896,AU
 Canberra,medium_airport,CBR,-35.3069,149.195007,AU
 Dubbo,medium_airport,DBO,-32.2167015076,148.574996948,AU
-,small_airport,SGO,-28.049699783325195,148.59500122070312,AU
 Denham,medium_airport,MJK,-25.897294,113.575802,AU
 Albion Park Rail,medium_airport,WOL,-34.5611,150.789001,AU
-Saibai Island,small_airport,SBR,-9.378330230710002,142.625,AU
 Milikapiti,medium_airport,SNB,-11.417674,130.648481,AU
 Burnt Pine,medium_airport,NLK,-29.041887,167.939616,NF
-,small_airport,SRN,-42.154998779296875,145.29200744628906,AU
 Sydney,large_airport,SYD,-33.94609832763672,151.177001953125,AU
 Tamworth,medium_airport,TMW,-31.077898,150.845484,AU
 Wagga Wagga,medium_airport,WGA,-35.163484,147.46832,AU
@@ -3954,8 +3028,6 @@ Thargomindah,medium_airport,XTG,-27.986368,143.812065,AU
 Biloela,medium_airport,THG,-24.494863,150.577967,AU
 Tennant Creek,medium_airport,TCA,-19.6343994140625,134.18299865722656,AU
 Taree,medium_airport,TRO,-31.8885993958,152.514007568,AU
-,small_airport,VCD,-16.402124404907227,131.00497436523438,AU
-Sue Islet,small_airport,SYU,-10.20829963684082,142.8249969482422,AU
 ,medium_airport,WNR,-25.41309928894043,142.66700744628906,AU
 Whyalla,medium_airport,WYA,-33.05889892578125,137.51400756835938,AU
 Williamtown,medium_airport,NTL,-32.79499816894531,151.83399963378906,AU
@@ -3963,18 +3035,12 @@ Williamtown,medium_airport,NTL,-32.79499816894531,151.83399963378906,AU
 ,medium_airport,WIN,-22.36359977722168,143.08599853515625,AU
 Burnie,medium_airport,BWT,-40.997039,145.726,AU
 Yueyang (Yueyanglou),medium_airport,YYA,29.311699,113.281574,CN
-Yorke Island,small_airport,OKR,-9.752801,143.405673,AU
-Yam Island,small_airport,XMY,-9.899187,142.774265,AU
-Akiachak,small_airport,KKI,60.904800415039,-161.42199707031,US
-Birch Creek,small_airport,KBC,66.2740020752,-145.824005127,US
 Beijing,large_airport,PEK,40.080101013183594,116.58499908447266,CN
 Beijing,large_airport,PKX,39.509945,116.41092,CN
 Chengde,medium_airport,CDE,41.1225,118.073889,CN
 Chifeng,medium_airport,CIF,42.157708,118.839455,CN
-Changzhi,small_airport,CIH,36.247501,113.125999,CN
 Qinhuangdao,medium_airport,BPE,39.666389,119.058889,CN
 Ordos,medium_airport,DSN,39.49,109.861388889,CN
-Datong,small_airport,DAT,40.061614,113.480032,CN
 Erenhot,medium_airport,ERL,43.4225,112.096667,CN
 Arxan,medium_airport,YIE,47.3106,119.9117,CN
 Handan,medium_airport,HDG,36.525833,114.425556,CN
@@ -3989,28 +3055,18 @@ Shijiazhuang,medium_airport,SJW,38.280701,114.696999,CN
 Tianjin,large_airport,TSN,39.124401092499994,117.346000671,CN
 Tongliao,medium_airport,TGO,43.556702,122.199997,CN
 Ulanqab,medium_airport,UCB,41.130266,113.107274,CN
-Wuhai,small_airport,WUA,39.7934,106.7993,CN
-Ulanhot,small_airport,HLH,46.195333,122.008333,CN
 Xilinhot,medium_airport,XIL,43.91559982299805,115.96399688720703,CN
-Xinzhou,small_airport,WUT,38.597456,112.969173,CN
-Yuncheng (Yanhu),small_airport,YCU,35.116391,111.031389,CN
 Taiyuan,large_airport,TYN,37.746899,112.627998,CN
 Bavannur,medium_airport,RLK,40.926,107.7428,CN
 Zhalantun,medium_airport,NZL,47.865942,122.768662,CN
-Delma Island,small_airport,ZDY,24.51,52.3352,AE
-Beihai (Yinhai),small_airport,BHY,21.5394,109.293999,CN
 Changde (Dingcheng),medium_airport,CGD,28.9189,111.639999,CN
 Huaihua,medium_airport,HJJ,27.443087,109.704666,CN
 Chenzhou,medium_airport,HCZ,25.753419,112.845404,CN
-Zhangjiajie (Yongding),small_airport,DYG,29.1028,110.443001,CN
 Guangzhou (Huadu),large_airport,CAN,23.392401,113.299004,CN
 Changsha (Changsha),large_airport,CSX,28.189199,113.220001,CN
 Hechi (Jinchengjiang),medium_airport,HCJ,24.804344,107.710819,CN
-Shihezi,small_airport,SHF,44.2421,85.8905,CN
-Hengyang,small_airport,HNY,26.72208,112.617958,CN
 Guilin (Lingui),large_airport,KWL,25.219828,110.039553,CN
 Yongzhou,medium_airport,LLF,26.338661,111.610043,CN
-Meizhou (Meixian),small_airport,MXZ,24.263425,116.097857,CN
 Nanning (Jiangnan),large_airport,NNG,22.608299,108.171997,CN
 Jieyang (Rongcheng),medium_airport,SWA,23.552,116.5033,CN
 Zhuhai (Jinwan),medium_airport,ZUH,22.006399,113.375999,CN
@@ -4018,13 +3074,11 @@ Shaoyang (Wugang),medium_airport,WGN,26.806123,110.641042,CN
 Shenzhen (Bao'an),large_airport,SZX,22.639299,113.810997,CN
 Yùlín,medium_airport,YLX,22.438056,110.120833,CN
 Liuzhou (Liujiang),medium_airport,LZH,24.2075,109.390999,CN
-Zhanjiang (Xiashan),closed,,21.21469,110.358406,CN
 Zhengzhou,large_airport,CGO,34.526497,113.849165,CN
 Enshi (Enshi),medium_airport,ENH,30.320299,109.485001,CN
 Wuhan (Huangpi),large_airport,WUH,30.774798,114.213723,CN
 Jingzhou (Shashi),medium_airport,SHS,30.29281,112.44854,CN
 Luoyang (Laocheng),medium_airport,LYA,34.7411,112.388,CN
-Nanyang (Wancheng),small_airport,NNY,32.982696,112.617467,CN
 Shennongjia (Hongping),medium_airport,HPG,31.626,110.34,CN
 Shiyan (Maojian),medium_airport,WDS,32.592889,110.906296,CN
 Xiangyang (Xiangzhou),medium_airport,XFN,32.152222,112.291666,CN
@@ -4033,38 +3087,29 @@ Herschel Island (Yukon Territory),medium_airport,ZHH,69.548229,-139.091608,CA
 Haikou (Meilan),large_airport,HAK,19.9349,110.459,CN
 Qionghai (Basuo),medium_airport,BAR,19.140951,110.452766,CN
 Sanya (Tianya),large_airport,SYX,18.3029,109.412003,CN
-Sansha (Yongxing Dao / Woody Island),small_airport,XYI,16.8328,112.344002,CN
 Pyongyang,medium_airport,FNJ,39.224098,125.669998,KP
 Sŏndŏng-ni,medium_airport,DSO,39.745201,127.473999,KP
 Wonsan,medium_airport,WOS,39.166801,127.486,KP
-Ankang (Hanbin),small_airport,AKA,32.75696,108.87338,CN
 Dunhuang,medium_airport,DNH,40.161098,94.809196,CN
-Delingha,small_airport,HXD,37.125286,97.268658,CN
 Golmud,medium_airport,GOQ,36.4006,94.786102,CN
 Mengnai,medium_airport,HTT,38.201645,90.837843,CN
-Hanzhong (Chenggu),small_airport,HZG,33.133527,107.203817,CN
 Yinchuan,medium_airport,INC,38.322758,106.393214,CN
 Jining,medium_airport,JNG,35.292778,116.346667,CN
-Jiayuguan,small_airport,JGN,39.856899,98.3414,CN
 Lanzhou (Yongdeng),large_airport,LHW,36.515202,103.620003,CN
 Longnan (Cheng),medium_airport,LNL,33.789918,105.790014,CN
 Qingyang (Xifeng),medium_airport,IQN,35.802638,107.598896,CN
 Gannan (Xiahe),medium_airport,GXH,34.819014,102.622261,CN
 Haidong (Huzhu Tu Autonomous County),medium_airport,XNN,36.528295,102.040157,CN
 Xianyang (Weicheng),large_airport,XIY,34.447102,108.751999,CN
-Yulin,small_airport,UYN,38.35971,109.590927,CN
 Zhongwei (Shapotou),medium_airport,ZHY,37.573125,105.154454,CN
 Arvaikheer,medium_airport,AVK,46.250301361083984,102.802001953125,MN
 Altai,medium_airport,LTI,46.376399993896484,96.22109985351562,MN
 Bayankhongor,medium_airport,BYN,46.163299560546875,100.7040023803711,MN
 Bulgan,medium_airport,UGA,48.85499954223633,103.47599792480469,MN
 Ulaanbaatar (Sergelen),large_airport,UBN,47.646916,106.819833,MN
-Uliastai,small_airport,ULZ,47.7093,96.5258,MN
 "Dalanzadgad, Ömnögovi",medium_airport,DLZ,43.608628,104.367734,MN
 Khovd,medium_airport,HVD,47.9541015625,91.6281967163086,MN
 Mörön,medium_airport,MXV,49.663299560546875,100.0989990234375,MN
-Ulaangom,small_airport,ULO,50.066588,91.938273,MN
-Ölgii,small_airport,ULG,48.993301,89.922501,MN
 Lincang (Cangyuan),medium_airport,CWJ,23.276331,99.373169,CN
 Dali (Xiaguan),medium_airport,DLU,25.649401,100.319,CN
 Diqing (Shangri-La),medium_airport,DIG,27.7936,99.6772,CN
@@ -4073,24 +3118,18 @@ Pu'er (Lancang),medium_airport,JMJ,22.417733,99.784012,CN
 Lijiang (Gucheng),medium_airport,LJG,26.68,100.246002,CN
 Dehong (Mangshi),medium_airport,LUM,24.4011,98.5317,CN
 Kunming,large_airport,KMG,25.110313,102.936743,CN
-Pu'er,small_airport,SYM,22.793301,100.959,CN
-Wenshan,small_airport,WNH,23.5583,104.3255,CN
-Zhaotong (Zhaoyang),small_airport,ZAT,27.327549,103.75617,CN
 Xiamen,large_airport,XMN,24.54400062561035,118.12799835205078,CN
 Anqing,medium_airport,AQG,30.582199,117.050003,CN
 Changzhou,medium_airport,CZX,31.919701,119.778999,CN
 Nanchang,large_airport,KHN,28.864815,115.90271,CN
 "Yingzhou, Fuyang",medium_airport,FUG,32.882157,115.734364,CN
-Ganzhou,small_airport,KOW,25.853333,114.778889,CN
 Hangzhou,large_airport,HGH,30.23609,120.428865,CN
 Heze,medium_airport,HZA,35.212972,115.736748,CN
 Jingdezhen,medium_airport,JDZ,29.3386,117.176003,CN
-Jiujiang,small_airport,JIU,29.476944,115.801111,CN
 Jinan,large_airport,TNA,36.857201,117.216003,CN
 Quzhou,medium_airport,JUZ,28.965799,118.899002,CN
 Longyan,medium_airport,LCX,25.6746997833,116.747001648,CN
 Huangyan,medium_airport,HYN,28.562201,121.429001,CN
-Linyi,small_airport,LYI,35.052918,118.411828,CN
 Ningbo,large_airport,NGB,29.82670021057129,121.46199798583984,CN
 Nanjing,large_airport,NKG,31.735032,118.865949,CN
 Hefei,medium_airport,HFE,31.98779,116.9769,CN
@@ -4109,26 +3148,21 @@ Yangzhou,medium_airport,YTY,32.5634,119.7198,CN
 Yichun,medium_airport,YIC,27.8025,114.3062,CN
 Yancheng,medium_airport,YNZ,33.425833,120.203056,CN
 Yiwu,medium_airport,YIW,29.3446998596,120.031997681,CN
-Zhoushan,small_airport,HSN,29.9342,122.362,CN
 Shiquanhe,medium_airport,NGQ,32.1,80.053056,CN
 Anshun (Xixiu),medium_airport,AVA,26.260556,105.873333,CN
 Bangda,medium_airport,BPX,30.553600311279297,97.1082992553711,CN
 Bijie,medium_airport,BFJ,27.267066,105.472097,CN
 Chongqing,large_airport,CKG,29.712254,106.651895,CN
 Garzê (Daocheng),medium_airport,DCY,29.31632,100.060317,CN
-Dazhou (Daxian),small_airport,DAX,31.1302,107.4295,CN
 Guangyuan (Lizhou),medium_airport,GYS,32.390254,105.694571,CN
 Guiyang (Nanming),large_airport,KWE,26.541466,106.803331,CN
-Garzê (Garzê),small_airport,GZG,31.7575,99.554167,CN
 Ngawa (Songpan),medium_airport,JZH,32.853333,103.682222,CN
 Garzê (Kangding),medium_airport,KGT,30.142464,101.73872,CN
 Kaili  (Huangping),medium_airport,KJH,26.972,107.988,CN
-Qiannan (Libo),small_airport,LLB,25.4525,107.961667,CN
 Shannan (Gonggar),medium_airport,LXA,29.298001,90.911951,CN
 Luzhou (Yunlong),medium_airport,LZO,29.030357,105.468407,CN
 Zunyi,medium_airport,WMT,27.81638,106.33268,CN
 Mianyang (Fucheng),medium_airport,MIG,31.428101,104.740997,CN
-Nanchong (Gaoping),small_airport,NAO,30.798104,106.16415,CN
 Liping,medium_airport,HZH,26.32217,109.1499,CN
 Nyingchi (Mainling),medium_airport,LZY,29.303301,94.335297,CN
 Liupanshui (Zhongshan),medium_airport,LPF,26.609417,104.979,CN
@@ -4137,31 +3171,23 @@ Chengdu (Jianyang),large_airport,TFU,30.31252,104.441284,CN
 Tongren (Daxing),medium_airport,TEN,27.883333,109.308889,CN
 Chengdu (Shuangliu),large_airport,CTU,30.558257,103.945966,CN
 Wulong,medium_airport,CQW,29.465658,107.693664,CN
-Wushan,small_airport,WSK,31.06896,109.708958,CN
-Wanzhou,small_airport,WXN,30.8017,108.433,CN
 Liangshan (Xichang),medium_airport,XIC,27.9891,102.183998,CN
 Xingyi,medium_airport,ACX,25.083423,104.960804,CN
 Zunyi,medium_airport,ZYI,27.5895,107.0007,CN
 Aksu (Onsu),medium_airport,AKU,41.262501,80.291702,CN
-Aral,small_airport,ACF,40.464167,81.246944,CN
 Bole,medium_airport,BPL,44.895461,82.30007,CN
 Qiemo,medium_airport,IQM,38.234516,85.465462,CN
 Fuyun,medium_airport,FYN,46.804169,89.512006,CN
 Hami,medium_airport,HMI,42.8414,93.669197,CN
-Kuqa,small_airport,KCA,41.677856,82.872917,CN
 Korla,medium_airport,KRL,41.6978,86.128899,CN
-Karamay,small_airport,KRY,45.46655,84.9527,CN
 Burqin,medium_airport,KJI,48.2223,86.9959,CN
 Xinyuan,medium_airport,NLT,43.4318,83.3786,CN
 Ruoqiang Town,medium_airport,RQA,38.974722,88.008333,CN
 Shache,medium_airport,QSZ,38.24542,77.056149,CN
 Kashgar,medium_airport,KHG,39.5429000854,76.0199966431,CN
-Tacheng,small_airport,TCG,46.672501,83.340797,CN
 Turpan,medium_airport,TLQ,43.0308,89.0987,CN
 Hotan,medium_airport,HTN,37.03850173950195,79.86489868164062,CN
 Ürümqi,large_airport,URC,43.907100677490234,87.47419738769531,CN
-Ili (Yining / Ghulja),small_airport,YIN,43.955799,81.330299,CN
-Hotan (Yutian),small_airport,YTW,36.8085,81.7827,CN
 Anshan,medium_airport,AOG,41.105301,122.853996,CN
 Changchun,large_airport,CGQ,43.996201,125.684998,CN
 "Changhai, Dalian",medium_airport,CNI,39.266667,122.666944,CN
